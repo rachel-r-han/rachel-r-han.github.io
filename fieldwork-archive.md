@@ -1,5 +1,3 @@
-
-
 ---
 title: "Fieldwork Archive"
 layout: single
