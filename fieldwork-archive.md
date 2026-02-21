@@ -7,7 +7,7 @@ sidebar:
   nav: "fieldwork-categories"  
 ---
 
-## I. Spatial Scale & Emotional Distance
+## I. Spatial Scale & Emotional Distance {: #case-1}
 
 ### How Architecture Shapes Intimacy with the Past
 Large memorial spaces often produce solemnity and respect. Yet respect does not necessarily create emotional closeness. Through repeated field visits, I began to notice that spatial scale, layout, and preservation directly influence how visitors relate to historical figures.
@@ -56,7 +56,7 @@ Monumentality can elevate the past beyond reach. Simplicity can reduce distance.
 
 Through repeated visits, I realized that emotional distance is not determined solely by historical importance. It is constructed — physically and symbolically — through space.
 
-## II. Narrative Structure & Affective Direction
+## II. Narrative Structure & Affective Direction{: #case-2}
 
 ### How Exhibition Narratives Guide Emotional Response
 If spatial scale shapes emotional distance, narrative structure shapes emotional direction.
@@ -101,7 +101,7 @@ Across these four narrative models—state-centered, academic, local, and partic
 Some exhibitions clarify meaning and guide admiration. Others suspend emotion to foreground knowledge. Local memorials sustain feeling through continuity. Interactive spaces intensify emotion through projection.
 If spatial scale constructs distance, narrative structure guides orientation. Together, they determine not only how we see the past, but how we are invited to feel about it.
 
-## III. Material Proximity & Tactile Imagination
+## III. Material Proximity & Tactile Imagination{: #case-3}
 
 ### How Objects Mediate Touch and Historical Presence
 If space constructs distance and narrative guides direction, materiality mediates touch — a more primary form of perception.
@@ -146,7 +146,7 @@ Each mode carries trade-offs. Isolation strengthens aura but restricts sensory e
 Material history is therefore not simply preserved; it is continuously negotiated. Our closeness to the past is never a straightforward arrival. It is shaped through mediation — between seeing and touching, authenticity and reproduction, permanence and change.
 Perhaps this is the central insight materiality offers: historical intimacy is not a single act of contact, but an ongoing negotiation between present hands and inherited matter.
 
-## IV. Participatory Memory & Youth Agency
+## IV. Participatory Memory & Youth Agency{: #case-4}
 ### How a New Generation Builds Connection with the Past
 If space constructs distance, narrative guides direction, and material mediates touch, participation activates agency. Young people today are no longer only receivers of historical memory; they increasingly become active interpreters and reshapers of it.
 Through social media, immersive experiences, and community practices, a new generation is building connections with the past in ways that are personal, embodied, and sometimes unexpected.
