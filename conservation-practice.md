@@ -1,7 +1,6 @@
 ---
-title: "conservation practice"
+title: "Heritage Practice"
 layout: single
-permalink: /conservation-practice/
+permalink: /heritage-practice/
 toc: false
 ---
-...
