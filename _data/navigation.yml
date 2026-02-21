@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Research Framework"
+    url: /research-framework/
+  - title: "Fieldwork Archive"
+    url: /fieldwork-archive/
+  - title: "Conservation Practice"
+    url: /conservation-practice/
+  - title: "Contemporary Cultural Practice"
+    url: /contemporary-cultural-practice/
+  - title: "Methodology & Reflection"
+    url: /methodology-reflection/
