@@ -1,7 +1,7 @@
 ---
 title: "conservation practice"
 layout: single
-permalink: /fieldwork-archive/
+permalink: /conservation-practice/
 toc: false
 ---
 ...
