@@ -2,8 +2,10 @@
 title: "Fieldwork Archive"
 layout: single
 permalink: /fieldwork-archive/
-toc: true
-toc_sticky: true
+toc: false          # 关闭右侧的自动目录
+sidebar:
+  - toc: true       # 在左侧边栏显示自动目录
+    toc_sticky: true
 ---
 
 ## I. Spatial Scale & Emotional Distance
