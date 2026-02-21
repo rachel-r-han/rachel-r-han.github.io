@@ -3,9 +3,9 @@ markdown
 title: "Fieldwork Archive"
 layout: single
 permalink: /fieldwork-archive/
-toc: true
-sidebar: true 
 ---
+
+
 
 ## I. Spatial Scale & Emotional Distance
 
