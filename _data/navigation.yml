@@ -9,3 +9,7 @@ main:
     url: /cultural-practice/
   - title: "Methodology & Reflection"
     url: /methodology-reflection/
+    
+fieldwork-categories:
+  - title: "I. Spatial Scale & Emotional Distance"
+  - title: "II. Narrative Structure & Affective Direction"
