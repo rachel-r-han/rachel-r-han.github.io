@@ -7,6 +7,8 @@ sidebar:
   nav: "fieldwork-categories"  
 ---
 
+<div id="top"></div>
+
 <h2 id="case-1">I. Spatial Scale & Emotional Distance</h2>
 
 ### How Architecture Shapes Intimacy with the Past
