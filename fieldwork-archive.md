@@ -4,7 +4,7 @@ title: "Fieldwork Archive"
 layout: single
 permalink: /fieldwork-archive/
 toc: true
-toc_sticky: true
+sidebar: true 
 ---
 
 ## I. Spatial Scale & Emotional Distance
