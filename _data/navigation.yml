@@ -1,14 +1,12 @@
 main:
   - title: "Home"
     url: /
-  - title: "Fieldwork Archive"
-    url: /fieldwork-archive/
-  - title: "Conservation Practice"
-    url: /conservation-practice/
-  - title: "Cultural Practice"
-    url: /cultural-practice/
-  - title: "Methodology & Reflection"
-    url: /methodology-reflection/
+  - title: "Field Research"
+    url: /field-research/
+  - title: "Heritage Practice"
+    url: /heritage-practice/
+  - title: "Research Reflection"
+    url: /research-reflection/
     
 fieldwork-categories:
   - title: "I. Spatial Scale & Emotional Distance"
