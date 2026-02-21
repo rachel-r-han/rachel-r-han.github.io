@@ -54,3 +54,50 @@ Across these sites, I came to see that emotional intimacy with historical figure
 Monumentality can elevate the past beyond reach. Simplicity can reduce distance. Participation can transform memory into lived practice. Even neglect alters perception, making absence visible.
 
 Through repeated visits, I realized that emotional distance is not determined solely by historical importance. It is constructed — physically and symbolically — through space.
+
+## I. Narrative Structure & Affective Direction
+
+### How Exhibition Narratives Guide Emotional Response
+If spatial scale shapes emotional distance, narrative structure shapes emotional direction.
+ Historical sites do not simply present facts; they organize meaning. Through curatorial design, interpretive framing, and storytelling strategies, exhibitions guide visitors toward particular emotional responses.During my field visits, I began to notice that different narrative models produce distinct affective experiences. Some clarify meaning and direct admiration. Others suspend judgment. Still others allow emotion to grow gradually through local continuity or personal projection.
+
+### 1. State-Centered Narrative
+#### Heroic Focus, Clear Meaning, Directed Emotion
+At the tomb of Zhang Qian in Hanzhong and the Gaoling Mausoleum of Cao Cao in Anyang, both developed under government leadership, narrative clarity is unmistakable.
+Zhang Qian is officially commemorated as the pioneer who opened routes to the Western Regions. His perseverance, diplomatic endurance, and long-term political and economic impact are emphasized throughout the site. When I visited on a rainy afternoon shortly before closing time, the gardens, exhibition halls, and courtyards felt immersive and unified. The atmosphere did not invite ambiguity; it encouraged admiration. The narrative direction was clear: Zhang Qian represents national vision and resilience.
+The Gaoling Mausoleum of Cao Cao presents a more complex figure. Historically controversial, Cao Cao occupies an ambiguous moral position in popular memory. Yet the newly constructed, solemn site reflects a measured and official stance. The broad layout, orderly exhibitions, and emphasis on archaeological discovery suggest institutional authority. I sensed an effort not to romanticize or condemn, but to stabilize historical interpretation. Even here, emotional direction is carefully calibrated.
+In both cases, the state-centered model frames collective memory through structured meaning. Emotional response is guided rather than left open. Visitors are positioned within a shared national narrative.
+
+### 2. Academic Narrative
+
+#### Knowledge-Centered, Structured Context, Suspended Emotion
+A different experience emerges at the Erlitou Site in Henan and the Stele Forest Museum in Xi’an.
+These spaces prioritize archaeological data, historical chronology, and textual explanation. Exhibitions emphasize stratigraphy, artifact classification, and scholarly debate. The visual experience is comparatively restrained. Emotional impact does not arise immediately from atmosphere but from intellectual engagement.
+At Erlitou, I found that my understanding depended heavily on explanatory panels and guided interpretation. Without context, the remains appear fragmentary. Similarly, at the Stele Forest Museum, rows of inscribed stone tablets require patient reading. The space does not guide visitors toward admiration or sorrow; it suspends emotional direction in favor of knowledge acquisition.
+In these academic narrative environments, affect is deferred. Emotion emerges gradually through comprehension rather than through dramatic presentation. The visitor becomes a learner before becoming an admirer.
+
+### 3. Family or Local Narrative
+
+#### Personal Focus, Sustained Emotion, Meaning Through Continuity
+
+The tomb of Zhou Yu in Lujiang, Anhui, presents yet another narrative structure.
+Although the tomb is widely believed to be a symbolic burial site, it is carefully preserved and regularly maintained. Surrounding commercial streets and modern entertainment venues create a striking contrast. Just outside the walls, noise and activity dominate. Inside, the Huizhou-style courtyards remain quiet and orderly.
+I have visited Zhou Yu’s tomb four times. Each time, I noticed careful restoration and a consistent atmosphere of respect. The site includes a small archive of family history and local documentation, where I once purchased a detailed regional gazetteer and a biography of Zhou Yu. Here, meaning is not imposed through monumental design but sustained through local remembrance.
+The narrative is personal rather than national. Emotion grows through repetition, familiarity, and community care. Instead of directing a single interpretation, the space allows admiration to deepen through continuity.
+
+### 4. Visitor-Centered Narrative
+
+#### Participatory Focus, Open Meaning, Emotion Through Projection
+
+At the Chibi Site Park and its historical museum, narrative shifts toward immersive participation.
+The exhibition uses multimedia technologies—interactive screens, panoramic projections, and sound effects—to recreate the famous Battle of Red Cliffs. Visitors engage directly with digital simulations and reconstructed battle scenes. Standing near the actual landscape associated with the event, and then entering an artificially intensified audiovisual environment, I felt as though the historical fire was momentarily reanimated.
+Here, emotion is not dictated solely by text panels or architectural solemnity. It is amplified through sensory immersion. Visitors project themselves into the narrative. Meaning remains open-ended but emotionally heightened.
+This visitor-centered model reflects contemporary museology, where engagement becomes central to historical experience. Participation itself becomes a mode of remembering.
+
+### Concluding Reflection
+
+Across these four narrative models—state-centered, academic, local, and participatory—I came to see that emotional direction is never accidental. It is shaped by curatorial intention, institutional authority, and the degree of interpretive openness.
+Some exhibitions clarify meaning and guide admiration. Others suspend emotion to foreground knowledge. Local memorials sustain feeling through continuity. Interactive spaces intensify emotion through projection.
+If spatial scale constructs distance, narrative structure guides orientation. Together, they determine not only how we see the past, but how we are invited to feel about it.
+
+
