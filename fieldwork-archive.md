@@ -1,7 +1,7 @@
 ---
-title: "Fieldwork Archive"
+title: "Field Research"
 layout: single
-permalink: /fieldwork-archive/
+permalink: /field-research/
 toc: false                     
 sidebar:
   nav: "fieldwork-categories"  
