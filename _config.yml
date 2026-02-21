@@ -4,3 +4,17 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"  # 指定版本号可以保证
 # 必须添加的插件，否则构建会失败
 plugins:
   - jekyll-include-cache
+
+# ===== 新增适配项 =====
+# 1. 启用 GitHub Pages 远程主题支持（部署时必需）
+github:
+  repository: 你的用户名/你的仓库名  # 替换成实际值，比如 "octocat/hello-world"
+  branch: main  # 你的仓库主分支，通常是 main 或 master
+
+# 2. 避免 GitHub Pages 内置插件和自定义插件冲突
+plugins_dir:
+  - _plugins
+  - .jekyll-plugins
+
+# 3. 可选：指定 Jekyll 版本，和 Gemfile 对齐
+jekyll_version: ">= 3.7.0"
