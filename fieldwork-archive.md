@@ -5,7 +5,6 @@ layout: single
 permalink: /fieldwork-archive/
 toc: true
 toc_sticky: true
-toc_label: "本页目录"
 ---
 
 ## I. Spatial Scale & Emotional Distance
