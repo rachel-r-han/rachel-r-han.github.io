@@ -1,1 +1,6 @@
-theme: mmistakes/minimal-mistakes
+# 使用远程主题：Minimal Mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"  # 指定版本号可以保证稳定性
+
+# 必须添加的插件，否则构建会失败
+plugins:
+  - jekyll-include-cache
