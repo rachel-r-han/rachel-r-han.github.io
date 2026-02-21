@@ -22,4 +22,6 @@ fieldwork-categories:
   - title: "──────────"   
     url: "#"             
   - title: "Home"      
-    url: "/rachel-r-han.github.io"       
+    url: "/rachel-r-han.github.io" 
+  - title: "↑ Top"
+    url: "#"   
