@@ -7,7 +7,7 @@ sidebar:
   nav: "fieldwork-categories"  
 ---
 
-## I. Spatial Scale & Emotional Distance {: #case-1}
+<h2 id="case-1">I. Spatial Scale & Emotional Distance</h2>
 
 ### How Architecture Shapes Intimacy with the Past
 Large memorial spaces often produce solemnity and respect. Yet respect does not necessarily create emotional closeness. Through repeated field visits, I began to notice that spatial scale, layout, and preservation directly influence how visitors relate to historical figures.
