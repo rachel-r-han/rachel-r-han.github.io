@@ -63,6 +63,7 @@ If spatial scale shapes emotional distance, narrative structure shapes emotional
  Historical sites do not simply present facts; they organize meaning. Through curatorial design, interpretive framing, and storytelling strategies, exhibitions guide visitors toward particular emotional responses.During my field visits, I began to notice that different narrative models produce distinct affective experiences. Some clarify meaning and direct admiration. Others suspend judgment. Still others allow emotion to grow gradually through local continuity or personal projection.
 
 ### 1. State-Centered Narrative
+
 #### Heroic Focus, Clear Meaning, Directed Emotion
 At the tomb of Zhang Qian in Hanzhong and the Gaoling Mausoleum of Cao Cao in Anyang, both developed under government leadership, narrative clarity is unmistakable.
 Zhang Qian is officially commemorated as the pioneer who opened routes to the Western Regions. His perseverance, diplomatic endurance, and long-term political and economic impact are emphasized throughout the site. When I visited on a rainy afternoon shortly before closing time, the gardens, exhibition halls, and courtyards felt immersive and unified. The atmosphere did not invite ambiguity; it encouraged admiration. The narrative direction was clear: Zhang Qian represents national vision and resilience.
@@ -101,7 +102,7 @@ Across these four narrative models—state-centered, academic, local, and partic
 Some exhibitions clarify meaning and guide admiration. Others suspend emotion to foreground knowledge. Local memorials sustain feeling through continuity. Interactive spaces intensify emotion through projection.
 If spatial scale constructs distance, narrative structure guides orientation. Together, they determine not only how we see the past, but how we are invited to feel about it.
 
-<h2 id="case-1">III. Material Proximity & Tactile Imagination</h2>
+<h2 id="case-3">III. Material Proximity & Tactile Imagination</h2>
 
 ### How Objects Mediate Touch and Historical Presence
 If space constructs distance and narrative guides direction, materiality mediates touch — a more primary form of perception.
