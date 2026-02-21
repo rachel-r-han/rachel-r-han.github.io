@@ -1,8 +1,4 @@
 main:
-  - title: "Home"
-    url: /
-  - title: "Research Framework"
-    url: /research-framework/
   - title: "Fieldwork Archive"
     url: /fieldwork-archive/
   - title: "Conservation Practice"
