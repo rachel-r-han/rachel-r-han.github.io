@@ -19,3 +19,7 @@ fieldwork-categories:
     url: "/fieldwork-archive/#case-3"
   - title: "IV. Participatory Memory & Youth Agency"
     url: "/fieldwork-archive/#case-4"
+  - title: "──────────"   
+    url: "#"             
+  - title: "Home"      
+    url: "/"       
