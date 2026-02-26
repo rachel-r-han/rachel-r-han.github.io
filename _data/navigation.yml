@@ -22,4 +22,4 @@ fieldwork-categories:
   - title: "Home"
     url: "/"
   - title: "Top"
-    url: "#top"
+    url: "#"
