@@ -3,8 +3,14 @@ title: "Heritage Practice"
 layout: single
 permalink: /heritage-practice/
 toc: false
+sidebar:
+  nav: "heritage-categories"
 ---
-### Artifact Conservation Practice
+### From Observation to Practice
+
+While Field Research examines how memorial spaces shape experience, Heritage Practice reflects how I participate in those processes directly — through conservation work and contemporary cultural engagement.
+
+<h2 id="conservation">Artifact Conservation Practice</h2>
 
 During my sixty-hour internship in an artifact conservation studio, I began to understand history not only as narrative, but as material resistance. The weight of a bronze vessel, the fragility of lacquer, the fissures in porcelain — these were not symbols, but surfaces carrying time.
 
@@ -12,7 +18,7 @@ Touching an artifact felt like walking beside those who lived before us. Yet I g
 
 Conservation does not merely save history. It shapes it — through careful choices about visibility, stability, and interpretation. The intimacy I felt was real, but it was always mediated through layers of professional judgment and institutional responsibility.
 
-### Contemporary Youth Engagement as Cultural Practice
+<h2 id="engagement">Contemporary Cultural Engagement</h2>
 
 In recent years, cultural heritage has increasingly become part of youth lifestyle rather than passive education. Young people engage with history through digital media, immersive exhibitions, field visits, and community activities.
 
