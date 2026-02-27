@@ -23,3 +23,15 @@ fieldwork-categories:
     url: "/"
   - title: "Top"
     url: "#"
+
+heritage-categories:
+  - title: "Artifact Conservation Practice"
+    url: "/heritage-practice/#conservation"
+  - title: "Contemporary Cultural Engagement"
+    url: "/heritage-practice/#engagement"
+  - title: "──────────"
+    url: "#"
+  - title: "Home"
+    url: "/"
+  - title: "Top"
+    url: "#"
