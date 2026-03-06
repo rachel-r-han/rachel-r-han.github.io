@@ -24,6 +24,11 @@ Rather than simply containing memory, space seems to shape how distance or intim
 
 The long approach toward the burial mound is lined with pine and cypress trees. Stone slabs extend forward in alternating light and shadow, slowing movement.
 
+<div style="display:flex; gap:20px; margin:30px 0;">
+  <img src="/assets/images/qin-mausoleum-1.jpg" style="width:50%; border-radius:6px;">
+  <img src="/assets/images/qin-mausoleum-2.jpg" style="width:50%; border-radius:6px;">
+</div>
+
 As I walked, my pace unconsciously adjusted. The emperor felt powerful yet unreachable. Awe accumulated gradually through distance. I began to sense that architecture guides emotion step by step — allowing reverence to build while maintaining separation.
 
 ---
