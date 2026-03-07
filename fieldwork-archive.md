@@ -29,6 +29,12 @@ The long approach toward the burial mound is lined with pine and cypress trees. 
   <img src="/assets/images/qin-mausoleum-2.jpg" style="width:50%; border-radius:6px;">
 </div>
 
+<p style="font-size:0.9em; color:#666; margin-top:-10px;">
+Field Note | I have visited the Mausoleum of Qin Shi Huang six times. 
+Rain deepens the solemn atmosphere of the site. 
+Photograph taken in September 2023.
+</p>
+
 As I walked, my pace unconsciously adjusted. The emperor felt powerful yet unreachable. Awe accumulated gradually through distance. I began to sense that architecture guides emotion step by step — allowing reverence to build while maintaining separation.
 
 ---
