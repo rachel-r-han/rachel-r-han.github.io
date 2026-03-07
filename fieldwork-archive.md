@@ -30,7 +30,7 @@ The long approach toward the burial mound is lined with pine and cypress trees. 
 </div>
 
 <p style="font-size:0.9em; color:#666; margin-top:20px; font-style:italic;">
-Field Note — I have visited the Mausoleum of Qin Shi Huang six times. 
+Field Note | I have visited the Mausoleum of Qin Shi Huang six times. 
 On rainy days, the site becomes even more solemn and quiet. 
 Photograph taken in September 2023.
 </p>
