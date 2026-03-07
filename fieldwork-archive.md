@@ -33,7 +33,7 @@ The long approach toward the burial mound is lined with pine and cypress trees. 
 Field Note — I have visited the Mausoleum of Qin Shi Huang six times. 
 On rainy days, the site becomes even more solemn and quiet. 
 Photograph taken in September 2023.
-</p>>
+</p>
 
 As I walked, my pace unconsciously adjusted. The emperor felt powerful yet unreachable. Awe accumulated gradually through distance. I began to sense that architecture guides emotion step by step — allowing reverence to build while maintaining separation.
 
