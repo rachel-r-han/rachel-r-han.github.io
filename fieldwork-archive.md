@@ -10,8 +10,6 @@ sidebar:
 <div id="top"></div>
 
 
-# Field Research
-
 ## Exploring How Heritage Spaces Shape Historical Memory
 
 
