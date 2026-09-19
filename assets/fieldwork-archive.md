@@ -22,7 +22,7 @@ Rather than treating these places simply as destinations, I approach them as **f
 <div style="
 display:grid;
 grid-template-columns:repeat(auto-fit,minmax(180px,1fr));
-gap:25px;
+gap:35px;
 margin:40px 0;
 ">
 
@@ -46,12 +46,13 @@ margin:40px 0;
 
 
 <div>
-<h2>5</h2>
-<p>Field Research Themes</p>
+<h2>4</h2>
+<p>Research Themes</p>
 </div>
 
 
 </div>
+
 
 
 ---
@@ -60,33 +61,30 @@ margin:40px 0;
 # Explore the Archive
 
 
+
 <div style="
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
-gap:25px;
-margin:35px 0;
+margin:40px 0;
 ">
 
 
 <div style="
-border:1px solid #ddd;
-padding:25px;
-border-radius:10px;
+padding:25px 0;
+border-top:1px solid #999;
 ">
 
 
 <h3>
-🗺 Interactive Map
+01. Interactive Map
 </h3>
 
 
 <p>
-Explore the geographical distribution of heritage sites documented through field research.
+Geographic visualization of heritage sites documented through longitudinal field research.
 </p>
 
 
 <a href="/fieldwork-map/">
-Open Map →
+View Map →
 </a>
 
 
@@ -94,20 +92,20 @@ Open Map →
 
 
 
+
 <div style="
-border:1px solid #ddd;
-padding:25px;
-border-radius:10px;
+padding:25px 0;
+border-top:1px solid #ddd;
 ">
 
 
 <h3>
-📚 Research Framework
+02. Research Framework
 </h3>
 
 
 <p>
-Understand how these sites are analyzed through space, narrative, materiality, and participation.
+Explore how heritage sites are analyzed through space, narrative, materiality, and participation.
 </p>
 
 
@@ -117,6 +115,7 @@ Explore Research →
 
 
 </div>
+
 
 
 </div>
@@ -129,69 +128,117 @@ Explore Research →
 # Research Framework
 
 
-The archive is organized through interconnected research perspectives:
+The archive is organized through four interconnected research perspectives.
 
 
 <div style="
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
-gap:20px;
+margin:40px 0;
 ">
 
 
-<div>
+<div style="
+padding:20px 0;
+border-top:1px solid #999;
+">
+
 
 <h3>
-01. Spatial Scale
+01. Spatial Scale & Emotional Distance
 </h3>
 
+
 <p>
-How architecture and spatial organization influence emotional distance.
+How does physical space influence emotional relationships with historical places?
 </p>
+
+
+<a href="/research-spatial-scale/">
+Explore Research →
+</a>
+
 
 </div>
 
 
 
-<div>
+
+<div style="
+padding:20px 0;
+border-top:1px solid #ddd;
+">
+
 
 <h3>
-02. Narrative Structure
+02. Narrative Structure & Emotional Orientation
 </h3>
 
+
 <p>
-How exhibitions and storytelling guide historical interpretation.
+How do museums and memorial spaces guide historical interpretation?
 </p>
+
+
+<a href="/research-narrative/">
+Explore Research →
+</a>
+
 
 </div>
 
 
 
-<div>
+
+
+<div style="
+padding:20px 0;
+border-top:1px solid #ddd;
+">
+
 
 <h3>
-03. Material Proximity
+03. Material Proximity & Tactile Imagination
 </h3>
 
+
 <p>
-How objects, replicas, and conservation practices create connections with the past.
+How do artifacts, replicas, and conservation practices create connections with the past?
 </p>
+
+
+<a href="/research-material/">
+Explore Research →
+</a>
+
 
 </div>
 
 
 
-<div>
+
+
+<div style="
+padding:20px 0;
+border-top:1px solid #ddd;
+">
+
 
 <h3>
-04. Participatory Memory
+04. Participatory Memory & Youth Agency
 </h3>
 
+
 <p>
-How communities and younger generations continue historical memory.
+How do younger generations reinterpret and continue historical memory?
 </p>
 
+
+<a href="/research-participation/">
+Explore Research →
+</a>
+
+
 </div>
+
 
 
 </div>
@@ -215,6 +262,7 @@ Category
 
 <select id="fieldwork-category">
 
+
 <option value="">
 All categories
 </option>
@@ -222,14 +270,17 @@ All categories
 
 {% for category in site.data.fieldwork.categories %}
 
+
 <option value="{{ category }}">
 {{ category }}
 </option>
+
 
 {% endfor %}
 
 
 </select>
+
 
 
 
@@ -247,10 +298,13 @@ All periods
 </option>
 
 
+
 {% assign periods = site.data.fieldwork.sites | map: "period" | flatten | uniq | sort %}
 
 
+
 {% for period in periods %}
+
 
 <option value="{{ period }}">
 {{ period }}
@@ -258,6 +312,7 @@ All periods
 
 
 {% endfor %}
+
 
 
 </select>
@@ -271,12 +326,14 @@ Research Lens
 </label>
 
 
+
 <select id="fieldwork-lens">
 
 
 <option value="">
 All lenses
 </option>
+
 
 
 {% for lens in site.data.fieldwork.research_lenses %}
@@ -290,6 +347,7 @@ All lenses
 {% endfor %}
 
 
+
 </select>
 
 
@@ -298,17 +356,20 @@ All lenses
 
 
 
+
 <div id="fieldwork-count" class="fieldwork-count">
 
+
 Showing {{ site.data.fieldwork.sites | size }} sites
+
 
 </div>
 
 
 
 
-<div class="fieldwork-grid" id="fieldwork-grid">
 
+<div class="fieldwork-grid" id="fieldwork-grid">
 
 
 {% for item in site.data.fieldwork.sites %}
@@ -348,6 +409,7 @@ data-lenses="{{ item.research_lens | join: '|' | escape }}">
 </span>
 
 {% endif %}
+
 
 
 </div>
@@ -396,6 +458,7 @@ data-lenses="{{ item.research_lens | join: '|' | escape }}">
 
 
 
+
 {% if item.field_research.years.size > 0 %}
 
 
@@ -404,6 +467,7 @@ data-lenses="{{ item.research_lens | join: '|' | escape }}">
 Visited:
 {{ item.field_research.years | join: ", " }}
 
+
 </p>
 
 
@@ -411,7 +475,9 @@ Visited:
 
 
 
+
 </article>
+
 
 
 {% endfor %}
@@ -462,6 +528,7 @@ let visible = 0;
 cards.forEach(card => {
 
 
+
 const okCategory =
 !category.value ||
 card.dataset.category === category.value;
@@ -493,8 +560,11 @@ card.hidden =
 
 
 if(show){
+
 visible++;
+
 }
+
 
 
 });
@@ -503,6 +573,7 @@ visible++;
 
 count.textContent =
 `Showing ${visible} site${visible === 1 ? "" : "s"}`;
+
 
 
 }
@@ -515,6 +586,7 @@ select.addEventListener(
 "change",
 filterSites
 ));
+
 
 
 });
