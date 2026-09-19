@@ -7,16 +7,20 @@ sidebar:
   nav: "fieldwork-categories"
 ---
 
+
 <div id="top"></div>
+
+
+# Field Research
 
 
 ## Exploring How Heritage Spaces Shape Historical Memory
 
 
-Through longitudinal fieldwork across China, I documented historical and cultural sites to examine how space, narrative, material objects, and public participation influence the ways people encounter the past.
+Through longitudinal fieldwork across China, I document historical and cultural sites to examine how space, narrative, material objects, and public participation shape the ways people encounter the past.
 
 
-Rather than viewing heritage sites as static monuments, this research explores how historical places continue to shape memory, identity, and emotional connections across generations.
+Rather than treating heritage sites as simple destinations, this research approaches them as spaces where historical memory is constructed, experienced, and continuously reinterpreted.
 
 
 ---
@@ -24,102 +28,47 @@ Rather than viewing heritage sites as static monuments, this research explores h
 # Fieldwork Archive
 
 
-This archive documents my visits to historical and cultural heritage sites across China.
+## 75 Heritage Sites Across China
 
 
-The project currently includes:
+This archive documents my field visits to:
 
-<div style="
-display:flex;
-gap:40px;
-margin:30px 0;
-flex-wrap:wrap;
-">
-
-
-<div>
-
-<h2>75</h2>
-
-<p>Heritage Sites</p>
-
-</div>
+- historical sites
+- museums
+- memorial spaces
+- religious sites
+- architectural heritage
+- cultural landscapes
 
 
-<div>
-
-<h2>20+</h2>
-
-<p>Cities Across China</p>
-
-</div>
-
-
-<div>
-
-<h2>4</h2>
-
-<p>Research Perspectives</p>
-
-</div>
-
-
-</div>
-
+The archive explores how different environments influence historical understanding and public engagement.
 
 
 <div style="
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
-gap:25px;
-margin:40px 0;
+margin:35px 0;
+padding:25px 0;
+border-top:1px solid #999;
+border-bottom:1px solid #ddd;
 ">
 
 
-<div style="
-border:1px solid #ddd;
-padding:25px;
-border-radius:8px;
-">
+<h3>
+Explore Fieldwork Archive →
+</h3>
 
-<h3>🗺 Interactive Map</h3>
 
 <p>
-Explore the geographical distribution of 75 historical and heritage sites documented through field research.
+Browse documented locations, historical periods, categories, and research lenses.
 </p>
 
 
-<a href="/fieldwork-map/">
-Open Interactive Map →
+<a href="/fieldwork/">
+View 75 Sites Database
 </a>
 
 
 </div>
 
-
-
-<div style="
-border:1px solid #ddd;
-padding:25px;
-border-radius:8px;
-">
-
-<h3>📚 Site Database</h3>
-
-<p>
-Browse locations, historical periods, categories, and research perspectives.
-</p>
-
-
-<a href="/fieldwork-database/">
-Browse Archive →
-</a>
-
-
-</div>
-
-
-</div>
 
 
 ---
@@ -127,21 +76,17 @@ Browse Archive →
 # Research Framework
 
 
-My fieldwork explores heritage experiences through four interconnected perspectives, examining how space, narrative, material objects, and participation shape the relationship between people and historical memory.
+My fieldwork is organized through four interconnected research perspectives.
 
 
 <div style="
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
-gap:25px;
 margin:40px 0;
 ">
 
 
 <div style="
-border:1px solid #ddd;
-padding:25px;
-border-radius:8px;
+padding:25px 0;
+border-top:1px solid #999;
 ">
 
 
@@ -151,12 +96,12 @@ border-radius:8px;
 
 
 <p>
-How does physical space influence emotional relationships with historical figures and places?
+How does physical space influence emotional relationships with historical places?
 </p>
 
 
 <a href="/research-spatial-scale/">
-Explore →
+Explore Research →
 </a>
 
 
@@ -165,9 +110,8 @@ Explore →
 
 
 <div style="
-border:1px solid #ddd;
-padding:25px;
-border-radius:8px;
+padding:25px 0;
+border-top:1px solid #ddd;
 ">
 
 
@@ -177,12 +121,12 @@ border-radius:8px;
 
 
 <p>
-How do museums and memorial spaces guide historical interpretation and emotional experience?
+How do museums and memorial spaces guide historical interpretation?
 </p>
 
 
 <a href="/research-narrative/">
-Explore →
+Explore Research →
 </a>
 
 
@@ -192,9 +136,8 @@ Explore →
 
 
 <div style="
-border:1px solid #ddd;
-padding:25px;
-border-radius:8px;
+padding:25px 0;
+border-top:1px solid #ddd;
 ">
 
 
@@ -204,12 +147,12 @@ border-radius:8px;
 
 
 <p>
-How do artifacts, replicas, and restoration practices create connections between past and present?
+How do artifacts, replicas, and conservation practices create connections with the past?
 </p>
 
 
 <a href="/research-material/">
-Explore →
+Explore Research →
 </a>
 
 
@@ -219,9 +162,8 @@ Explore →
 
 
 <div style="
-border:1px solid #ddd;
-padding:25px;
-border-radius:8px;
+padding:25px 0;
+border-top:1px solid #ddd;
 ">
 
 
@@ -231,18 +173,128 @@ border-radius:8px;
 
 
 <p>
-How do younger generations reinterpret and engage with historical memory?
+How do younger generations reinterpret and continue historical memory?
 </p>
 
 
 <a href="/research-participation/">
-Explore →
+Explore Research →
 </a>
 
 
 </div>
 
 
+</div>
+
+
+---
+
+# Selected Field Cases
+
+
+This research is grounded in repeated observations of diverse heritage environments.
+
+
+<div style="
+margin:40px 0;
+">
+
+
+<div style="
+padding:20px 0;
+border-top:1px solid #999;
+">
+
+
+<h3>
+Mausoleum of Qin Shi Huang
+</h3>
+
+
+<p>
+Examining how monumental architecture shapes emotional distance and historical imagination.
+</p>
+
 
 </div>
 
+
+
+
+<div style="
+padding:20px 0;
+border-top:1px solid #ddd;
+">
+
+
+<h3>
+Mogao Caves
+</h3>
+
+
+<p>
+Exploring the relationship between sacred space, preservation, and heritage interpretation.
+</p>
+
+
+</div>
+
+
+
+
+<div style="
+padding:20px 0;
+border-top:1px solid #ddd;
+">
+
+
+<h3>
+Hubei Provincial Museum
+</h3>
+
+
+<p>
+Investigating how material objects create connections between visitors and the past.
+</p>
+
+
+</div>
+
+
+
+
+<div style="
+padding:20px 0;
+border-top:1px solid #ddd;
+">
+
+
+<h3>
+Chibi Site Park
+</h3>
+
+
+<p>
+Understanding how immersive experiences transform historical participation.
+</p>
+
+
+</div>
+
+
+</div>
+
+
+---
+
+# Research Reflection
+
+
+Through continuous field observation, I gradually developed an understanding of heritage as a living process rather than a collection of preserved objects.
+
+
+Historical memory is shaped not only by monuments and artifacts, but also through the interactions between spaces, narratives, materials, and people.
+
+
+This fieldwork project represents an ongoing exploration of how the past remains meaningful in contemporary society.
