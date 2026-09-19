@@ -1,37 +1,55 @@
 main:
   - title: "Home"
     url: /
+
   - title: "Field Research"
     url: /field-research/
+
   - title: "Heritage Practice"
     url: /heritage-practice/
+
   - title: "Research Reflection"
     url: /research-reflection/
-    
+
+
 fieldwork-categories:
-  - title: "I. Spatial Scale & Emotional Distance"
-    url: "/field-research/#case-1"
-  - title: "II. Narrative Structure & Affective Direction"
-    url: "/field-research/#case-2"
-  - title: "III. Material Proximity & Tactile Imagination"
-    url: "/field-research/#case-3"
-  - title: "IV. Participatory Memory & Youth Agency"
-    url: "/field-research/#case-4"
+
+  - title: "Fieldwork Archive"
+    url: "/fieldwork/"
+
+  - title: "Research Framework"
+    url: "/field-research/#research-framework"
+
+  - title: "Selected Field Cases"
+    url: "/field-research/#selected-field-cases"
+
+  - title: "Research Reflection"
+    url: "/field-research/#research-reflection"
+
   - title: "──────────"
     url: "#"
+
   - title: "Home"
     url: "/"
+
   - title: "Top"
     url: "#"
 
+
+
 heritage-categories:
+
   - title: "Artifact Conservation Practice"
     url: "/heritage-practice/#conservation"
+
   - title: "Contemporary Cultural Engagement"
     url: "/heritage-practice/#engagement"
+
   - title: "──────────"
     url: "#"
+
   - title: "Home"
     url: "/"
+
   - title: "Top"
     url: "#"
