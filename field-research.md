@@ -16,7 +16,7 @@ font-size:1.35em;
 line-height:1.8;
 font-style:italic;
 color:#555;
-margin-bottom:45px;
+margin-bottom:50px;
 ">
 Exploring How Heritage Spaces Shape Historical Memory
 </p>
@@ -29,10 +29,12 @@ Exploring How Heritage Spaces Shape Historical Memory
 Through longitudinal fieldwork across China, I document historical and cultural sites to examine how space, narrative, material objects, and public participation shape the ways people encounter the past.
 
 
-Rather than treating heritage sites as simple destinations, this research approaches them as dynamic spaces where historical memory is constructed, experienced, and continuously reinterpreted.
+Rather than treating heritage sites as simple destinations, this research approaches them as dynamic environments where historical memory is constructed, experienced, and continuously reinterpreted.
 
 
-The project investigates how people develop relationships with the past through physical environments, historical narratives, material encounters, and contemporary participation.
+The project explores how relationships with the past are shaped through four interconnected dimensions:
+
+**space, narrative, materiality, and participation.**
 
 
 
@@ -45,21 +47,17 @@ The project investigates how people develop relationships with the past through 
 
 <a id="fieldwork-archive"></a>
 
-# Fieldwork Archive
+# Heritage Database
 
 
 ## 75 Heritage Sites Across China
 
 
-<p style="
-color:#666;
-line-height:1.8;
-">
-A longitudinal archive documenting historical sites, museums, memorial spaces, religious sites, architectural heritage, and cultural landscapes across China.
-</p>
+This database documents my field observations across historical sites, museums, memorial spaces, religious sites, architectural heritage, and cultural landscapes.
 
 
-This archive includes field observations from diverse heritage environments and examines how different places influence historical understanding and public engagement.
+The archive focuses on how different heritage environments influence historical understanding, emotional experience, and public engagement.
+
 
 
 <div style="
@@ -71,22 +69,21 @@ border-bottom:1px solid #ddd;
 
 
 <h3>
-Explore Fieldwork Archive →
+Explore Heritage Database →
 </h3>
 
 
 <p>
-Browse documented locations, historical periods, categories, and research lenses.
+Browse documented locations, historical periods, categories, and research perspectives.
 </p>
 
 
-<a href="/fieldwork/">
+<a href="/heritage-database/">
 View 75 Sites Database
 </a>
 
 
 </div>
-
 
 
 
@@ -102,20 +99,24 @@ View 75 Sites Database
 # Research Framework
 
 
-My fieldwork is organized through four interconnected research perspectives.
+My field research is organized through four analytical perspectives.
 
 
-These themes provide analytical frameworks for understanding how heritage spaces shape relationships between people and the past.
+These frameworks examine how heritage spaces construct meaning and shape relationships between people and the past.
 
 
 
 <br>
 
 
+
 ## 01 — Spatial Scale & Emotional Distance
 
 
 How does physical space influence emotional relationships with historical places?
+
+
+This theme examines how architecture, scale, layout, and preservation conditions influence feelings of distance, intimacy, and connection.
 
 
 <a href="/research-spatial-scale/">
@@ -132,7 +133,10 @@ Explore Research →
 ## 02 — Narrative Structure & Emotional Orientation
 
 
-How do museums and memorial spaces guide historical interpretation and emotional experience?
+How do museums, exhibitions, and memorial spaces guide historical interpretation?
+
+
+This theme explores how storytelling methods influence visitors' understanding and emotional responses toward history.
 
 
 <a href="/research-narrative/">
@@ -152,6 +156,9 @@ Explore Research →
 How do artifacts, replicas, and conservation practices create connections between past and present?
 
 
+This theme examines how material encounters shape perceptions of authenticity, preservation, and historical intimacy.
+
+
 <a href="/research-material/">
 Explore Research →
 </a>
@@ -166,7 +173,10 @@ Explore Research →
 ## 04 — Participatory Memory & Youth Agency
 
 
-How do younger generations reinterpret and continue historical memory?
+How do contemporary communities reinterpret and continue historical memory?
+
+
+This theme investigates how young people and local communities engage with heritage through digital expression, performance, and everyday practices.
 
 
 <a href="/research-participation/">
@@ -189,10 +199,7 @@ Explore Research →
 # Selected Field Cases
 
 
-This research is grounded in repeated observations of representative heritage environments.
-
-
-The following cases demonstrate different approaches to space, materiality, narrative, and participation.
+The following cases represent different approaches to understanding heritage spaces through field observation.
 
 
 
@@ -203,7 +210,7 @@ The following cases demonstrate different approaches to space, materiality, narr
 ## Mausoleum of Qin Shi Huang
 
 
-Exploring how monumental architecture shapes emotional distance and historical imagination.
+Examining how monumental architecture creates emotional distance and shapes perceptions of imperial memory.
 
 
 <a href="/research-spatial-scale/">
@@ -220,7 +227,7 @@ Related Research →
 ## Mogao Caves
 
 
-Examining the relationship between sacred space, preservation practice, and heritage interpretation.
+Exploring the relationship between sacred landscapes, preservation practice, and cultural interpretation.
 
 
 <a href="/heritage-practice/">
@@ -237,7 +244,7 @@ Related Practice →
 ## Hubei Provincial Museum
 
 
-Investigating how material objects create connections between visitors and historical memory.
+Investigating how historical objects create connections between visitors and the material past.
 
 
 <a href="/research-material/">
@@ -254,7 +261,7 @@ Related Research →
 ## Chibi Site Park
 
 
-Understanding how immersive experiences transform historical participation.
+Understanding how immersive experiences transform historical participation and public memory.
 
 
 <a href="/research-participation/">
@@ -300,17 +307,15 @@ Read Full Reflection →
 <br>
 
 
----
 
 <div style="
 text-align:center;
 font-size:0.9em;
 color:#777;
+margin-top:40px;
 ">
 
-
 Field Research Portfolio  
-Heritage • Memory • Public History
-
+Heritage · Memory · Public History
 
 </div>
