@@ -15,73 +15,75 @@ sidebar:
 
 
 <p style="
-font-size:1.4em;
+font-size:1.5em;
 font-style:italic;
 color:#555;
 line-height:1.8;
+margin-top:20px;
 ">
 75 Heritage Sites Across China
 </p>
 
 
+This archive presents a longitudinal fieldwork database documenting historical sites, museums, memorial spaces, religious landscapes, and cultural heritage environments across China.
 
-This database documents my longitudinal fieldwork across historical sites, museums, memorial spaces, religious sites, architectural heritage, and cultural landscapes in China.
 
-
-Rather than presenting heritage sites as isolated destinations, this archive explores how different environments shape historical understanding, emotional experience, and public engagement.
+Through systematic observation and documentation, the database explores how heritage spaces construct historical memory through architecture, objects, narratives, and public engagement.
 
 
 
 <br>
 <br>
-
 
 
 ---
 
 
-# Database Overview
+# Archive Overview
+
 
 
 <div style="
 display:flex;
-gap:60px;
-margin:40px 0;
+gap:70px;
 flex-wrap:wrap;
+margin:40px 0;
 ">
 
 
 <div>
 
-<h2>
+<h1>
 75
-</h2>
+</h1>
 
 <p>
-Heritage Sites
+Documented Sites
 </p>
 
 </div>
 
 
+
 <div>
 
-<h2>
+<h1>
 6
-</h2>
+</h1>
 
 <p>
-Categories
+Site Categories
 </p>
 
 </div>
 
 
+
 <div>
 
-<h2>
+<h1>
 8
-</h2>
+</h1>
 
 <p>
 Research Lenses
@@ -90,6 +92,7 @@ Research Lenses
 </div>
 
 
+
 </div>
 
 
@@ -97,12 +100,19 @@ Research Lenses
 <br>
 
 
-
 ---
 
 
-# Browse Database
+# Browse Archive
 
+
+
+<div style="
+margin:30px 0;
+padding:25px 0;
+border-top:1px solid #999;
+border-bottom:1px solid #ddd;
+">
 
 
 <label>
@@ -110,7 +120,11 @@ Category
 </label>
 
 
+<br>
+
+
 <select id="category-filter">
+
 
 <option value="">
 All Categories
@@ -119,17 +133,21 @@ All Categories
 
 {% for category in site.data.fieldwork.categories %}
 
+
 <option value="{{ category }}">
 {{ category }}
 </option>
 
+
 {% endfor %}
+
 
 </select>
 
 
 
-&nbsp;&nbsp;
+<br>
+<br>
 
 
 
@@ -138,7 +156,11 @@ Research Lens
 </label>
 
 
+<br>
+
+
 <select id="lens-filter">
+
 
 <option value="">
 All Research Lenses
@@ -147,9 +169,11 @@ All Research Lenses
 
 {% for lens in site.data.fieldwork.research_lenses %}
 
+
 <option value="{{ lens }}">
 {{ lens }}
 </option>
+
 
 {% endfor %}
 
@@ -158,19 +182,22 @@ All Research Lenses
 
 
 
-<br>
-<br>
-
-
-<div id="site-count">
-
-Showing {{ site.data.fieldwork.sites.size }} sites
-
 </div>
 
 
 
+
+<p id="site-count">
+
+Showing {{ site.data.fieldwork.sites.size }} sites
+
+</p>
+
+
+
+
 <br>
+
 
 
 ---
@@ -187,15 +214,29 @@ Showing {{ site.data.fieldwork.sites.size }} sites
 {% for item in site.data.fieldwork.sites %}
 
 
-
 <div class="heritage-entry"
+
+data-category="{{ item.category.primary | escape }}"
+
+data-lens="{{ item.research_lens | join:'|' | escape }}"
+
 style="
+padding:45px 0;
 border-top:1px solid #ddd;
-padding:30px 0;
-"
-data-category="{{ item.category.primary }}"
-data-lens="{{ item.research_lens | join:'|' }}"
->
+">
+
+
+
+<p style="
+font-size:0.85em;
+color:#777;
+letter-spacing:2px;
+">
+
+SITE {{ forloop.index | prepend: "00" | slice: -2, 2 }}
+
+</p>
+
 
 
 
@@ -204,9 +245,19 @@ data-lens="{{ item.research_lens | join:'|' }}"
 </h2>
 
 
-<p style="font-size:1.1em;">
+
+<p style="
+font-size:1.15em;
+margin-top:-10px;
+">
+
 {{ item.name_zh }}
+
 </p>
+
+
+
+<br>
 
 
 
@@ -219,18 +270,26 @@ data-lens="{{ item.research_lens | join:'|' }}"
 {% endif %}
 
 
+
 {% if item.location.province %}
 
-· {{ item.location.province }}
+, {{ item.location.province }}
 
 {% endif %}
+
 
 </p>
 
 
 
+
 <p>
-<strong>Category:</strong>
+
+<strong>
+Category
+</strong>
+
+<br>
 
 {{ item.category.primary }}
 
@@ -238,44 +297,78 @@ data-lens="{{ item.research_lens | join:'|' }}"
 
 
 
+
 {% if item.period %}
 
 <p>
 
-<strong>Period:</strong>
+<strong>
+Historical Period
+</strong>
+
+<br>
 
 {{ item.period | join:", " }}
 
 </p>
 
+
 {% endif %}
+
+
+
+
+<p>
+
+<strong>
+Research Themes
+</strong>
+
+</p>
+
+
+
+<div>
+
+
+{% for lens in item.research_lens %}
+
+
+
+<span style="
+display:inline-block;
+border:1px solid #aaa;
+padding:5px 12px;
+margin:5px 5px 5px 0;
+font-size:0.85em;
+">
+
+
+{{ lens }}
+
+
+</span>
+
+
+
+{% endfor %}
+
+
+</div>
+
 
 
 
 <br>
 
 
-<p>
-<strong>Research Lens:</strong>
-</p>
 
+<a href="#">
 
+View Research Entry →
 
-{% for lens in item.research_lens %}
+</a>
 
-<span style="
-border:1px solid #aaa;
-padding:4px 10px;
-margin-right:8px;
-font-size:0.85em;
-">
-
-{{ lens }}
-
-</span>
-
-
-{% endfor %}
 
 
 
@@ -313,6 +406,7 @@ document.getElementById(
 );
 
 
+
 const entries =
 document.querySelectorAll(
 ".heritage-entry"
@@ -327,47 +421,50 @@ document.getElementById(
 
 
 
-function filter(){
+function filterSites(){
 
 
 let visible = 0;
 
 
 
-entries.forEach(
-entry => {
+entries.forEach(function(entry){
 
 
-let categoryOK =
+
+const categoryMatch =
 !category.value ||
 entry.dataset.category === category.value;
 
 
 
-let lensOK =
+const lensMatch =
 !lens.value ||
 entry.dataset.lens.includes(lens.value);
 
 
 
-if(categoryOK && lensOK){
+if(categoryMatch && lensMatch){
+
 
 entry.style.display="block";
 
 visible++;
 
+
 }
 
 else{
 
+
 entry.style.display="none";
 
-}
-
 
 }
 
-);
+
+
+});
 
 
 
@@ -378,25 +475,28 @@ visible
 +
 " sites";
 
+
+
 }
+
 
 
 
 category.addEventListener(
 "change",
-filter
+filterSites
 );
+
 
 
 lens.addEventListener(
 "change",
-filter
+filterSites
 );
 
 
 
-}
+});
 
-);
 
 </script>
