@@ -12,10 +12,11 @@ main:
     url: /research-reflection/
 
 
+
 fieldwork-categories:
 
-  - title: "Fieldwork Archive"
-    url: "/fieldwork/"
+  - title: "Heritage Database"
+    url: "/heritage-database/"
 
   - title: "Research Framework"
     url: "/field-research/#research-framework"
