@@ -8,30 +8,26 @@ sidebar:
 ---
 
 
-<div id="top"></div>
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css">
 
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+
+
+# Heritage Database
 
 
 <p style="
 font-size:1.5em;
 font-style:italic;
 color:#555;
-line-height:1.8;
-margin-top:20px;
 ">
 75 Heritage Sites Across China
 </p>
 
 
-This archive presents a longitudinal fieldwork database documenting historical sites, museums, memorial spaces, religious landscapes, and cultural heritage environments across China.
+This archive documents my longitudinal fieldwork across historical sites, museums, memorial spaces, religious sites, architectural heritage, and cultural landscapes across China.
 
-
-Through systematic observation and documentation, the database explores how heritage spaces construct historical memory through architecture, objects, narratives, and public engagement.
-
-
-
-<br>
-<br>
 
 
 ---
@@ -44,62 +40,35 @@ Through systematic observation and documentation, the database explores how heri
 <div style="
 display:flex;
 gap:70px;
-flex-wrap:wrap;
 margin:40px 0;
 ">
 
 
 <div>
-
-<h1>
-75
-</h1>
-
-<p>
-Documented Sites
-</p>
-
+<h1>75</h1>
+<p>Documented Sites</p>
 </div>
-
 
 
 <div>
-
-<h1>
-6
-</h1>
-
-<p>
-Site Categories
-</p>
-
+<h1>6</h1>
+<p>Site Categories</p>
 </div>
-
 
 
 <div>
-
-<h1>
-8
-</h1>
-
-<p>
-Research Lenses
-</p>
-
+<h1>8</h1>
+<p>Research Lenses</p>
 </div>
-
 
 
 </div>
 
 
 
-<br>
-
 
 ---
----
+
 
 # Interactive Map
 
@@ -107,21 +76,16 @@ Research Lenses
 Explore the geographical distribution of my fieldwork sites across China.
 
 
+
 <div id="heritage-map"
 style="
-height:450px;
+height:550px;
+margin:40px 0;
 border-top:1px solid #999;
 border-bottom:1px solid #ddd;
-margin:40px 0;
-display:flex;
-align-items:center;
-justify-content:center;
-color:#777;
 ">
-
-Interactive Map Loading...
-
 </div>
+
 
 
 <p style="
@@ -132,24 +96,17 @@ Map visualization based on documented heritage sites in the fieldwork archive.
 </p>
 
 
+
 ---
+
 
 # Browse Archive
 
 
 
-<div style="
-margin:30px 0;
-padding:25px 0;
-border-top:1px solid #999;
-border-bottom:1px solid #ddd;
-">
-
-
 <label>
 Category
 </label>
-
 
 <br>
 
@@ -177,15 +134,16 @@ All Categories
 
 
 
+
 <br>
 <br>
+
 
 
 
 <label>
 Research Lens
 </label>
-
 
 <br>
 
@@ -213,10 +171,6 @@ All Research Lenses
 
 
 
-</div>
-
-
-
 
 <p id="site-count">
 
@@ -224,10 +178,6 @@ Showing {{ site.data.fieldwork.sites.size }} sites
 
 </p>
 
-
-
-
-<br>
 
 
 
@@ -245,6 +195,7 @@ Showing {{ site.data.fieldwork.sites.size }} sites
 {% for item in site.data.fieldwork.sites %}
 
 
+
 <div class="heritage-entry"
 
 data-category="{{ item.category.primary | escape }}"
@@ -252,22 +203,20 @@ data-category="{{ item.category.primary | escape }}"
 data-lens="{{ item.research_lens | join:'|' | escape }}"
 
 style="
-padding:45px 0;
+padding:40px 0;
 border-top:1px solid #ddd;
 ">
 
 
-
 <p style="
 font-size:0.85em;
-color:#777;
 letter-spacing:2px;
+color:#777;
 ">
 
-SITE {{ forloop.index | prepend: "00" | slice: -2, 2 }}
+SITE {{ forloop.index }}
 
 </p>
-
 
 
 
@@ -278,8 +227,7 @@ SITE {{ forloop.index | prepend: "00" | slice: -2, 2 }}
 
 
 <p style="
-font-size:1.15em;
-margin-top:-10px;
+font-size:1.1em;
 ">
 
 {{ item.name_zh }}
@@ -288,29 +236,14 @@ margin-top:-10px;
 
 
 
-<br>
-
-
-
 <p>
-
-{% if item.location.city %}
 
 {{ item.location.city }}
 
-{% endif %}
-
-
-
-{% if item.location.province %}
-
-, {{ item.location.province }}
-
-{% endif %}
-
+,
+{{ item.location.province }}
 
 </p>
-
 
 
 
@@ -343,62 +276,35 @@ Historical Period
 
 </p>
 
-
 {% endif %}
 
 
 
 
 <p>
-
 <strong>
 Research Themes
 </strong>
-
 </p>
 
-
-
-<div>
 
 
 {% for lens in item.research_lens %}
 
 
-
 <span style="
-display:inline-block;
-border:1px solid #aaa;
-padding:5px 12px;
-margin:5px 5px 5px 0;
+border:1px solid #999;
+padding:5px 10px;
+margin-right:5px;
 font-size:0.85em;
 ">
 
-
 {{ lens }}
-
 
 </span>
 
 
-
 {% endfor %}
-
-
-</div>
-
-
-
-
-<br>
-
-
-
-<a href="#">
-
-View Research Entry →
-
-</a>
 
 
 
@@ -420,9 +326,74 @@ View Research Entry →
 <script>
 
 
-document.addEventListener(
-"DOMContentLoaded",
-function(){
+// --------------------
+// Leaflet Map
+// --------------------
+
+
+var map = L.map('heritage-map')
+.setView(
+[35.8617,104.1954],
+4
+);
+
+
+
+L.tileLayer(
+'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+{
+attribution:
+'&copy; OpenStreetMap contributors'
+}
+
+).addTo(map);
+
+
+
+
+
+{% for item in site.data.fieldwork.sites %}
+
+
+{% if item.location.latitude and item.location.longitude %}
+
+
+
+L.marker(
+[
+{{ item.location.latitude }},
+{{ item.location.longitude }}
+]
+
+)
+
+.addTo(map)
+
+.bindPopup(
+
+"<strong>{{ item.name_en }}</strong><br>" +
+
+"{{ item.name_zh }}<br>" +
+
+"{{ item.location.city }}, {{ item.location.province }}"
+
+);
+
+
+
+{% endif %}
+
+
+
+{% endfor %}
+
+
+
+
+
+// --------------------
+// Filter
+// --------------------
 
 
 const category =
@@ -452,24 +423,26 @@ document.getElementById(
 
 
 
+
 function filterSites(){
 
 
-let visible = 0;
+let visible=0;
 
 
 
-entries.forEach(function(entry){
+entries.forEach(
+function(entry){
 
 
 
-const categoryMatch =
+let categoryMatch =
 !category.value ||
 entry.dataset.category === category.value;
 
 
 
-const lensMatch =
+let lensMatch =
 !lens.value ||
 entry.dataset.lens.includes(lens.value);
 
@@ -494,8 +467,9 @@ entry.style.display="none";
 }
 
 
+}
 
-});
+);
 
 
 
@@ -506,10 +480,7 @@ visible
 +
 " sites";
 
-
-
 }
-
 
 
 
@@ -525,9 +496,6 @@ lens.addEventListener(
 filterSites
 );
 
-
-
-});
 
 
 </script>
