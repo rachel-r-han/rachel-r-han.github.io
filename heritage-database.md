@@ -99,7 +99,40 @@ Research Lenses
 
 
 ---
+---
 
+# Interactive Map
+
+
+Explore the geographical distribution of my fieldwork sites across China.
+
+
+<div id="heritage-map"
+style="
+height:450px;
+border-top:1px solid #999;
+border-bottom:1px solid #ddd;
+margin:40px 0;
+display:flex;
+align-items:center;
+justify-content:center;
+color:#777;
+">
+
+Interactive Map Loading...
+
+</div>
+
+
+<p style="
+font-size:0.9em;
+color:#777;
+">
+Map visualization based on documented heritage sites in the fieldwork archive.
+</p>
+
+
+---
 
 # Browse Archive
 
