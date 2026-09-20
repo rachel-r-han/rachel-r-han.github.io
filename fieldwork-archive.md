@@ -11,9 +11,6 @@ sidebar:
 <div id="top"></div>
 
 
-# Field Research
-
-
 <p style="
 font-size:1.35em;
 line-height:1.8;
