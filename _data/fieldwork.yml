@@ -18,12 +18,17 @@ research_lenses:
   - "Public History"
   - "Heritage & Conservation"
 sites:
-  - id: "mausoleum-of-the-first-qin-emperor"
-    name_en: "Mausoleum of the First Qin Emperor"
-    name_zh: "秦始皇帝陵"
-    location:
-      city: "Xi'an"
-      province: "Shaanxi"
+ - id: "mausoleum-of-the-first-qin-emperor"
+
+  name_en: "Mausoleum of the First Qin Emperor"
+
+  name_zh: "秦始皇帝陵"
+
+  location:
+    city: "Xi'an"
+    province: "Shaanxi"
+    latitude: 34.384
+    longitude: 109.278
       country: China
     category:
       primary: "Tombs & Mausoleums"
