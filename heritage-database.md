@@ -13,10 +13,6 @@ sidebar:
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 
 
-
-# Heritage Database
-
-
 <p style="
 font-size:1.5em;
 font-style:italic;
