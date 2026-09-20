@@ -25,7 +25,6 @@ sites:
 
     name_zh: "秦始皇帝陵"
 
-
     location:
       city: "Xi'an"
       province: "Shaanxi"
@@ -33,284 +32,347 @@ sites:
       latitude: 34.384
       longitude: 109.278
 
-
     category:
       primary: "Tombs & Mausoleums"
       secondary: []
-
 
     period:
       - "Qin"
 
-
     research_lens:
       - "Spatial Scale"
       - "Emotional Distance"
       - "Memorialization"
       - "Historical Memory"
 
-
     field_research:
       visited: true
       visits: null
       years: []
 
-
     case_studies: []
 
     notes: ""
-  - id: "emperor-qinshihuang-s-mausoleum-site-museum"
-    name_en: "Emperor Qinshihuang's Mausoleum Site Museum"
-    name_zh: "秦始皇帝陵博物院"
+
+
+
+  - id: "mogao-caves"
+
+    name_en: "Mogao Caves"
+
+    name_zh: "莫高窟"
+
     location:
-      city: "Xi'an"
-      province: "Shaanxi"
-      country: China
+      city: "Dunhuang"
+      province: "Gansu"
+      country: "China"
+      latitude: 40.0424
+      longitude: 94.8095
+
     category:
       primary: "Museums & Collections"
       secondary: []
+
     period:
-      - "Qin"
+      - "Ancient"
+      - "Medieval"
+
     research_lens:
-      - "Narrative Structure"
       - "Material Proximity"
-      - "Public History"
+      - "Historical Memory"
       - "Heritage & Conservation"
+
     field_research:
       visited: true
       visits: null
       years: []
+
     case_studies: []
+
     notes: ""
-  - id: "shaanxi-history-museum-qin-han-branch"
-    name_en: "Shaanxi History Museum (Qin-Han Branch)"
-    name_zh: "陕西历史博物馆（秦汉馆）"
+
+
+
+  - id: "wuhou-shrine"
+
+    name_en: "Wuhou Shrine"
+
+    name_zh: "成都武侯祠"
+
     location:
-      city: "Xi'an"
-      province: "Shaanxi"
-      country: China
+      city: "Chengdu"
+      province: "Sichuan"
+      country: "China"
+      latitude: 30.6517
+      longitude: 104.0431
+
+    category:
+      primary: "Monuments & Memorial Landscapes"
+      secondary: []
+
+    period:
+      - "Three Kingdoms"
+
+    research_lens:
+      - "Narrative Structure"
+      - "Historical Memory"
+      - "Memorialization"
+
+    field_research:
+      visited: true
+      visits: null
+      years: []
+
+    case_studies: []
+
+    notes: ""
+
+
+
+  - id: "hubei-provincial-museum"
+
+    name_en: "Hubei Provincial Museum"
+
+    name_zh: "湖北省博物馆"
+
+    location:
+      city: "Wuhan"
+      province: "Hubei"
+      country: "China"
+      latitude: 30.5619
+      longitude: 114.3575
+
     category:
       primary: "Museums & Collections"
       secondary: []
+
     period:
-      - "Tang"
+      - "Ancient China"
+
     research_lens:
-      - "Narrative Structure"
       - "Material Proximity"
-      - "Public History"
-      - "Heritage & Conservation"
-    field_research:
-      visited: true
-      visits: null
-      years: []
-    case_studies: []
-    notes: ""
-  - id: "maoling-mausoleum"
-    name_en: "Maoling Mausoleum"
-    name_zh: "茂陵"
-    location:
-      city: "Xianyang"
-      province: "Shaanxi"
-      country: China
-    category:
-      primary: "Tombs & Mausoleums"
-      secondary: []
-    period:
-      - "Han"
-    research_lens:
-      - "Spatial Scale"
-      - "Emotional Distance"
-      - "Memorialization"
-      - "Historical Memory"
-    field_research:
-      visited: true
-      visits: null
-      years: []
-    case_studies: []
-    notes: ""
-  - id: "maoling-museum"
-    name_en: "Maoling Museum"
-    name_zh: "茂陵博物馆"
-    location:
-      city: "Xianyang"
-      province: "Shaanxi"
-      country: China
-    category:
-      primary: "Museums & Collections"
-      secondary: []
-    period:
-      - "Han"
-    research_lens:
       - "Narrative Structure"
-      - "Material Proximity"
       - "Public History"
-      - "Heritage & Conservation"
+
     field_research:
       visited: true
       visits: null
       years: []
+
     case_studies: []
+
     notes: ""
-  - id: "tomb-of-huo-qubing"
-    name_en: "Tomb of Huo Qubing"
-    name_zh: "霍去病墓"
-    location:
-      city: "Xianyang"
-      province: "Shaanxi"
-      country: China
-    category:
-      primary: "Tombs & Mausoleums"
-      secondary: []
-    period:
-      - "Han"
-    research_lens:
-      - "Spatial Scale"
-      - "Emotional Distance"
-      - "Memorialization"
-      - "Historical Memory"
-    field_research:
-      visited: true
-      visits: null
-      years: []
-    case_studies: []
-    notes: ""
-  - id: "tomb-of-bai-qi"
-    name_en: "Tomb of Bai Qi"
-    name_zh: "白起墓"
-    location:
-      city: "Xi'an"
-      province: "Shaanxi"
-      country: China
-    category:
-      primary: "Tombs & Mausoleums"
-      secondary: []
-    period:
-      - "Warring States"
-    research_lens:
-      - "Spatial Scale"
-      - "Emotional Distance"
-      - "Memorialization"
-      - "Historical Memory"
-    field_research:
-      visited: true
-      visits: null
-      years: []
-    case_studies: []
-    notes: ""
-  - id: "hantang-village-tomb-of-han-fei"
-    name_en: "Hantang Village / Tomb of Han Fei"
-    name_zh: "韩堂村 / 韩非墓"
-    location:
-      city: "Zhumadian"
-      province: "Henan"
-      country: China
-    category:
-      primary: "Tombs & Mausoleums"
-      secondary: []
-    period:
-      - "Warring States"
-    research_lens:
-      - "Spatial Scale"
-      - "Emotional Distance"
-      - "Memorialization"
-      - "Historical Memory"
-    field_research:
-      visited: true
-      visits: null
-      years: []
-    case_studies: []
-    notes: ""
-  - id: "xianyang-museum"
-    name_en: "Xianyang Museum"
-    name_zh: "咸阳博物馆"
-    location:
-      city: "Xianyang"
-      province: "Shaanxi"
-      country: China
-    category:
-      primary: "Museums & Collections"
-      secondary: []
-    period:
-      - "Warring States"
-    research_lens:
-      - "Narrative Structure"
-      - "Material Proximity"
-      - "Public History"
-      - "Heritage & Conservation"
-    field_research:
-      visited: true
-      visits: null
-      years: []
-    case_studies: []
-    notes: ""
-  - id: "tomb-of-li-si"
-    name_en: "Tomb of Li Si"
-    name_zh: "李斯墓"
-    location:
-      city: "Zhumadian"
-      province: "Henan"
-      country: China
-    category:
-      primary: "Tombs & Mausoleums"
-      secondary: []
-    period:
-      - "Warring States"
-    research_lens:
-      - "Spatial Scale"
-      - "Emotional Distance"
-      - "Memorialization"
-      - "Historical Memory"
-    field_research:
-      visited: true
-      visits: null
-      years: []
-    case_studies: []
-    notes: ""
-  - id: "zhaoling-mausoleum"
-    name_en: "Zhaoling Mausoleum"
-    name_zh: "昭陵"
-    location:
-      city: "Shaanxi"
-      province: "Shaanxi"
-      country: China
-    category:
-      primary: "Tombs & Mausoleums"
-      secondary: []
-    period:
-      - "Tang"
-    research_lens:
-      - "Spatial Scale"
-      - "Emotional Distance"
-      - "Memorialization"
-      - "Historical Memory"
-    field_research:
-      visited: true
-      visits: null
-      years: []
-    case_studies: []
-    notes: ""
-  - id: "tomb-of-bai-juyi"
-    name_en: "Tomb of Bai Juyi"
-    name_zh: "白居易墓"
+
+
+
+  - id: "luoyang-museum"
+
+    name_en: "Luoyang Museum"
+
+    name_zh: "洛阳博物馆"
+
     location:
       city: "Luoyang"
       province: "Henan"
-      country: China
+      country: "China"
+      latitude: 34.6181
+      longitude: 112.4539
+
     category:
-      primary: "Tombs & Mausoleums"
+      primary: "Museums & Collections"
       secondary: []
+
     period:
-      - "Tang"
+      - "Ancient China"
+
     research_lens:
-      - "Spatial Scale"
-      - "Emotional Distance"
-      - "Memorialization"
+      - "Material Proximity"
       - "Historical Memory"
+
     field_research:
       visited: true
       visits: null
       years: []
+
     case_studies: []
+
+    notes: ""
+
+
+
+  - id: "red-cliff-battle-site"
+
+    name_en: "Red Cliff Ancient Battlefield"
+
+    name_zh: "赤壁古战场"
+
+    location:
+      city: "Chibi"
+      province: "Hubei"
+      country: "China"
+      latitude: 29.718
+      longitude: 113.883
+
+    category:
+      primary: "Monuments & Memorial Landscapes"
+      secondary: []
+
+    period:
+      - "Three Kingdoms"
+
+    research_lens:
+      - "Narrative Structure"
+      - "Emotional Distance"
+      - "Historical Memory"
+
+    field_research:
+      visited: true
+      visits: null
+      years: []
+
+    case_studies: []
+
+    notes: ""
+
+
+
+  - id: "wang-yangming-memorial"
+
+    name_en: "Wang Yangming Memorial Hall"
+
+    name_zh: "王阳明纪念馆"
+
+    location:
+      city: "Shaoxing"
+      province: "Zhejiang"
+      country: "China"
+      latitude: 29.9958
+      longitude: 120.5861
+
+    category:
+      primary: "Monuments & Memorial Landscapes"
+      secondary: []
+
+    period:
+      - "Ming"
+
+    research_lens:
+      - "Historical Memory"
+      - "Memorialization"
+
+    field_research:
+      visited: true
+      visits: null
+      years: []
+
+    case_studies: []
+
+    notes: ""
+
+
+
+  - id: "fengmenglong-village"
+
+    name_en: "Feng Menglong Village"
+
+    name_zh: "冯梦龙村"
+
+    location:
+      city: "Suzhou"
+      province: "Jiangsu"
+      country: "China"
+      latitude: 31.2989
+      longitude: 120.5853
+
+    category:
+      primary: "Natural & Cultural Landscapes"
+      secondary: []
+
+    period:
+      - "Modern"
+
+    research_lens:
+      - "Public History"
+      - "Participatory Memory"
+
+    field_research:
+      visited: true
+      visits: null
+      years: []
+
+    case_studies: []
+
+    notes: ""
+
+
+
+  - id: "cao-cao-gaoling"
+
+    name_en: "Cao Cao Gaoling"
+
+    name_zh: "曹操高陵"
+
+    location:
+      city: "Anyang"
+      province: "Henan"
+      country: "China"
+      latitude: 36.1397
+      longitude: 114.3928
+
+    category:
+      primary: "Tombs & Mausoleums"
+      secondary: []
+
+    period:
+      - "Three Kingdoms"
+
+    research_lens:
+      - "Spatial Scale"
+      - "Historical Memory"
+
+    field_research:
+      visited: true
+      visits: null
+      years: []
+
+    case_studies: []
+
+    notes: ""
+
+
+
+  - id: "baijuyi-tomb"
+
+    name_en: "Bai Juyi Tomb"
+
+    name_zh: "白居易墓"
+
+    location:
+      city: "Luoyang"
+      province: "Henan"
+      country: "China"
+      latitude: 34.6407
+      longitude: 112.4477
+
+    category:
+      primary: "Tombs & Mausoleums"
+      secondary: []
+
+    period:
+      - "Tang"
+
+    research_lens:
+      - "Historical Memory"
+      - "Emotional Distance"
+      - "Memorialization"
+
+    field_research:
+      visited: true
+      visits: null
+      years: []
+
+    case_studies: []
+
     notes: ""
   - id: "tomb-of-cao-pi"
     name_en: "Tomb of Cao Pi"
