@@ -11,8 +11,6 @@ sidebar:
 <div id="top"></div>
 
 
-# Heritage Database
-
 
 <p style="
 font-size:1.5em;
