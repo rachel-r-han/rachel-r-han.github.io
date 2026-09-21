@@ -628,10 +628,20 @@ Showing {{ site.data.fieldwork.sites \| size }} sites
 ```
 :::
 
-<!-- Research Themes display hidden; data retained -->
+::: site-themes
+[Research Themes]{.site-themes-label}
+
+```{=html}
+<p class="site-themes-text">
+```
+{{ item.research_lens \| join: " · " }}
+```{=html}
+</p>
+```
+:::
 
 ::: site-visit-placeholder
-`<strong>`{=html}Field Record:`</strong>`{=html} {% if item.visit_date %}
+`<strong>`{=html}Field Visit:`</strong>`{=html} {% if item.visit_date %}
 {{ item.visit_date }} {% else %} Visit date to be added {% endif %}
 :::
 :::
