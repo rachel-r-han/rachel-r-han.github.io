@@ -645,7 +645,7 @@ document.addEventListener("DOMContentLoaded", function () {
   if (typeof L !== "undefined") {
 
     const map = L.map("heritage-map", {
-      scrollWheelZoom: false
+      scrollWheelZoom: true
     });
 
     L.tileLayer(
