@@ -218,14 +218,41 @@ sidebar:
   }
 }
 
+
+/* -------------------------------------------------------
+   V8.3.1 Layout Refinement
+   Only adjustment: expand main reading container
+   ------------------------------------------------------- */
+
+.initial-content {
+  max-width: 1600px;
+}
+
+.page {
+  max-width: 1600px;
+}
+
+.page__inner-wrap {
+  max-width: 1500px;
+}
+
+.page__content {
+  max-width: 1300px;
+  width: 100%;
+}
+
 /* -------------------------------------------------------
    V8.1 Layout Refinement
    Only visual adjustment:
    wider academic reading area + improved statistics cards
    ------------------------------------------------------- */
 
+.page__inner-wrap {
+  max-width: 1400px;
+}
+
 .page__content {
-  max-width: 1180px;
+  max-width: 1200px;
   width: 100%;
 }
 
@@ -372,7 +399,7 @@ Showing {{ site.data.fieldwork.sites | size }} sites
 
 ## Site Catalogue
 
-Each entry is structured to accommodate future fieldwork documentation. The current database remains unchanged; the catalogue simply reserves space for a visit date and a field photograph. When those fields are later added to `_data/fieldwork.yml`, the card can display them without changing the overall page structure.
+
 
 <style>
 /* -------------------------------------------------------
