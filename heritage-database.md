@@ -628,7 +628,7 @@ Showing {{ site.data.fieldwork.sites \| size }} sites
 ```
 :::
 
-<!-- Research Themes retained in database but hidden from card display -->
+<!-- Research Themes display hidden; data retained -->
 
 ::: site-visit-placeholder
 `<strong>`{=html}Field Record:`</strong>`{=html} {% if item.visit_date %}
