@@ -1,4 +1,3 @@
-
 ---
 title: "Heritage Database"
 layout: single
