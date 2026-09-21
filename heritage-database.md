@@ -288,6 +288,20 @@ sidebar:
   }
 }
 
+
+/* V8.4.1 Site Catalogue academic card refinement */
+.site-card h2 {
+  margin-bottom: 0.35rem;
+}
+
+.site-card .site-meta {
+  margin-top: 1.2rem;
+}
+
+.site-card .site-photo-slot {
+  border: 1px solid #deded9;
+}
+
 </style>
 
 <div class="archive-intro">
@@ -360,7 +374,7 @@ Filter and explore sites by province, category, and historical period.
 </div>
 
 <div class="archive-filter">
-<label for="category-filter">
+<label for="category-filter>
 <span class="archive-filter-label">Category</span>
 <select id="category-filter">
 <option value="">All Categories</option>
@@ -426,8 +440,8 @@ Showing {{ site.data.fieldwork.sites | size }} sites
 
 .site-card {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 230px;
-  gap: 2.4rem;
+  grid-template-columns: minmax(0, 1fr) 260px;
+  gap: 3rem;
   align-items: start;
 }
 
@@ -507,6 +521,7 @@ Showing {{ site.data.fieldwork.sites | size }} sites
 .site-photo-slot {
   width: 100%;
   aspect-ratio: 4 / 3;
+
   border: 1px solid #deded9;
   background: #f7f7f4;
   display: flex;
@@ -558,6 +573,20 @@ Showing {{ site.data.fieldwork.sites | size }} sites
     grid-template-columns: 1fr;
   }
 }
+
+/* V8.4.1 Site Catalogue academic card refinement */
+.site-card h2 {
+  margin-bottom: 0.35rem;
+}
+
+.site-card .site-meta {
+  margin-top: 1.2rem;
+}
+
+.site-card .site-photo-slot {
+  border: 1px solid #deded9;
+}
+
 </style>
 
 <div id="site-catalogue">
