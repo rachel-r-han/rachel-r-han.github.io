@@ -217,6 +217,54 @@ sidebar:
     height: 480px;
   }
 }
+
+/* -------------------------------------------------------
+   V8.1 Layout Refinement
+   Only visual adjustment:
+   wider academic reading area + improved statistics cards
+   ------------------------------------------------------- */
+
+.page__inner-wrap {
+  max-width: 1400px;
+}
+
+.page__content {
+  max-width: 1200px;
+  width: 100%;
+}
+
+.archive-stats {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.archive-stat {
+  min-height: 120px;
+  padding: 1.3rem 1.2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 8px;
+}
+
+.archive-stat-number {
+  font-size: 2.8rem;
+  line-height: 1;
+}
+
+.archive-stat-label {
+  max-width: 100%;
+  white-space: normal;
+  line-height: 1.35;
+}
+
+@media (max-width: 800px) {
+  .page__content {
+    max-width: 100%;
+  }
+}
+
 </style>
 
 <div class="archive-intro">
