@@ -1,0 +1,1871 @@
+title: Fieldwork Archive
+description: A longitudinal fieldwork archive documenting historical and heritage
+  sites visited across China.
+total_sites: 75
+categories:
+- Tombs & Mausoleums
+- Museums & Collections
+- Temples & Religious Sites
+- Palaces, Gates & Urban Heritage
+- Monuments & Memorial Landscapes
+- Natural & Cultural Landscapes
+research_lenses:
+- Spatial Scale
+- Emotional Distance
+- Narrative Structure
+- Material Proximity
+- Historical Memory
+- Memorialization
+- Public History
+- Heritage & Conservation
+sites:
+- id: mausoleum-of-the-first-qin-emperor
+  name_en: Mausoleum of the First Qin Emperor
+  name_zh: 秦始皇帝陵
+  location:
+    city: Xi'an (临潼)
+    province: Shaanxi
+    country: China
+    latitude: 34.3777
+    longitude: 109.259
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-君王陵
+  period: &id003
+  - Qin
+  research_lens:
+  - Spatial Scale
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: qin-shi-huang-emperor-mausoleum-museum
+  name_en: Mausoleum of the First Qin Emperor Museum
+  name_zh: 秦始皇帝陵博物院
+  location:
+    city: Xi'an (临潼)
+    province: Shaanxi
+    country: China
+    latitude: 34.3863
+    longitude: 109.2821
+  category:
+    primary: Museums & Collections
+    secondary:
+    - 博物馆
+  period: &id001 []
+  research_lens: []
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: shaanxi-history-museum-qin-han-hall
+  name_en: Shaanxi History Museum (Qin-Han Hall)
+  name_zh: 陕西历史博物馆（秦汉馆）
+  location:
+    city: Xixian New Area (Qin-Han New City / Weicheng, Xianyang)
+    province: Shaanxi
+    country: China
+    latitude: 34.4063
+    longitude: 108.8643
+  category:
+    primary: Museums & Collections
+    secondary:
+    - 博物馆
+  period: *id001
+  research_lens: []
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: maoling-mausoleum
+  name_en: Maoling Mausoleum
+  name_zh: 茂陵
+  location:
+    city: Xianyang (兴平)
+    province: Shaanxi
+    country: China
+    latitude: 34.3363
+    longitude: 108.5738
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-君王陵
+  period: &id002
+  - Western Han
+  research_lens: []
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: maoling-museum
+  name_en: Maoling Museum
+  name_zh: 茂陵博物馆
+  location:
+    city: Xianyang (兴平)
+    province: Shaanxi
+    country: China
+    latitude: 34.3385
+    longitude: 108.5865
+  category:
+    primary: Museums & Collections
+    secondary:
+    - 博物馆
+  period: *id001
+  research_lens: []
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: tomb-of-huo-qubing
+  name_en: Tomb of Huo Qubing
+  name_zh: 霍去病墓
+  location:
+    city: Xianyang (兴平)
+    province: Shaanxi
+    country: China
+    latitude: 34.3395
+    longitude: 108.5858
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-臣子陵
+  period: *id002
+  research_lens: []
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: tomb-of-bai-qi
+  name_en: Tomb of Bai Qi
+  name_zh: 白起墓
+  location:
+    city: Xianyang (渭城)
+    province: Shaanxi
+    country: China
+    latitude: 34.366
+    longitude: 108.7638
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-臣子陵
+  period: &id009
+  - Warring States (Qin)
+  research_lens: []
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: han-tang-village-han-fei-tomb
+  name_en: Han Tang Village (Tomb of Han Fei)
+  name_zh: 韩堂村（韩非墓）
+  location:
+    city: Zhumadian (西平)
+    province: Henan
+    country: China
+    latitude: 33.2772
+    longitude: 113.6721
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-文人陵
+  period:
+  - Warring States
+  research_lens: []
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: xianyang-museum
+  name_en: Xianyang Museum
+  name_zh: 咸阳博物馆
+  location:
+    city: Xianyang
+    province: Shaanxi
+    country: China
+    latitude: 34.3345
+    longitude: 108.7247
+  category:
+    primary: Museums & Collections
+    secondary:
+    - 博物馆
+  period: *id001
+  research_lens: []
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: tomb-of-li-si
+  name_en: Tomb of Li Si
+  name_zh: 李斯墓
+  location:
+    city: Zhumadian (上蔡)
+    province: Henan
+    country: China
+    latitude: 33.2182
+    longitude: 114.2429
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-臣子陵
+  period: *id003
+  research_lens: []
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: zhaoling-mausoleum
+  name_en: Zhaoling Mausoleum
+  name_zh: 昭陵
+  location:
+    city: Xianyang (礼泉)
+    province: Shaanxi
+    country: China
+    latitude: 34.6231
+    longitude: 108.4906
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-君王陵
+  period: &id004
+  - Tang
+  research_lens: []
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: baijuyi-tomb
+  name_en: Bai Juyi Tomb
+  name_zh: 白居易墓
+  location:
+    city: Luoyang
+    province: Henan
+    country: China
+    latitude: 34.5582
+    longitude: 112.482
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-文人陵
+  period: *id004
+  research_lens:
+  - Historical Memory
+  - Emotional Distance
+  - Memorialization
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: tomb-of-cao-pi
+  name_en: Tomb of Cao Pi
+  name_zh: 曹丕墓（首阳山）
+  location:
+    city: Luoyang (偃师)
+    province: Henan
+    country: China
+    latitude: 34.7375
+    longitude: 112.6766
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-君王陵
+  period: &id005
+  - Three Kingdoms (Wei)
+  research_lens:
+  - Spatial Scale
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: tomb-of-su-shi
+  name_en: Tomb of Su Shi
+  name_zh: 苏轼墓（三苏园）
+  location:
+    city: Pingdingshan (郏县)
+    province: Henan
+    country: China
+    latitude: 34.084
+    longitude: 113.0997
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-文人陵
+  period: &id008
+  - Song
+  research_lens:
+  - Spatial Scale
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: tomb-of-liu-xiu
+  name_en: Tomb of Liu Xiu
+  name_zh: 刘秀墓
+  location:
+    city: Luoyang (孟津)
+    province: Henan
+    country: China
+    latitude: 34.8406
+    longitude: 112.5948
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-君王陵
+  period: &id010
+  - Eastern Han
+  research_lens:
+  - Spatial Scale
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: tomb-of-zhou-yu
+  name_en: Tomb of Zhou Yu
+  name_zh: 周瑜墓
+  location:
+    city: Hefei (庐江)
+    province: Anhui
+    country: China
+    latitude: 31.247
+    longitude: 117.2995
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-臣子陵
+  period:
+  - Three Kingdoms (Wu)
+  research_lens:
+  - Spatial Scale
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: tomb-of-zhang-liao
+  name_en: Tomb of Zhang Liao
+  name_zh: 张辽墓
+  location:
+    city: Hefei
+    province: Anhui
+    country: China
+    latitude: 31.8713
+    longitude: 117.2922
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-臣子陵
+  period: *id005
+  research_lens:
+  - Spatial Scale
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: tomb-of-cao-cao
+  name_en: Tomb of Cao Cao
+  name_zh: 曹操墓（高陵）
+  location:
+    city: Anyang
+    province: Henan
+    country: China
+    latitude: 36.2424
+    longitude: 114.2679
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-君王陵
+  period: *id005
+  research_lens:
+  - Spatial Scale
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: tomb-of-wang-yangming
+  name_en: Tomb of Wang Yangming
+  name_zh: 王阳明墓
+  location:
+    city: Shaoxing
+    province: Zhejiang
+    country: China
+    latitude: 29.9031
+    longitude: 120.5085
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-文人陵
+  period: &id006
+  - Ming
+  research_lens:
+  - Spatial Scale
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: former-residence-of-wang-yangming
+  name_en: Former Residence of Wang Yangming
+  name_zh: 王阳明故居
+  location:
+    city: Shaoxing
+    province: Zhejiang
+    country: China
+    latitude: 30.0511
+    longitude: 121.1526
+  category:
+    primary: Monuments & Memorial Landscapes
+    secondary:
+    - 故居/其他
+  period: *id006
+  research_lens:
+  - Narrative Structure
+  - Emotional Distance
+  - Historical Memory
+  - Public History
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: former-residence-of-feng-menglong
+  name_en: Former Residence of Feng Menglong
+  name_zh: 冯梦龙故居
+  location:
+    city: Suzhou
+    province: Jiangsu
+    country: China
+    latitude: 31.462
+    longitude: 120.5217
+  category:
+    primary: Monuments & Memorial Landscapes
+    secondary:
+    - 故居/其他
+  period: *id006
+  research_lens:
+  - Narrative Structure
+  - Emotional Distance
+  - Historical Memory
+  - Public History
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: tomb-of-king-fuchai-fuchai-pavilion
+  name_en: Tomb of King Fuchai / Fuchai Pavilion (Dayangshan)
+  name_zh: 夫差墓/夫差亭（大阳山）
+  location:
+    city: Suzhou
+    province: Jiangsu
+    country: China
+    latitude: 31.3245
+    longitude: 120.4589
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-君王陵
+  period:
+  - Spring and Autumn (Wu)
+  research_lens:
+  - Spatial Scale
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: hubei-provincial-museum
+  name_en: Hubei Provincial Museum
+  name_zh: 湖北省博物馆
+  location:
+    city: Wuhan
+    province: Hubei
+    country: China
+    latitude: 30.5615
+    longitude: 114.3654
+  category:
+    primary: Museums & Collections
+    secondary:
+    - 博物馆
+  period: *id001
+  research_lens:
+  - Material Proximity
+  - Narrative Structure
+  - Public History
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: red-cliff-site
+  name_en: Red Cliff Site
+  name_zh: 赤壁遗址
+  location:
+    city: Xianning (赤壁)
+    province: Hubei
+    country: China
+    latitude: 29.8788
+    longitude: 113.6308
+  category:
+    primary: Natural & Cultural Landscapes
+    secondary:
+    - 自然人文景观
+  period:
+  - Three Kingdoms
+  research_lens:
+  - Narrative Structure
+  - Emotional Distance
+  - Historical Memory
+  - Public History
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: tomb-of-zhang-qian
+  name_en: Tomb of Zhang Qian
+  name_zh: 张骞墓
+  location:
+    city: Hanzhong (城固)
+    province: Shaanxi
+    country: China
+    latitude: 33.1558
+    longitude: 107.2961
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-臣子陵
+  period: *id002
+  research_lens:
+  - Spatial Scale
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: wuhou-shrine-temple-of-marquis-wu
+  name_en: Wuhou Shrine (Temple of Marquis Wu)
+  name_zh: 武侯祠
+  location:
+    city: Chengdu
+    province: Sichuan
+    country: China
+    latitude: 30.6462
+    longitude: 104.048
+  category:
+    primary: Monuments & Memorial Landscapes
+    secondary:
+    - 故居/其他
+  period: &id011
+  - Three Kingdoms (Shu Han)
+  research_lens:
+  - Sacred Space
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: tomb-of-han-xin
+  name_en: Tomb of Han Xin
+  name_zh: 韩信墓
+  location:
+    city: Xi'an
+    province: Shaanxi
+    country: China
+    latitude: 34.3611
+    longitude: 109.0848
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-臣子陵
+  period: *id002
+  research_lens:
+  - Spatial Scale
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: forest-of-steles
+  name_en: Forest of Steles
+  name_zh: 碑林
+  location:
+    city: Xi'an
+    province: Shaanxi
+    country: China
+    latitude: 34.2545
+    longitude: 108.9529
+  category:
+    primary: Museums & Collections
+    secondary:
+    - 博物馆
+  period: *id001
+  research_lens:
+  - Narrative Structure
+  - Material Proximity
+  - Public History
+  - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: qin-shi-huang-s-quest-for-immortality-site
+  name_en: Qin Shi Huang's Quest for Immortality Site
+  name_zh: 秦始皇求仙入海处
+  location:
+    city: Qinhuangdao
+    province: Hebei
+    country: China
+    latitude: 39.9139
+    longitude: 119.6223
+  category:
+    primary: Monuments & Memorial Landscapes
+    secondary:
+    - 故居/其他
+  period: *id003
+  research_lens:
+  - Narrative Structure
+  - Emotional Distance
+  - Historical Memory
+  - Public History
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: orchid-pavilion
+  name_en: National Museum of China
+  name_zh: 兰亭
+  location:
+    city: Shaoxing
+    province: Zhejiang
+    country: China
+    latitude: 29.926
+    longitude: 120.4999
+  category:
+    primary: Natural & Cultural Landscapes
+    secondary:
+    - 自然人文景观
+  period: &id007
+  - Eastern Jin
+  research_lens:
+  - Narrative Structure
+  - Emotional Distance
+  - Historical Memory
+  - Public History
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: shanghai-museum
+  name_en: Hebei Museum
+  name_zh: 上海博物馆
+  location:
+    city: Shanghai
+    province: Shanghai
+    country: China
+    latitude: 31.2282
+    longitude: 121.4755
+  category:
+    primary: Museums & Collections
+    secondary:
+    - 博物馆
+  period: *id001
+  research_lens:
+  - Narrative Structure
+  - Material Proximity
+  - Public History
+  - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: national-museum-of-china
+  name_en: National Museum of China
+  name_zh: 国家博物馆
+  location:
+    city: Beijing
+    province: Beijing
+    country: China
+    latitude: 39.9054
+    longitude: 116.4013
+  category:
+    primary: Museums & Collections
+    secondary:
+    - 博物馆
+  period: *id001
+  research_lens:
+  - Narrative Structure
+  - Material Proximity
+  - Public History
+  - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: hebei-museum
+  name_en: Hebei Museum
+  name_zh: 河北省博物馆
+  location:
+    city: Shijiazhuang
+    province: Hebei
+    country: China
+    latitude: 38.0406
+    longitude: 114.5227
+  category:
+    primary: Museums & Collections
+    secondary:
+    - 博物馆
+  period: *id001
+  research_lens:
+  - Narrative Structure
+  - Material Proximity
+  - Public History
+  - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: birthplace-of-qin-shi-huang
+  name_en: Birthplace of Qin Shi Huang
+  name_zh: 秦始皇出生地
+  location:
+    city: Handan
+    province: Hebei
+    country: China
+    latitude: 36.6138
+    longitude: 114.489
+  category:
+    primary: Monuments & Memorial Landscapes
+    secondary:
+    - 故居/其他
+  period: []
+  research_lens: []
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: handan-municipal-museum
+  name_en: Handan Municipal Museum
+  name_zh: 邯郸市博物馆
+  location:
+    city: Handan
+    province: Hebei
+    country: China
+    latitude: 36.6101
+    longitude: 114.5229
+  category:
+    primary: Museums & Collections
+    secondary:
+    - 博物馆
+  period: *id001
+  research_lens:
+  - Narrative Structure
+  - Material Proximity
+  - Public History
+  - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: yinxu-museum
+  name_en: Yinxu Museum
+  name_zh: 殷墟博物馆
+  location:
+    city: Anyang
+    province: Henan
+    country: China
+    latitude: 36.1206
+    longitude: 114.3303
+  category:
+    primary: Museums & Collections
+    secondary:
+    - 博物馆
+  period:
+  - Shang
+  research_lens:
+  - Narrative Structure
+  - Material Proximity
+  - Public History
+  - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: mogao-caves
+  name_en: Mogao Caves
+  name_zh: 莫高窟
+  location:
+    city: Dunhuang
+    province: Gansu
+    country: China
+    latitude: 40.0425
+    longitude: 94.8094
+  category:
+    primary: Natural & Cultural Landscapes
+    secondary:
+    - 自然人文景观
+  period:
+  - Northern and Southern Dynasties (Former Qin origins)
+  research_lens:
+  - Material Proximity
+  - Historical Memory
+  - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: jiayuguan-pass
+  name_en: Jiayuguan Pass
+  name_zh: 嘉峪关
+  location:
+    city: Jiayuguan
+    province: Gansu
+    country: China
+    latitude: 39.8008
+    longitude: 98.2278
+  category:
+    primary: Natural & Cultural Landscapes
+    secondary:
+    - 自然人文景观
+  period: *id006
+  research_lens:
+  - Spatial Scale
+  - Political Memory
+  - Visitor Movement
+  - Public History
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: yangguan-pass
+  name_en: Yangguan Pass
+  name_zh: 阳关
+  location:
+    city: Dunhuang
+    province: Gansu
+    country: China
+    latitude: 39.9357
+    longitude: 94.0562
+  category:
+    primary: Natural & Cultural Landscapes
+    secondary:
+    - 自然人文景观
+  period:
+  - Han
+  research_lens:
+  - Spatial Scale
+  - Political Memory
+  - Visitor Movement
+  - Public History
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: yingtianmen-gate
+  name_en: Yingtianmen Gate
+  name_zh: 应天门
+  location:
+    city: Luoyang
+    province: Henan
+    country: China
+    latitude: 34.676
+    longitude: 112.4609
+  category:
+    primary: Natural & Cultural Landscapes
+    secondary:
+    - 自然人文景观
+  period:
+  - Sui–Tang
+  research_lens:
+  - Spatial Scale
+  - Political Memory
+  - Visitor Movement
+  - Public History
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: tomb-of-zhong-yong
+  name_en: Tomb of Zhong Yong
+  name_zh: 仲雍墓
+  location:
+    city: Suzhou (常熟)
+    province: Jiangsu
+    country: China
+    latitude: 31.6475
+    longitude: 120.7377
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-君王陵
+  period:
+  - Late Shang–Early Zhou
+  research_lens:
+  - Spatial Scale
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: tomb-of-yan-zi
+  name_en: Tomb of Yan Zi
+  name_zh: 言子墓
+  location:
+    city: Suzhou (常熟)
+    province: Jiangsu
+    country: China
+    latitude: 31.6477
+    longitude: 120.7404
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-文人陵
+  period: []
+  research_lens:
+  - Spatial Scale
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: shenyuan-garden
+  name_en: Shenyuan Garden
+  name_zh: 沈园
+  location:
+    city: Shaoxing
+    province: Zhejiang
+    country: China
+    latitude: 29.9903
+    longitude: 120.59
+  category:
+    primary: Natural & Cultural Landscapes
+    secondary:
+    - 自然人文景观
+  period:
+  - Southern Song
+  research_lens:
+  - Narrative Structure
+  - Emotional Distance
+  - Historical Memory
+  - Public History
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: tomb-of-yu-qian
+  name_en: Tomb of Yu Qian
+  name_zh: 于谦墓
+  location:
+    city: Hangzhou
+    province: Zhejiang
+    country: China
+    latitude: 30.2297
+    longitude: 120.1312
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-臣子陵
+  period: *id006
+  research_lens:
+  - Spatial Scale
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: lingyin-temple
+  name_en: Su Causeway / Bai Causeway
+  name_zh: 灵隐寺
+  location:
+    city: Hangzhou
+    province: Zhejiang
+    country: China
+    latitude: 30.2408
+    longitude: 120.1014
+  category:
+    primary: Natural & Cultural Landscapes
+    secondary:
+    - 自然人文景观
+  period: *id007
+  research_lens:
+  - Sacred Space
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: tomb-of-su-xiaoxiao
+  name_en: Tomb of Su Xiaoxiao
+  name_zh: 苏小小墓
+  location:
+    city: Hangzhou
+    province: Zhejiang
+    country: China
+    latitude: 30.2518
+    longitude: 120.1383
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-文人陵
+  period:
+  - Southern Qi
+  research_lens:
+  - Spatial Scale
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: tomb-of-wu-song
+  name_en: Tomb of Wu Song
+  name_zh: 武松墓
+  location:
+    city: Hangzhou
+    province: Zhejiang
+    country: China
+    latitude: 30.2519
+    longitude: 120.1376
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-文人陵
+  period: *id008
+  research_lens:
+  - Spatial Scale
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: su-causeway-bai-causeway
+  name_en: Su Causeway / Bai Causeway
+  name_zh: 苏堤/白堤
+  location:
+    city: Hangzhou
+    province: Zhejiang
+    country: China
+    latitude: 30.2519
+    longitude: 120.1379
+  category:
+    primary: Natural & Cultural Landscapes
+    secondary:
+    - 自然人文景观
+  period:
+  - Song
+  - Tang
+  research_lens:
+  - Narrative Structure
+  - Emotional Distance
+  - Historical Memory
+  - Public History
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: tomb-of-l-buwei
+  name_en: Great Wall — Badaling / Juyongguan
+  name_zh: 吕不韦墓
+  location:
+    city: Luoyang (偃师)
+    province: Henan
+    country: China
+    latitude: 34.7237
+    longitude: 112.7194
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-臣子陵
+  period: *id009
+  research_lens:
+  - Spatial Scale
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: zhumadian-museum
+  name_en: Zhumadian Museum
+  name_zh: 驻马店博物馆
+  location:
+    city: Zhumadian
+    province: Henan
+    country: China
+    latitude: 33.0075
+    longitude: 114.0241
+  category:
+    primary: Museums & Collections
+    secondary:
+    - 博物馆
+  period: *id001
+  research_lens:
+  - Narrative Structure
+  - Material Proximity
+  - Public History
+  - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: longmen-grottoes
+  name_en: Longmen Grottoes
+  name_zh: 龙门石窟
+  location:
+    city: Luoyang
+    province: Henan
+    country: China
+    latitude: 34.5587
+    longitude: 112.4775
+  category:
+    primary: Natural & Cultural Landscapes
+    secondary:
+    - 自然人文景观
+  period:
+  - Northern Wei to Tang
+  research_lens:
+  - Spatial Scale
+  - Sacred Space
+  - Visitor Movement
+  - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: great-wall-badaling-juyongguan
+  name_en: Great Wall — Badaling / Juyongguan
+  name_zh: 长城（八达岭/居庸关）
+  location:
+    city: Beijing
+    province: Beijing
+    country: China
+    latitude: 40.3562
+    longitude: 116.0168
+  category:
+    primary: Natural & Cultural Landscapes
+    secondary:
+    - 自然人文景观
+  period: *id006
+  research_lens:
+  - Spatial Scale
+  - Political Memory
+  - Visitor Movement
+  - Public History
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: luoyang-museum
+  name_en: Luoyang Museum
+  name_zh: 洛阳博物馆
+  location:
+    city: Luoyang
+    province: Henan
+    country: China
+    latitude: 34.6433
+    longitude: 112.4515
+  category:
+    primary: Museums & Collections
+    secondary:
+    - 博物馆
+  period: *id001
+  research_lens:
+  - Material Proximity
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: dujiangyan-irrigation-system
+  name_en: Dujiangyan Irrigation System
+  name_zh: 都江堰
+  location:
+    city: 都江堰
+    province: Sichuan
+    country: China
+    latitude: 31.0034
+    longitude: 103.6105
+  category:
+    primary: Natural & Cultural Landscapes
+    secondary:
+    - 自然人文景观
+  period: *id003
+  research_lens:
+  - Narrative Structure
+  - Emotional Distance
+  - Historical Memory
+  - Public History
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: chengdu-museum
+  name_en: Anhui Museum
+  name_zh: 成都博物馆
+  location:
+    city: Chengdu
+    province: Sichuan
+    country: China
+    latitude: 30.6573
+    longitude: 104.0637
+  category:
+    primary: Museums & Collections
+    secondary:
+    - 博物馆
+  period: *id001
+  research_lens:
+  - Narrative Structure
+  - Material Proximity
+  - Public History
+  - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: tian-guo-temple
+  name_en: Tian'guo Temple
+  name_zh: 天国寺
+  location:
+    city: Dujiangyan
+    province: Sichuan
+    country: China
+    latitude: 30.8871
+    longitude: 103.5058
+  category:
+    primary: Natural & Cultural Landscapes
+    secondary:
+    - 自然人文景观
+  period: *id001
+  research_lens:
+  - Narrative Structure
+  - Emotional Distance
+  - Historical Memory
+  - Public History
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: baima-temple-white-horse-temple
+  name_en: Baima Temple (White Horse Temple)
+  name_zh: 白马寺
+  location:
+    city: Luoyang
+    province: Henan
+    country: China
+    latitude: 34.7218
+    longitude: 112.6053
+  category:
+    primary: Natural & Cultural Landscapes
+    secondary:
+    - 自然人文景观
+  period: *id010
+  research_lens:
+  - Sacred Space
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: anhui-museum
+  name_en: Anhui Museum
+  name_zh: 安徽省博物馆
+  location:
+    city: Hefei
+    province: Anhui
+    country: China
+    latitude: 31.8021
+    longitude: 117.2206
+  category:
+    primary: Museums & Collections
+    secondary:
+    - 博物馆
+  period: *id001
+  research_lens:
+  - Narrative Structure
+  - Material Proximity
+  - Public History
+  - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: mount-li
+  name_en: Mount Li
+  name_zh: 骊山
+  location:
+    city: Xi'an (临潼)
+    province: Shaanxi
+    country: China
+    latitude: 34.3673
+    longitude: 109.2069
+  category:
+    primary: Natural & Cultural Landscapes
+    secondary:
+    - 自然人文景观
+  period: *id001
+  research_lens:
+  - Spatial Scale
+  - Sacred Space
+  - Visitor Movement
+  - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: qilian-mountains
+  name_en: Xi'an Museum
+  name_zh: 祁连山
+  location:
+    city: Qilian Mountains
+    province: Qinghai/Gansu
+    country: China
+    latitude: 37.52
+    longitude: 101.5
+  category:
+    primary: Natural & Cultural Landscapes
+    secondary:
+    - 自然人文景观
+  period: *id001
+  research_lens:
+  - Spatial Scale
+  - Sacred Space
+  - Visitor Movement
+  - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: mati-temple
+  name_en: Mati Temple
+  name_zh: 马蹄寺
+  location:
+    city: Zhangye (肃南)
+    province: Gansu
+    country: China
+    latitude: 38.4843
+    longitude: 100.4166
+  category:
+    primary: Natural & Cultural Landscapes
+    secondary:
+    - 自然人文景观
+  period: []
+  research_lens:
+  - Spatial Scale
+  - Sacred Space
+  - Visitor Movement
+  - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: yefu-mountain
+  name_en: Yefu Mountain
+  name_zh: 冶父山
+  location:
+    city: Hefei (庐江)
+    province: Anhui
+    country: China
+    latitude: 31.2969
+    longitude: 117.3419
+  category:
+    primary: Natural & Cultural Landscapes
+    secondary:
+    - 自然人文景观
+  period: *id001
+  research_lens:
+  - Spatial Scale
+  - Sacred Space
+  - Visitor Movement
+  - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: xi-an-museum
+  name_en: Xi'an Museum
+  name_zh: 西安博物馆
+  location:
+    city: Xi'an
+    province: Shaanxi
+    country: China
+    latitude: 34.2386
+    longitude: 108.9417
+  category:
+    primary: Museums & Collections
+    secondary:
+    - 博物馆
+  period: *id001
+  research_lens:
+  - Narrative Structure
+  - Material Proximity
+  - Public History
+  - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: giant-wild-goose-pagoda
+  name_en: Giant Wild Goose Pagoda
+  name_zh: 大雁塔
+  location:
+    city: Xi'an
+    province: Shaanxi
+    country: China
+    latitude: 34.2182
+    longitude: 108.9642
+  category:
+    primary: Natural & Cultural Landscapes
+    secondary:
+    - 自然人文景观
+  period: *id004
+  research_lens:
+  - Narrative Structure
+  - Emotional Distance
+  - Historical Memory
+  - Public History
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: liyuan-garden
+  name_en: Liyuan Garden
+  name_zh: 蠡园
+  location:
+    city: Wuxi
+    province: Jiangsu
+    country: China
+    latitude: 31.5165
+    longitude: 120.2584
+  category:
+    primary: Natural & Cultural Landscapes
+    secondary:
+    - 自然人文景观
+  period: *id001
+  research_lens:
+  - Narrative Structure
+  - Emotional Distance
+  - Historical Memory
+  - Public History
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: taihu-lake
+  name_en: Taihu Lake
+  name_zh: 太湖
+  location:
+    city: Wuxi
+    province: Jiangsu
+    country: China
+    latitude: 31.5231
+    longitude: 120.2265
+  category:
+    primary: Natural & Cultural Landscapes
+    secondary:
+    - 自然人文景观
+  period: *id001
+  research_lens:
+  - Spatial Scale
+  - Sacred Space
+  - Visitor Movement
+  - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: tomb-of-guo-jia
+  name_en: Daming Palace Ruins Park and Museum
+  name_zh: 郭嘉墓
+  location:
+    city: 许昌禹州
+    province: Henan
+    country: China
+    latitude: 34.1267
+    longitude: 113.5971
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-臣子陵
+  period: *id005
+  research_lens:
+  - Spatial Scale
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: guo-jia-ancestral-hall
+  name_en: Changling Mausoleum
+  name_zh: 郭嘉祠堂
+  location:
+    city: 许昌禹州
+    province: Henan
+    country: China
+    latitude: 34.1707
+    longitude: 113.5754
+  category:
+    primary: Monuments & Memorial Landscapes
+    secondary:
+    - 故居/其他
+  period: *id005
+  research_lens:
+  - Sacred Space
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: xianyang-palace-ruins-park-and-museum
+  name_en: Xianyang Palace Ruins Park and Museum
+  name_zh: 咸阳宫遗址公园及博物馆
+  location:
+    city: Xianyang
+    province: Shaanxi
+    country: China
+    latitude: 34.4132
+    longitude: 108.8599
+  category:
+    primary: Natural & Cultural Landscapes
+    secondary:
+    - 自然人文景观
+  period: *id003
+  research_lens:
+  - Narrative Structure
+  - Material Proximity
+  - Public History
+  - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: daming-palace-ruins-park-and-museum
+  name_en: Daming Palace Ruins Park and Museum
+  name_zh: 大明宫遗址公园及博物馆
+  location:
+    city: Xi'an
+    province: Shaanxi
+    country: China
+    latitude: 34.2926
+    longitude: 108.9635
+  category:
+    primary: Natural & Cultural Landscapes
+    secondary:
+    - 自然人文景观
+  period: *id004
+  research_lens:
+  - Narrative Structure
+  - Material Proximity
+  - Public History
+  - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: changling-mausoleum
+  name_en: Changling Mausoleum
+  name_zh: 长陵
+  location:
+    city: Xi'an
+    province: Shaanxi
+    country: China
+    latitude: 34.43
+    longitude: 108.87
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-君王陵
+  period: *id006
+  research_lens:
+  - Spatial Scale
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: daxingshan-temple
+  name_en: Daxingshan Temple
+  name_zh: 大兴善寺
+  location:
+    city: Xi'an
+    province: Shaanxi
+    country: China
+    latitude: 34.2271
+    longitude: 108.9435
+  category:
+    primary: Natural & Cultural Landscapes
+    secondary:
+    - 自然人文景观
+  period: []
+  research_lens:
+  - Sacred Space
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: xi-an-city-wall
+  name_en: Xi'an City Wall
+  name_zh: 西安城墙
+  location:
+    city: Xi'an
+    province: Shaanxi
+    country: China
+    latitude: 34.2516
+    longitude: 108.947
+  category:
+    primary: Natural & Cultural Landscapes
+    secondary:
+    - 自然人文景观
+  period: *id006
+  research_lens:
+  - Spatial Scale
+  - Political Memory
+  - Visitor Movement
+  - Public History
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: huiling-mausoleum
+  name_en: Huiling Mausoleum
+  name_zh: 惠陵
+  location:
+    city: Chengdu
+    province: Sichuan
+    country: China
+    latitude: 30.6458
+    longitude: 104.0483
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-君王陵
+  period: *id011
+  research_lens:
+  - Spatial Scale
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
+- id: tomb-of-empress-l
+  name_en: Tomb of Empress Lü
+  name_zh: 吕后陵
+  location:
+    city: Xianyang
+    province: Shaanxi
+    country: China
+    latitude: 34.4323
+    longitude: 108.8859
+  category:
+    primary: Tombs & Mausoleums
+    secondary:
+    - 陵墓-君王陵
+  period: *id002
+  research_lens:
+  - Spatial Scale
+  - Emotional Distance
+  - Memorialization
+  - Historical Memory
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  case_studies: []
+  notes: ''
