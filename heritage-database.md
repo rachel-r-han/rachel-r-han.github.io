@@ -360,7 +360,7 @@ Filter and explore sites by province, category, and historical period.
 </div>
 
 <div class="archive-filter">
-<label for="category-filter>
+<label for="category-filter">
 <span class="archive-filter-label">Category</span>
 <select id="category-filter">
 <option value="">All Categories</option>
