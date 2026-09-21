@@ -225,7 +225,8 @@ sidebar:
    ------------------------------------------------------- */
 
 .page__content {
-  max-width: 980px;
+  max-width: 1180px;
+  width: 100%;
 }
 
 .archive-stats {
