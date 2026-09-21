@@ -341,12 +341,26 @@ Map visualization based on 75 documented heritage sites in the fieldwork archive
 
 <div class="archive-browse">
 
-Filter and explore sites by category, historical period, and research lens.
+Filter and explore sites by province, category, and historical period.
 
 <div class="archive-filters">
 
+
 <div class="archive-filter">
-<label for="category-filter">
+<label for="province-filter">
+<span class="archive-filter-label">Province</span>
+<select id="province-filter">
+<option value="">All Provinces</option>
+{% assign provinces = site.data.fieldwork.sites | map: "location" | map: "province" | uniq | sort %}
+{% for province in provinces %}
+<option value="{{ province }}">{{ province }}</option>
+{% endfor %}
+</select>
+</label>
+</div>
+
+<div class="archive-filter">
+<label for="category-filter>
 <span class="archive-filter-label">Category</span>
 <select id="category-filter">
 <option value="">All Categories</option>
@@ -371,17 +385,6 @@ Filter and explore sites by category, historical period, and research lens.
 </label>
 </div>
 
-<div class="archive-filter">
-<label for="lens-filter">
-<span class="archive-filter-label">Research Lens</span>
-<select id="lens-filter">
-<option value="">All Research Lenses</option>
-{% for lens in site.data.fieldwork.research_lenses %}
-<option value="{{ lens }}">{{ lens }}</option>
-{% endfor %}
-</select>
-</label>
-</div>
 
 </div>
 
@@ -562,6 +565,7 @@ Showing {{ site.data.fieldwork.sites | size }} sites
 {% for item in site.data.fieldwork.sites %}
 
 <article class="heritage-site"
+data-province="{{ item.location.province }}"
 data-category="{{ item.category.primary }}"
 data-period="{{ item.period | join: '|' }}"
 data-lens="{{ item.research_lens | join: '|' }}">
@@ -776,6 +780,7 @@ document.addEventListener("DOMContentLoaded", function () {
      Archive filters
      --------------------------- */
 
+  const provinceFilter = document.getElementById("province-filter");
   const categoryFilter = document.getElementById("category-filter");
   const periodFilter = document.getElementById("period-filter");
   const lensFilter = document.getElementById("lens-filter");
@@ -787,6 +792,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   function updateArchive() {
 
+    const province = provinceFilter.value;
     const category = categoryFilter.value;
     const period = periodFilter.value;
     const lens = lensFilter.value;
@@ -795,9 +801,13 @@ document.addEventListener("DOMContentLoaded", function () {
 
     sites.forEach(function (site) {
 
+      const siteProvince = site.dataset.province || "";
       const siteCategory = site.dataset.category || "";
       const sitePeriods = (site.dataset.period || "").split("|");
       const siteLenses = (site.dataset.lens || "").split("|");
+
+      const provinceMatch =
+        !province || siteProvince === province;
 
       const categoryMatch =
         !category || siteCategory === category;
@@ -809,9 +819,9 @@ document.addEventListener("DOMContentLoaded", function () {
         !lens || siteLenses.includes(lens);
 
       const show =
+        provinceMatch &&
         categoryMatch &&
-        periodMatch &&
-        lensMatch;
+        periodMatch;
 
       site.style.display = show ? "" : "none";
 
@@ -824,11 +834,13 @@ document.addEventListener("DOMContentLoaded", function () {
       "Showing " + visible + " of " + sites.length + " sites";
   }
 
+  provinceFilter.addEventListener("change", updateArchive);
   categoryFilter.addEventListener("change", updateArchive);
   periodFilter.addEventListener("change", updateArchive);
   lensFilter.addEventListener("change", updateArchive);
 
   resetButton.addEventListener("click", function () {
+    provinceFilter.value = "";
     categoryFilter.value = "";
     periodFilter.value = "";
     lensFilter.value = "";
