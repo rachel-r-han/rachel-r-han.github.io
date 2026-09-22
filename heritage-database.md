@@ -1,13 +1,12 @@
 ---
+title: "Heritage Database"
 layout: single
 permalink: /heritage-database/
-sidebar:
-  nav: fieldwork-categories
-title: Heritage Database
 toc: false
+sidebar:
+  nav: "fieldwork-categories"
 ---
 
-```{=html}
 <style>
 /* -------------------------------------------------------
    Heritage Database V7
@@ -304,116 +303,121 @@ toc: false
 }
 
 </style>
-```
-::: archive-intro
-This database documents historical and heritage sites visited across
-China through longitudinal field research.
-:::
 
-::: archive-stats
-::: archive-stat
-[75]{.archive-stat-number} [Documented Sites]{.archive-stat-label}
-:::
+<div class="archive-intro">
 
-::: archive-stat
-[4]{.archive-stat-number} [Site Categories]{.archive-stat-label}
-:::
+This database documents historical and heritage sites visited across China through longitudinal field research.
 
-::: archive-stat
-[8]{.archive-stat-number} [Research Lenses]{.archive-stat-label}
-:::
-:::
+</div>
 
-------------------------------------------------------------------------
+<div class="archive-stats">
+
+<div class="archive-stat">
+<span class="archive-stat-number">75</span>
+<span class="archive-stat-label">Documented Sites</span>
+</div>
+
+<div class="archive-stat">
+<span class="archive-stat-number">4</span>
+<span class="archive-stat-label">Site Categories</span>
+</div>
+
+<div class="archive-stat">
+<span class="archive-stat-number">8</span>
+<span class="archive-stat-label">Research Lenses</span>
+</div>
+
+</div>
+
+---
 
 ## Interactive Map
 
-::: map-header
-Explore the geographical distribution of my fieldwork sites across
-China.
-:::
+<div class="map-header">
 
-`<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>`{=html}
+Explore the geographical distribution of my fieldwork sites across China.
 
-```{=html}
+</div>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-```
-::: {#heritage-map}
-:::
 
-```{=html}
+<div id="heritage-map"></div>
+
 <p class="map-note">
-```
-Map visualization based on 75 documented heritage sites in the fieldwork
-archive.
-```{=html}
+Map visualization based on 75 documented heritage sites in the fieldwork archive.
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
 ## Browse Archive
 
-::: archive-browse
+<div class="archive-browse">
+
 Filter and explore sites by province, category, and historical period.
 
-::: archive-filters
-::: archive-filter
-`<label for="province-filter">`{=html} [Province]{.archive-filter-label}
-`<select id="province-filter">`{=html} `<option value="">`{=html}All
-Provinces`</option>`{=html} {% assign provinces =
-site.data.fieldwork.sites \| map: "location" \| map: "province" \| uniq
-\| sort %} {% for province in provinces %}
-`<option value="{{ province }}">`{=html}{{ province }}`</option>`{=html}
-{% endfor %} `</select>`{=html} `</label>`{=html}
-:::
+<div class="archive-filters">
 
-::: archive-filter
-\<label for="category-filter\> [Category]{.archive-filter-label}
-`<select id="category-filter">`{=html} `<option value="">`{=html}All
-Categories`</option>`{=html}
-`<option value="Tombs & Mausoleums">`{=html}Tombs &
-Mausoleums`</option>`{=html}
-`<option value="Museums & Collections">`{=html}Museums &
-Collections`</option>`{=html}
-`<option value="Natural & Cultural Landscapes">`{=html}Natural &
-Cultural Landscapes`</option>`{=html}
-`<option value="Monuments & Memorial Landscapes">`{=html}Monuments &
-Memorial Landscapes`</option>`{=html} `</select>`{=html}
-`</label>`{=html}
-:::
 
-::: archive-filter
-`<label for="period-filter">`{=html} [Historical
-Period]{.archive-filter-label} `<select id="period-filter">`{=html}
-`<option value="">`{=html}All Periods`</option>`{=html} {% assign
-periods = site.data.fieldwork.sites \| map: "period" \| flatten \| uniq
-\| sort %} {% for period in periods %}
-`<option value="{{ period }}">`{=html}{{ period }}`</option>`{=html} {%
-endfor %} `</select>`{=html} `</label>`{=html}
-:::
-:::
+<div class="archive-filter">
+<label for="province-filter">
+<span class="archive-filter-label">Province</span>
+<select id="province-filter">
+<option value="">All Provinces</option>
+{% assign provinces = site.data.fieldwork.sites | map: "location" | map: "province" | uniq | sort %}
+{% for province in provinces %}
+<option value="{{ province }}">{{ province }}</option>
+{% endfor %}
+</select>
+</label>
+</div>
 
-::: archive-actions
-```{=html}
-<button type="button" class="archive-reset" id="archive-reset">
-```
-Reset Filters
-```{=html}
-</button>
-```
-:::
+<div class="archive-filter">
+<label for="category-filter>
+<span class="archive-filter-label">Category</span>
+<select id="category-filter">
+<option value="">All Categories</option>
+<option value="Tombs & Mausoleums">Tombs & Mausoleums</option>
+<option value="Museums & Collections">Museums & Collections</option>
+<option value="Natural & Cultural Landscapes">Natural & Cultural Landscapes</option>
+<option value="Monuments & Memorial Landscapes">Monuments & Memorial Landscapes</option>
+</select>
+</label>
+</div>
 
-::: {#site-count}
-Showing {{ site.data.fieldwork.sites \| size }} sites
-:::
-:::
+<div class="archive-filter">
+<label for="period-filter">
+<span class="archive-filter-label">Historical Period</span>
+<select id="period-filter">
+<option value="">All Periods</option>
+{% assign periods = site.data.fieldwork.sites | map: "period" | flatten | uniq | sort %}
+{% for period in periods %}
+<option value="{{ period }}">{{ period }}</option>
+{% endfor %}
+</select>
+</label>
+</div>
 
-------------------------------------------------------------------------
+
+</div>
+
+<div class="archive-actions">
+<button type="button" class="archive-reset" id="archive-reset">Reset Filters</button>
+</div>
+
+<div id="site-count">
+Showing {{ site.data.fieldwork.sites | size }} sites
+</div>
+
+</div>
+
+---
 
 ## Site Catalogue
 
-```{=html}
+
+
 <style>
 /* -------------------------------------------------------
    Site Catalogue V8
@@ -584,88 +588,79 @@ Showing {{ site.data.fieldwork.sites \| size }} sites
 }
 
 </style>
-```
-::: {#site-catalogue}
+
+<div id="site-catalogue">
+
 {% for item in site.data.fieldwork.sites %}
 
-```{=html}
-<article class="heritage-site" data-province="{{ item.location.province }}" data-category="{{ item.category.primary }}" data-period="{{ item.period | join: &#39;|&#39; }}" data-lens="{{ item.research_lens | join: &#39;|&#39; }}">
-```
-::: site-card
-::: site-card-content
-```{=html}
-<h3 class="site-card-title">
-```
-{{ item.name_en }}
-```{=html}
-</h3>
-```
-```{=html}
-<p class="site-card-name-zh">
-```
-{{ item.name_zh }}
-```{=html}
-</p>
-```
-[{{ item.category.primary }}]{.site-category-tag}
+<article class="heritage-site"
+data-province="{{ item.location.province }}"
+data-category="{{ item.category.primary }}"
+data-period="{{ item.period | join: '|' }}"
+data-lens="{{ item.research_lens | join: '|' }}">
 
-::: site-meta-grid
-```{=html}
+<div class="site-card">
+
+<div class="site-card-content">
+
+<h3 class="site-card-title">{{ item.name_en }}</h3>
+
+<p class="site-card-name-zh">{{ item.name_zh }}</p>
+
+<span class="site-category-tag">{{ item.category.primary }}</span>
+
+<div class="site-meta-grid">
+
 <p class="site-meta">
-```
-`<strong>`{=html}Location:`</strong>`{=html} {{ item.location.city }},
-{{ item.location.province }}
-```{=html}
+<strong>Location:</strong>
+{{ item.location.city }}, {{ item.location.province }}
 </p>
-```
-```{=html}
+
 <p class="site-meta">
-```
-`<strong>`{=html}Period:`</strong>`{=html} {{ item.period \| join: ","
-}}
-```{=html}
+<strong>Period:</strong>
+{{ item.period | join: ", " }}
 </p>
-```
-:::
 
-::: site-themes
-[Research Themes]{.site-themes-label}
+</div>
 
-```{=html}
-<p class="site-themes-text">
-```
-{{ item.research_lens \| join: " · " }}
-```{=html}
-</p>
-```
-:::
+<!-- Research Themes hidden from catalogue card display.
+     research_lens data remains preserved for future academic analysis. -->
 
-::: site-visit-placeholder
-`<strong>`{=html}Field Visit:`</strong>`{=html} {% if item.visit_date %}
-{{ item.visit_date }} {% else %} Visit date to be added {% endif %}
-:::
-:::
+<div class="site-visit-placeholder">
 
-::: site-photo-slot
-{% if item.field_photo %}
-`<img src="{{ item.field_photo | relative_url }}"
-alt="Field photograph of {{ item.name_en }}">`{=html} {% else %}
-
-::: site-photo-placeholder
-Field photograph`<br>`{=html} to be added
-:::
-
+<strong>Field Visit:</strong>
+{% if item.visit_date %}
+{{ item.visit_date }}
+{% else %}
+Visit date to be added
 {% endif %}
-:::
-:::
 
-```{=html}
+</div>
+
+</div>
+
+<div class="site-photo-slot">
+
+{% if item.field_photo %}
+<img src="{{ item.field_photo | relative_url }}"
+alt="Field photograph of {{ item.name_en }}">
+{% else %}
+<div class="site-photo-placeholder">
+Field photograph<br>
+to be added
+</div>
+{% endif %}
+
+</div>
+
+</div>
+
 </article>
-```
-{% endfor %}
-:::
 
-```{=html}
+{% endfor %}
+
+</div>
+
 <script>
 document.addEventListener("DOMContentLoaded", function () {
 
@@ -868,4 +863,3 @@ document.addEventListener("DOMContentLoaded", function () {
 
 });
 </script>
-```
