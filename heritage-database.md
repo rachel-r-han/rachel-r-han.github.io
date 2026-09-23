@@ -1,12 +1,13 @@
 ---
-title: "Heritage Database"
 layout: single
 permalink: /heritage-database/
-toc: false
 sidebar:
-  nav: "fieldwork-categories"
+  nav: fieldwork-categories
+title: Heritage Database
+toc: false
 ---
 
+```{=html}
 <style>
 /* -------------------------------------------------------
    Heritage Database V7
@@ -70,6 +71,9 @@ sidebar:
   width: 100%;
   border: 1px solid #d9d9d5;
   background: #f4f3ef;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 18px rgba(0,0,0,0.06);
 }
 
 .map-legend {
@@ -288,136 +292,117 @@ sidebar:
   }
 }
 
-
-/* V8.4.1 Site Catalogue academic card refinement */
-.site-card h2 {
-  margin-bottom: 0.35rem;
-}
-
-.site-card .site-meta {
-  margin-top: 1.2rem;
-}
-
-.site-card .site-photo-slot {
-  border: 1px solid #deded9;
-}
-
 </style>
+```
+::: archive-intro
+This database documents historical and heritage sites visited across
+China through longitudinal field research.
+:::
 
-<div class="archive-intro">
+::: archive-stats
+::: archive-stat
+[75]{.archive-stat-number} [Documented Sites]{.archive-stat-label}
+:::
 
-This database documents historical and heritage sites visited across China through longitudinal field research.
+::: archive-stat
+[4]{.archive-stat-number} [Site Categories]{.archive-stat-label}
+:::
 
-</div>
+::: archive-stat
+[8]{.archive-stat-number} [Research Lenses]{.archive-stat-label}
+:::
+:::
 
-<div class="archive-stats">
-
-<div class="archive-stat">
-<span class="archive-stat-number">75</span>
-<span class="archive-stat-label">Documented Sites</span>
-</div>
-
-<div class="archive-stat">
-<span class="archive-stat-number">4</span>
-<span class="archive-stat-label">Site Categories</span>
-</div>
-
-<div class="archive-stat">
-<span class="archive-stat-number">8</span>
-<span class="archive-stat-label">Research Lenses</span>
-</div>
-
-</div>
-
----
+------------------------------------------------------------------------
 
 ## Interactive Map
 
-<div class="map-header">
+::: map-header
+Explore the geographical distribution of my fieldwork sites across
+China.
+:::
 
-Explore the geographical distribution of my fieldwork sites across China.
+`<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>`{=html}
 
-</div>
-
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
-
+```{=html}
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+```
+::: {#heritage-map}
+:::
 
-<div id="heritage-map"></div>
-
+```{=html}
 <p class="map-note">
-Map visualization based on 75 documented heritage sites in the fieldwork archive.
+```
+Map visualization based on 75 documented heritage sites in the fieldwork
+archive.
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
 ## Browse Archive
 
-<div class="archive-browse">
+::: archive-browse
+Filter and explore sites by category, historical period, and research
+lens.
 
-Filter and explore sites by province, category, and historical period.
+::: archive-filters
+::: archive-filter
+`<label for="category-filter">`{=html} [Category]{.archive-filter-label}
+`<select id="category-filter">`{=html} `<option value="">`{=html}All
+Categories`</option>`{=html}
+`<option value="Tombs & Mausoleums">`{=html}Tombs &
+Mausoleums`</option>`{=html}
+`<option value="Museums & Collections">`{=html}Museums &
+Collections`</option>`{=html}
+`<option value="Natural & Cultural Landscapes">`{=html}Natural &
+Cultural Landscapes`</option>`{=html}
+`<option value="Monuments & Memorial Landscapes">`{=html}Monuments &
+Memorial Landscapes`</option>`{=html} `</select>`{=html}
+`</label>`{=html}
+:::
 
-<div class="archive-filters">
+::: archive-filter
+`<label for="period-filter">`{=html} [Historical
+Period]{.archive-filter-label} `<select id="period-filter">`{=html}
+`<option value="">`{=html}All Periods`</option>`{=html} {% assign
+periods = site.data.fieldwork.sites \| map: "period" \| flatten \| uniq
+\| sort %} {% for period in periods %}
+`<option value="{{ period }}">`{=html}{{ period }}`</option>`{=html} {%
+endfor %} `</select>`{=html} `</label>`{=html}
+:::
 
+::: archive-filter
+`<label for="lens-filter">`{=html} [Research
+Lens]{.archive-filter-label} `<select id="lens-filter">`{=html}
+`<option value="">`{=html}All Research Lenses`</option>`{=html} {% for
+lens in site.data.fieldwork.research_lenses %}
+`<option value="{{ lens }}">`{=html}{{ lens }}`</option>`{=html} {%
+endfor %} `</select>`{=html} `</label>`{=html}
+:::
+:::
 
-<div class="archive-filter">
-<label for="province-filter">
-<span class="archive-filter-label">Province</span>
-<select id="province-filter">
-<option value="">All Provinces</option>
-{% assign provinces = site.data.fieldwork.sites | map: "location" | map: "province" | uniq | sort %}
-{% for province in provinces %}
-<option value="{{ province }}">{{ province }}</option>
-{% endfor %}
-</select>
-</label>
-</div>
+::: archive-actions
+```{=html}
+<button type="button" class="archive-reset" id="archive-reset">
+```
+Reset Filters
+```{=html}
+</button>
+```
+:::
 
-<div class="archive-filter">
-<label for="category-filter">
-<span class="archive-filter-label">Category</span>
-<select id="category-filter">
-<option value="">All Categories</option>
-<option value="Tombs & Mausoleums">Tombs & Mausoleums</option>
-<option value="Museums & Collections">Museums & Collections</option>
-<option value="Natural & Cultural Landscapes">Natural & Cultural Landscapes</option>
-<option value="Monuments & Memorial Landscapes">Monuments & Memorial Landscapes</option>
-</select>
-</label>
-</div>
+::: {#site-count}
+Showing {{ site.data.fieldwork.sites \| size }} sites
+:::
+:::
 
-<div class="archive-filter">
-<label for="period-filter">
-<span class="archive-filter-label">Historical Period</span>
-<select id="period-filter">
-<option value="">All Periods</option>
-{% assign periods = site.data.fieldwork.sites | map: "period" | flatten | uniq | sort %}
-{% for period in periods %}
-<option value="{{ period }}">{{ period }}</option>
-{% endfor %}
-</select>
-</label>
-</div>
-
-
-</div>
-
-<div class="archive-actions">
-<button type="button" class="archive-reset" id="archive-reset">Reset Filters</button>
-</div>
-
-<div id="site-count">
-Showing {{ site.data.fieldwork.sites | size }} sites
-</div>
-
-</div>
-
----
+------------------------------------------------------------------------
 
 ## Site Catalogue
 
-
-
+```{=html}
 <style>
 /* -------------------------------------------------------
    Site Catalogue V8
@@ -431,7 +416,7 @@ Showing {{ site.data.fieldwork.sites | size }} sites
 
 .heritage-site {
   border-top: 1px solid #deded9;
-  padding: 2rem 0 2.2rem;
+  padding: 1.7rem 0;
 }
 
 .heritage-site:last-child {
@@ -440,8 +425,8 @@ Showing {{ site.data.fieldwork.sites | size }} sites
 
 .site-card {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 260px;
-  gap: 3rem;
+  grid-template-columns: minmax(0, 1fr) 210px;
+  gap: 2rem;
   align-items: start;
 }
 
@@ -450,8 +435,8 @@ Showing {{ site.data.fieldwork.sites | size }} sites
 }
 
 .site-card-title {
-  margin: 0 0 0.35rem;
-  font-size: 1.45rem;
+  margin: 0 0 0.2rem;
+  font-size: 1.35rem;
   line-height: 1.3;
 }
 
@@ -521,7 +506,6 @@ Showing {{ site.data.fieldwork.sites | size }} sites
 .site-photo-slot {
   width: 100%;
   aspect-ratio: 4 / 3;
-
   border: 1px solid #deded9;
   background: #f7f7f4;
   display: flex;
@@ -573,94 +557,89 @@ Showing {{ site.data.fieldwork.sites | size }} sites
     grid-template-columns: 1fr;
   }
 }
-
-/* V8.4.1 Site Catalogue academic card refinement */
-.site-card h2 {
-  margin-bottom: 0.35rem;
-}
-
-.site-card .site-meta {
-  margin-top: 1.2rem;
-}
-
-.site-card .site-photo-slot {
-  border: 1px solid #deded9;
-}
-
 </style>
-
-<div id="site-catalogue">
-
+```
+::: {#site-catalogue}
 {% for item in site.data.fieldwork.sites %}
 
-<article class="heritage-site"
-data-province="{{ item.location.province }}"
-data-category="{{ item.category.primary }}"
-data-period="{{ item.period | join: '|' }}"
-data-lens="{{ item.research_lens | join: '|' }}">
-
-<div class="site-card">
-
-<div class="site-card-content">
-
-<h3 class="site-card-title">{{ item.name_en }}</h3>
-
-<p class="site-card-name-zh">{{ item.name_zh }}</p>
-
-<span class="site-category-tag">{{ item.category.primary }}</span>
-
-<div class="site-meta-grid">
-
-<p class="site-meta">
-<strong>Location:</strong>
-{{ item.location.city }}, {{ item.location.province }}
+```{=html}
+<article class="heritage-site" data-category="{{ item.category.primary }}" data-period="{{ item.period | join: &#39;|&#39; }}" data-lens="{{ item.research_lens | join: &#39;|&#39; }}">
+```
+::: site-card
+::: site-card-content
+```{=html}
+<h3 class="site-card-title">
+```
+{{ item.name_en }}
+```{=html}
+</h3>
+```
+```{=html}
+<p class="site-card-name-zh">
+```
+{{ item.name_zh }}
+```{=html}
 </p>
+```
+[{{ item.category.primary }}]{.site-category-tag}
 
+::: site-meta-grid
+```{=html}
 <p class="site-meta">
-<strong>Period:</strong>
-{{ item.period | join: ", " }}
+```
+`<strong>`{=html}Location:`</strong>`{=html} {{ item.location.city }},
+{{ item.location.province }}
+```{=html}
 </p>
+```
+```{=html}
+<p class="site-meta">
+```
+`<strong>`{=html}Period:`</strong>`{=html} {{ item.period \| join: ","
+}}
+```{=html}
+</p>
+```
+:::
 
-</div>
+::: site-themes
+[Research Themes]{.site-themes-label}
 
-<!-- Research Themes hidden from catalogue card display.
-     research_lens data remains preserved for future academic analysis. -->
+```{=html}
+<p class="site-themes-text">
+```
+{{ item.research_lens \| join: " · " }}
+```{=html}
+</p>
+```
+:::
 
-<div class="site-visit-placeholder">
+::: site-visit-placeholder
+`<strong>`{=html}Field Visit:`</strong>`{=html} {% if item.visit_date %}
+{{ item.visit_date }} {% else %} Visit date to be added {% endif %}
+:::
+:::
 
-<strong>Field Visit:</strong>
-{% if item.visit_date %}
-{{ item.visit_date }}
-{% else %}
-Visit date to be added
-{% endif %}
-
-</div>
-
-</div>
-
-<div class="site-photo-slot">
-
+::: site-photo-slot
 {% if item.field_photo %}
-<img src="{{ item.field_photo | relative_url }}"
-alt="Field photograph of {{ item.name_en }}">
-{% else %}
-<div class="site-photo-placeholder">
-Field photograph<br>
-to be added
-</div>
+`<img src="{{ item.field_photo | relative_url }}"
+alt="Field photograph of {{ item.name_en }}">`{=html} {% else %}
+
+::: site-photo-placeholder
+Field photograph`<br>`{=html} to be added
+:::
+
 {% endif %}
+:::
+:::
 
-</div>
-
-</div>
-
+```{=html}
 </article>
-
+```
 {% endfor %}
+:::
 
-</div>
-
+```{=html}
 <script>
 document.addEventListener("DOMContentLoaded", function () {
 
@@ -802,7 +781,6 @@ document.addEventListener("DOMContentLoaded", function () {
      Archive filters
      --------------------------- */
 
-  const provinceFilter = document.getElementById("province-filter");
   const categoryFilter = document.getElementById("category-filter");
   const periodFilter = document.getElementById("period-filter");
   const lensFilter = document.getElementById("lens-filter");
@@ -814,19 +792,17 @@ document.addEventListener("DOMContentLoaded", function () {
 
   function updateArchive() {
 
-    const province = provinceFilter.value;
     const category = categoryFilter.value;
     const period = periodFilter.value;
+    const lens = lensFilter.value;
 
     let visible = 0;
 
     sites.forEach(function (site) {
 
-      const siteProvince = site.dataset.province || "";
       const siteCategory = site.dataset.category || "";
       const sitePeriods = (site.dataset.period || "").split("|");
-      const provinceMatch =
-        !province || siteProvince === province;
+      const siteLenses = (site.dataset.lens || "").split("|");
 
       const categoryMatch =
         !category || siteCategory === category;
@@ -834,10 +810,13 @@ document.addEventListener("DOMContentLoaded", function () {
       const periodMatch =
         !period || sitePeriods.includes(period);
 
+      const lensMatch =
+        !lens || siteLenses.includes(lens);
+
       const show =
-        provinceMatch &&
         categoryMatch &&
-        periodMatch;
+        periodMatch &&
+        lensMatch;
 
       site.style.display = show ? "" : "none";
 
@@ -850,16 +829,17 @@ document.addEventListener("DOMContentLoaded", function () {
       "Showing " + visible + " of " + sites.length + " sites";
   }
 
-  provinceFilter.addEventListener("change", updateArchive);
   categoryFilter.addEventListener("change", updateArchive);
   periodFilter.addEventListener("change", updateArchive);
+  lensFilter.addEventListener("change", updateArchive);
 
   resetButton.addEventListener("click", function () {
-    provinceFilter.value = "";
     categoryFilter.value = "";
     periodFilter.value = "";
+    lensFilter.value = "";
     updateArchive();
   });
 
 });
 </script>
+```
