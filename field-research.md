@@ -103,11 +103,6 @@ border-top:1px solid #999;
 ">
 
 
-<div style="
-padding:30px 0;
-border-top:1px solid #999;
-">
-
 
 <h3>
 Mausoleum of Qin Shi Huang
