@@ -84,9 +84,6 @@ View 75 Sites →
 <br>
 
 
----
-
-
 <a id="identity"></a>
 
 
@@ -247,8 +244,7 @@ With the least amount of formal offerings, Li Si's tomb shows how history quietl
 
 <a id="engagement"></a>
 
-
-# Engagement within Memorials
+## Engagement within Memorials
 
 
 Historical memory is not only preserved through monuments themselves.
