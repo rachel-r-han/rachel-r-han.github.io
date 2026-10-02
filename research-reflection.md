@@ -44,7 +44,6 @@ I began to realize that heritage is not only about preserving historical remains
 <br>
 
 
-
 ---
 
 
@@ -94,7 +93,7 @@ Archival reading and local historical materials
 <br>
 
 
-Through these approaches, I recorded not only historical information, but also the different ways people encounter and remember the past.
+Through these approaches, I recorded not only historical information, but also different ways people encounter and remember the past.
 
 
 
@@ -163,7 +162,7 @@ One of the most meaningful changes in my understanding was recognizing that hist
 Different generations continue to create new relationships with historical figures, cultural spaces, and traditional memories.
 
 
-Through creativity, participation, and personal expression, the past continues to receive new meanings in contemporary society.
+Through creativity, participation, and personal expression, the past receives new meanings in contemporary society.
 
 
 This showed me that heritage is not only something inherited from previous generations, but also something continuously shaped by people today.
