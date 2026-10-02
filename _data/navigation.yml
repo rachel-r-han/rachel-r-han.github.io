@@ -53,3 +53,26 @@ heritage-categories:
 
   - title: "Top"
     url: "#"
+
+    reflection-categories:
+
+  - title: "From Visiting Sites to Understanding Memory"
+    url: "/research-reflection/#top"
+
+  - title: "Research Approach"
+    url: "/research-reflection/#method"
+
+  - title: "What Fieldwork Changed for Me"
+    url: "/research-reflection/#learning"
+
+  - title: "Final Thoughts"
+    url: "/research-reflection/#final"
+
+  - title: "──────────"
+    url: "#"
+
+  - title: "Home"
+    url: "/"
+
+  - title: "Top"
+    url: "#"
