@@ -3,9 +3,14 @@ title: "Research Reflection"
 layout: single
 permalink: /research-reflection/
 toc: false
+sidebar:
+  nav: "reflection-categories"
 ---
 
 <div id="top"></div>
+
+
+# Research Reflection
 
 
 <p style="
@@ -39,9 +44,7 @@ I began to realize that heritage sites are not only places where history is stor
 <br>
 
 
-
 ---
-
 
 
 <a id="method"></a>
@@ -101,20 +104,18 @@ Archival reading and local gazetteers
 Through these methods, I recorded not only historical information, but also how different spaces create different emotional experiences and relationships with the past.
 
 
-<br>
-<br>
 
+<br>
+<br>
 
 
 ---
-
 
 
 <a id="learning"></a>
 
 
 # What Fieldwork Changed for Me
-
 
 
 ## History Is Experienced, Not Only Preserved
@@ -134,7 +135,6 @@ This experience made me realize that architecture and landscape are not only bac
 
 
 <br>
-
 
 
 ## Memory Exists Beyond Monuments
@@ -157,7 +157,6 @@ These experiences changed my understanding of heritage. Preservation is not only
 
 
 <br>
-
 
 
 ## The Past Continues Through Contemporary Imagination
@@ -183,9 +182,7 @@ These interactions showed me that history is not distant or frozen. People conti
 <br>
 
 
-
 ---
-
 
 
 <a id="final"></a>
