@@ -87,14 +87,13 @@ View 75 Sites →
 ---
 
 
-<a id="selected-observations"></a>
+<a id="identity"></a>
 
 
-# Selected Field Observations
+# Visual Difference based on Identity
 
 
-The following observations represent several moments that shaped my understanding of how historical spaces create different relationships between people and the past.
-
+The identity of historical figures influences how their memory is presented through space, architecture, and local practices.
 
 
 <br>
@@ -112,7 +111,7 @@ Mausoleum of Qin Shi Huang
 
 
 <p>
-As an emperor, Qin Shi Huang's significance extends across dynasties, making the Mausoleum of Qin Shi Huang a symbol of Chinese imperial memory.
+As an emperor, Qin Shi Huang's significance extends across dynasties, making the Mausoleum of Qin Shi Huang a symbol of Chinese Emperor Mausoleums.
 </p>
 
 
@@ -127,7 +126,6 @@ The space creates a feeling of distance and respect before visitors even reach t
 
 
 </div>
-
 
 
 <div style="
@@ -159,7 +157,6 @@ The arrangement clearly encourages admiration and creates a connection between t
 </div>
 
 
-
 <div style="
 padding:30px 0;
 border-top:1px solid #ddd;
@@ -182,7 +179,6 @@ With fewer preserved artifacts and simpler arrangements, the site shows a close 
 
 
 </div>
-
 
 
 <div style="
@@ -214,7 +210,6 @@ With the least amount of formal offerings, Li Si's tomb shows how history can li
 </div>
 
 
-
 <br>
 <br>
 
@@ -225,17 +220,18 @@ With the least amount of formal offerings, Li Si's tomb shows how history can li
 <a id="engagement"></a>
 
 
-# Engagement Beyond Monuments
+# Engagement within Memorials
 
 
-Historical memory is not only preserved through large monuments and famous historical sites.
+Historical memory is not only preserved through monuments themselves.
 
 
-During my visits, I found that smaller communities, exhibitions, and creative interactions also allow people to build connections with the past.
+During my field visits, I found that some heritage spaces create connections with the past through participation, storytelling, and the sharing of ideas.
 
 
 
 <br>
+
 
 
 <div style="
@@ -342,7 +338,12 @@ At Cao Cao's mausoleum, social media jokes about "ibuprofen" reference his chron
 
 
 <p>
-At Li Si's tomb, a small yellow dog toy referenced his final wish before execution. At Bai Juyi's tomb, handwritten copies of his poems were left as offerings. Writing became a form of returning words to the poet.
+At Li Si's tomb, a small yellow dog toy referenced his final wish before execution.
+</p>
+
+
+<p>
+At Bai Juyi's tomb, handwritten copies of his poems were left as offerings. Writing became a form of returning words to the poet.
 </p>
 
 
@@ -352,7 +353,7 @@ Offerings now include a wide range of items, from flowers, gifts, cards, and foo
 
 
 <p>
-These interactions reduce temporal distance and humanize historical figures, making history closer and no longer limited to ceremonial spaces.
+These interactions make historical figures feel closer and show that the relationship between people and the past can take many unexpected forms.
 </p>
 
 
@@ -391,7 +392,6 @@ Although these actions may seem small, they help many forgotten, local, or less 
 
 
 
-
 <br>
 <br>
 
@@ -407,16 +407,13 @@ Although these actions may seem small, they help many forgotten, local, or less 
 # Final Reflection
 
 
-History thrives not only in words, but also through physical sites.
+During these field visits, I gradually noticed that historical sites are not only places that preserve the past.
 
 
-No matter whether they are tombs, memorials, museums, or cultural landscapes, each place carries a period of the past that once existed.
+A tomb, a museum, or a memorial space can become a place where people continue to create connections with historical figures, local communities, and cultural memories.
 
 
-They are not only physical evidence of history, but also spaces where culture and memory continue to settle, develop, and flourish.
-
-
-Through this fieldwork, I learned that heritage is not only something we preserve. It is something people continue to experience, interpret, and connect with.
+These observations led me to look beyond monuments themselves and pay attention to the relationships between places, people, and the ways history continues to be remembered.
 
 
 
@@ -450,3 +447,5 @@ Field Research Portfolio
 Heritage · Memory · Public History
 
 </div>
+
+
