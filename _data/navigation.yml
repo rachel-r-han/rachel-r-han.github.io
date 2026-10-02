@@ -1,28 +1,55 @@
+main:
+
+  - title: "Home"
+    url: /
+
+  - title: "Field Research"
+    url: /field-research/
+
+  - title: "Heritage Practice"
+    url: /heritage-practice/
+
+  - title: "Research Reflection"
+    url: /research-reflection/
+
+
 fieldwork-categories:
 
   - title: "Heritage Database"
     url: "/heritage-database/"
 
-
   - title: "Contemporary Ways of Remembering"
     url: "/field-research/#contemporary-memory"
-
 
   - title: "Patterns I Discovered"
     url: "/field-research/#patterns"
 
-
   - title: "Final Reflection"
     url: "/field-research/#reflection"
-
 
   - title: "──────────"
     url: "#"
 
-
   - title: "Home"
     url: "/"
 
+  - title: "Top"
+    url: "#"
+
+
+heritage-categories:
+
+  - title: "Artifact Conservation Practice"
+    url: "/heritage-practice/#conservation"
+
+  - title: "Contemporary Cultural Engagement"
+    url: "/heritage-practice/#engagement"
+
+  - title: "──────────"
+    url: "#"
+
+  - title: "Home"
+    url: "/"
 
   - title: "Top"
     url: "#"
