@@ -10,6 +10,7 @@ sidebar:
 <div id="top"></div>
 
 
+# Research Reflection
 
 
 <p style="
@@ -26,21 +27,22 @@ From Visiting Sites to Understanding Memory
 <br>
 
 
-When I first began visiting historical sites, I often viewed them as places that preserved information about the past.
+When I first began visiting historical sites, I mainly viewed them as places that preserved information about the past.
 
 
-Tombs, museums, memorial spaces, and cultural landscapes seemed like containers of historical knowledge.
+Tombs, museums, memorial spaces, and cultural landscapes appeared to me as containers of historical knowledge.
 
 
 However, through repeated field visits across China, my understanding gradually changed.
 
 
-I began to realize that heritage sites are not only places where history is stored. They are spaces where people continue to remember, interpret, and create connections with the past.
+I began to realize that heritage is not only about preserving historical remains. It is also about how people experience, interpret, and continue to connect with the past.
 
 
 
 <br>
 <br>
+
 
 
 ---
@@ -64,11 +66,6 @@ Methods include:
 <br>
 
 
-<div style="
-padding:20px 0;
-">
-
-
 <ul>
 
 <li>
@@ -80,7 +77,7 @@ Informal visitor conversations
 </li>
 
 <li>
-Comparative spatial analysis
+Comparative observation of different heritage spaces
 </li>
 
 <li>
@@ -88,33 +85,33 @@ Participation in restoration practice (60+ hours)
 </li>
 
 <li>
-Archival reading and local gazetteers
+Archival reading and local historical materials
 </li>
 
 </ul>
 
 
-</div>
-
-
 <br>
 
 
-Through these methods, I recorded not only historical information, but also how different spaces create different emotional experiences and relationships with the past.
+Through these approaches, I recorded not only historical information, but also the different ways people encounter and remember the past.
 
 
 
 <br>
 <br>
+
 
 
 ---
 
 
+
 <a id="learning"></a>
 
 
-# What Fieldwork Changed for Me
+# Key Insights
+
 
 
 ## History Is Experienced, Not Only Preserved
@@ -123,65 +120,63 @@ Through these methods, I recorded not only historical information, but also how 
 At the beginning of this project, I mainly focused on what historical sites represented.
 
 
-However, field observation gradually showed me that the experience of history is also shaped by space, movement, and atmosphere.
+Through continuous fieldwork, I gradually realized that history is not only contained in monuments, objects, or written records.
 
 
-At the Mausoleum of Qin Shi Huang, the long approach toward the burial mound, the pine and cypress trees, and the alternating light and shadow of stone slabs created a sense of distance and respect before reaching the central space.
+The experience of history is also shaped by space, atmosphere, movement, and personal feelings.
 
 
-This experience made me realize that architecture and landscape are not only backgrounds of history. They actively shape how people encounter history.
+Heritage sites are not simply places that preserve the past. They are environments where people encounter and understand history in different ways.
 
 
 
 <br>
+
 
 
 ## Memory Exists Beyond Monuments
 
 
-During fieldwork, I found that historical memory does not only exist in famous monuments or carefully preserved museums.
+My understanding of heritage gradually expanded beyond famous historical sites and large monuments.
 
 
-Smaller sites, local communities, and everyday practices also maintain connections with the past.
+I began to see that historical memory can also exist in local communities, everyday practices, and less visible cultural spaces.
 
 
-At Bai Qi's tomb, the simpler arrangement and local maintenance created a more direct encounter with historical memory.
+These places may not always have grand architecture or large-scale exhibitions, but they continue to maintain relationships between people and the past.
 
 
-At Li Si's tomb, the open wheat field and modest mound left space for reflection rather than guiding visitors through a fixed interpretation.
-
-
-These experiences changed my understanding of heritage. Preservation is not only about protecting physical remains, but also about maintaining relationships between people and places.
+Heritage is therefore not only about protecting physical remains. It is also about maintaining connections between places, communities, and memories.
 
 
 
 <br>
+
 
 
 ## The Past Continues Through Contemporary Imagination
 
 
-One of the most surprising discoveries during my fieldwork was how younger generations interact with historical figures in creative ways.
+One of the most meaningful changes in my understanding was recognizing that history is not fixed or distant.
 
 
-At Wuhou Shrine in Chengdu, a photograph of a modern aircraft carrier became an offering because of the connection between Zhuge Liang's "east wind" story and the carrier's name.
+Different generations continue to create new relationships with historical figures, cultural spaces, and traditional memories.
 
 
-At Cao Cao's mausoleum, social media jokes about his headaches led visitors to leave painkillers as offerings.
+Through creativity, participation, and personal expression, the past continues to receive new meanings in contemporary society.
 
 
-At Bai Juyi's tomb, handwritten copies of poems became a way of returning words to the poet.
-
-
-These interactions showed me that history is not distant or frozen. People continue to create new relationships with historical figures through imagination, humor, and personal expression.
+This showed me that heritage is not only something inherited from previous generations, but also something continuously shaped by people today.
 
 
 
 <br>
 <br>
+
 
 
 ---
+
 
 
 <a id="final"></a>
@@ -193,10 +188,10 @@ These interactions showed me that history is not distant or frozen. People conti
 History thrives not only in words, but also through physical sites.
 
 
-No matter whether they are tombs, memorials, museums, or cultural landscapes, each place carries a period of the past that once existed.
+Whether they are tombs, memorials, museums, or cultural landscapes, each place carries a period of the past that once existed.
 
 
-They are not only physical evidence of history, but also spaces where culture and memory continue to settle, develop, and flourish.
+They are not only physical evidence of history, but also spaces where culture and memory continue to develop.
 
 
 Through this fieldwork, I learned that heritage is not only something we preserve.
