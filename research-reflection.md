@@ -10,7 +10,6 @@ sidebar:
 <div id="top"></div>
 
 
-# Research Reflection
 
 
 <p style="
