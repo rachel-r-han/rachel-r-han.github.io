@@ -108,19 +108,17 @@ border-top:1px solid #999;
 
 <h3>
 Mausoleum of Qin Shi Huang
-</h3>
-
 
 <div style="
 display:flex;
-gap:20px;
+gap:24px;
 margin:30px 0;
 ">
 
 
 <img src="/assets/images/qin-mausoleum-1.jpg"
 style="
-width:50%;
+width:48%;
 aspect-ratio:4/3;
 object-fit:cover;
 ">
@@ -128,10 +126,13 @@ object-fit:cover;
 
 <img src="/assets/images/qin-mausoleum-2.jpg"
 style="
-width:50%;
+width:48%;
 aspect-ratio:4/3;
 object-fit:cover;
 ">
+
+
+</div>
 
 
 </div>
