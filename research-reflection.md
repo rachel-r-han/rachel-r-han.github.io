@@ -8,9 +8,6 @@ toc: false
 <div id="top"></div>
 
 
-# Research Reflection
-
-
 <p style="
 font-size:1.35em;
 line-height:1.8;
