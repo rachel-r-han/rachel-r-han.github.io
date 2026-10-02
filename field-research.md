@@ -49,7 +49,7 @@ Rather than seeing heritage only as preserved history, I gradually realized that
 A personal fieldwork archive documenting historical sites, museums, memorial spaces, religious sites, architectural heritage, and cultural landscapes across China.
 
 
-The database records my observations of different heritage environments, including historical periods, cultural categories, and personal field notes.
+The database records my observations of different heritage environments, including historical periods, cultural categories, and personal field notes from individual visits.
 
 
 <br>
@@ -99,6 +99,7 @@ The identity of historical figures influences how their memory is presented thro
 <br>
 
 
+
 <div style="
 padding:30px 0;
 border-top:1px solid #999;
@@ -111,7 +112,7 @@ Mausoleum of Qin Shi Huang
 
 
 <p>
-As an emperor, Qin Shi Huang's significance extends across dynasties, making the Mausoleum of Qin Shi Huang a symbol of Chinese Emperor Mausoleums.
+As an emperor, Qin Shi Huang's significance extends across dynasties, making the Mausoleum of Qin Shi Huang a paragon of Chinese imperial mausoleums.
 </p>
 
 
@@ -120,12 +121,8 @@ The long approach toward the burial mound is lined with pine and cypress trees. 
 </p>
 
 
-<p>
-The space creates a feeling of distance and respect before visitors even reach the burial mound.
-</p>
-
-
 </div>
+
 
 
 <div style="
@@ -150,11 +147,12 @@ Near the Maoling Mausoleum, buried closely to Han Wu Di, the stone sculpture <i>
 
 
 <p>
-The arrangement clearly encourages admiration and creates a connection between the historical figure and collective memory.
+The arrangement clearly encourages admiration and patriotic pride.
 </p>
 
 
 </div>
+
 
 
 <div style="
@@ -174,11 +172,12 @@ Bai Qi's tomb is simpler and locally maintained. Without ceremonial staging, the
 
 
 <p>
-With fewer preserved artifacts and simpler arrangements, the site shows a close relationship between local Bai Family communities and their admiration for their ancestor.
+With fewer preserved or related artifacts and simpler arrangements, the site shows a close tie between the local Bai Family and their admiration for their ancestor.
 </p>
 
 
 </div>
+
 
 
 <div style="
@@ -193,7 +192,7 @@ Tomb of Li Si
 
 
 <p>
-More remote and more unadorned, Li Si's tomb shows a different relationship between historical memory and local preservation.
+More remote and more unadorned, Li Si's tomb shows more focus on local preservation than collective admiration.
 </p>
 
 
@@ -203,7 +202,7 @@ Located in an open wheat field, Li Si's modest mound offers little architectural
 
 
 <p>
-With the least amount of formal offerings, Li Si's tomb shows how history can live quietly within local culture and everyday life.
+With the least amount of formal offerings, Li Si's tomb shows how history quietly lives within our culture and everyday life.
 </p>
 
 
@@ -216,7 +215,6 @@ With the least amount of formal offerings, Li Si's tomb shows how history can li
 
 ---
 
-
 <a id="engagement"></a>
 
 
@@ -227,7 +225,6 @@ Historical memory is not only preserved through monuments themselves.
 
 
 During my field visits, I found that some heritage spaces create connections with the past through participation, storytelling, and the sharing of ideas.
-
 
 
 <br>
@@ -246,22 +243,21 @@ Feng Menglong Village (Suzhou)
 
 
 <p>
-This site integrates memorial architecture with storytelling programs and cultural workshops.
+This site integrates memorial architecture with storytelling programs and workshops.
 </p>
 
 
 <p>
-It is built like a tourism scenic spot, yet based on Feng Menglong's life story and his contributions to literature, including writing and novels.
+It is built like a tourism scenic spot, yet based on Feng Menglong's life story and his contributions, including writing and novels.
 </p>
 
 
 <p>
-Emotional connection develops through participation rather than only through ceremonial memorial spaces preserved with reverence.
+Emotional connection develops through participation rather than only through ceremonial memorial heritage sites preserved with reverence.
 </p>
 
 
 </div>
-
 
 
 
@@ -282,7 +278,7 @@ Here, engagement arises through ideas rather than scale.
 
 
 <p>
-Moving through curated exhibitions on Yangming philosophy, the site focuses not only on the physical importance of the heritage space, but also on Wang Yangming's contributions to Chinese philosophy and culture.
+Moving through curated exhibitions on Yangming philosophy, it focuses not only on the physical importance of the heritage site, but also on Wang Yangming's contributions to Chinese philosophy and culture.
 </p>
 
 
@@ -294,9 +290,7 @@ Moving through curated exhibitions on Yangming philosophy, the site focuses not 
 <br>
 
 
-
 ---
-
 
 
 <a id="contemporary-memory"></a>
@@ -328,7 +322,7 @@ Digital Reinterpretation
 
 
 <p>
-At the Wuhou Shrine in Chengdu, a photograph of a modern aircraft carrier was placed as an offering for Zhuge Liang, because Zhuge Liang had once borrowed the "east wind" to win a battle in historical stories, and the aircraft carrier shared the same name.
+At the Wuhou Shrine in Chengdu, a photograph of a modern aircraft carrier was placed as an offering for Zhuge Liang, because Zhuge Liang had once borrowed the east wind to win a battle in historical stories, and the aircraft carrier shared the same name.
 </p>
 
 
@@ -348,17 +342,16 @@ At Bai Juyi's tomb, handwritten copies of his poems were left as offerings. Writ
 
 
 <p>
-Offerings now include a wide range of items, from flowers, gifts, cards, and food to letters and toys, often based on the tomb owner's life and personality.
+Offerings now include a wide range of items, from flowers, gifts, cards, and food to letters and toys, mainly based on the tomb owner's life and personality.
 </p>
 
 
 <p>
-These interactions make historical figures feel closer and show that the relationship between people and the past can take many unexpected forms.
+These humorous interactions reduce temporal distance and humanize historical figures, making history closer and no longer limited to ceremonial uses.
 </p>
 
 
 </div>
-
 
 
 
@@ -374,12 +367,12 @@ Community Ritual
 
 
 <p>
-Although new generations and new methods of admiring the past have emerged, traditional rituals and ceremonial practices continue.
+As new generations and methods of admiring the past have emerged, traditional rituals and ceremonial ways continue.
 </p>
 
 
 <p>
-In small Guan Yu temples and Zhuge Liang shrines, participation often takes quieter forms: lighting incense, sweeping courtyards, and arranging flowers.
+In small Guan Yu temples and Zhuge Liang shrines, participation takes quieter forms. Lighting incense, sweeping courtyards, and arranging flowers are repeated actions that sustain memory without spectacle.
 </p>
 
 
@@ -398,7 +391,6 @@ Although these actions may seem small, they help many forgotten, local, or less 
 
 
 ---
-
 
 
 <a id="reflection"></a>
@@ -447,5 +439,3 @@ Field Research Portfolio
 Heritage · Memory · Public History
 
 </div>
-
-
