@@ -13,28 +13,40 @@ main:
     url: /research-reflection/
 
 
+
 fieldwork-categories:
 
   - title: "Heritage Database"
     url: "/heritage-database/"
 
-  - title: "Contemporary Ways of Remembering"
+
+  - title: "Field Observations"
+    url: "/field-research/#selected-observations"
+
+
+  - title: "Beyond Monuments"
+    url: "/field-research/#engagement"
+
+
+  - title: "Contemporary Memory"
     url: "/field-research/#contemporary-memory"
 
-  - title: "Patterns I Discovered"
-    url: "/field-research/#patterns"
 
-  - title: "Final Reflection"
+  - title: "Reflection"
     url: "/field-research/#reflection"
+
 
   - title: "──────────"
     url: "#"
 
+
   - title: "Home"
     url: "/"
 
+
   - title: "Top"
     url: "#"
+
 
 
 heritage-categories:
@@ -42,38 +54,49 @@ heritage-categories:
   - title: "Artifact Conservation Practice"
     url: "/heritage-practice/#conservation"
 
+
   - title: "Contemporary Cultural Engagement"
     url: "/heritage-practice/#engagement"
+
 
   - title: "──────────"
     url: "#"
 
+
   - title: "Home"
     url: "/"
+
 
   - title: "Top"
     url: "#"
 
 
+
 reflection-categories:
 
-  - title: "From Visiting Sites to Understanding Memory"
+  - title: "Beginning"
     url: "/research-reflection/#top"
+
 
   - title: "Research Approach"
     url: "/research-reflection/#method"
 
-  - title: "What Fieldwork Changed for Me"
+
+  - title: "Key Insights"
     url: "/research-reflection/#learning"
+
 
   - title: "Final Thoughts"
     url: "/research-reflection/#final"
 
+
   - title: "──────────"
     url: "#"
 
+
   - title: "Home"
     url: "/"
+
 
   - title: "Top"
     url: "#"
