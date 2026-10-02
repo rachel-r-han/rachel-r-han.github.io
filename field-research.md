@@ -110,6 +110,39 @@ border-top:1px solid #999;
 Mausoleum of Qin Shi Huang
 </h3>
 
+<h3>
+Mausoleum of Qin Shi Huang
+</h3>
+
+
+<div style="
+display:flex;
+gap:20px;
+margin:25px 0;
+">
+
+<img src="/assets/images/qin-mausoleum-1.jpg"
+style="
+width:50%;
+height:300px;
+object-fit:cover;
+">
+
+
+<img src="/assets/images/qin-mausoleum-2.jpg"
+style="
+width:50%;
+height:300px;
+object-fit:cover;
+">
+
+</div>
+
+
+<p>
+As an emperor, Qin Shi Huang's significance extends across dynasties, making the Mausoleum of Qin Shi Huang a paragon of Chinese imperial mausoleums.
+</p>
+
 
 <p>
 As an emperor, Qin Shi Huang's significance extends across dynasties, making the Mausoleum of Qin Shi Huang a paragon of Chinese imperial mausoleums.
