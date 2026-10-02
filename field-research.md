@@ -24,10 +24,10 @@ Exploring How Heritage Spaces Shape Historical Memory
 <br>
 
 
-During my field visits across China, I explored how people encounter the past through historical landscapes, cultural spaces, objects, and everyday practices.
+During my field visits across China, I explored how historical sites are experienced through spaces, objects, stories, and people's continuing relationships with the past.
 
 
-Rather than viewing heritage only as preserved history, I gradually began to understand it as a living connection between the past and the present.
+Rather than seeing heritage only as preserved history, I gradually realized that every site carries different emotions, memories, and connections between past and present.
 
 
 <br>
@@ -49,8 +49,7 @@ Rather than viewing heritage only as preserved history, I gradually began to und
 A personal fieldwork archive documenting historical sites, museums, memorial spaces, religious sites, architectural heritage, and cultural landscapes across China.
 
 
-The database records my observations of how different places preserve memories and create connections between people and history.
-
+The database records my observations of different heritage environments, including historical periods, cultural categories, and personal field notes.
 
 
 <br>
@@ -69,7 +68,7 @@ Explore Heritage Database
 
 
 <p>
-Browse 75 documented heritage sites through geographical distribution, historical periods, and cultural categories.
+Browse 75 documented heritage sites across China.
 </p>
 
 
@@ -88,40 +87,42 @@ View 75 Sites →
 ---
 
 
-<a id="contemporary-memory"></a>
+<a id="selected-observations"></a>
 
 
-# Contemporary Ways of Remembering
+# Selected Field Observations
 
 
-Historical memory does not remain unchanged after preservation.
+The following observations represent several moments that shaped my understanding of how historical spaces create different relationships between people and the past.
 
-
-During my fieldwork, I noticed that people continue to create new relationships with the past through digital expressions, personal offerings, immersive experiences, and community practices.
 
 
 <br>
 
 
-
 <div style="
-padding:25px 0;
+padding:30px 0;
 border-top:1px solid #999;
 ">
 
 
 <h3>
-Digital Reinterpretation
+Mausoleum of Qin Shi Huang
 </h3>
 
 
 <p>
-At several historical sites, I observed how younger generations use contemporary expressions to communicate with historical figures and reinterpret traditional memories.
+As an emperor, Qin Shi Huang's significance extends across dynasties, making the Mausoleum of Qin Shi Huang a symbol of Chinese imperial memory.
 </p>
 
 
 <p>
-These interactions show that history is not only preserved through formal ceremonies or written records. It also continues through personal imagination, creativity, and emotional connections.
+The long approach toward the burial mound is lined with pine and cypress trees. Stone slabs extend forward in alternating light and shadow, slowing movement.
+</p>
+
+
+<p>
+The space creates a feeling of distance and respect before visitors even reach the burial mound.
 </p>
 
 
@@ -130,23 +131,28 @@ These interactions show that history is not only preserved through formal ceremo
 
 
 <div style="
-padding:25px 0;
+padding:30px 0;
 border-top:1px solid #ddd;
 ">
 
 
 <h3>
-Community Ritual
+Tomb of Huo Qubing
 </h3>
 
 
 <p>
-In smaller temples, memorial spaces, and local heritage sites, memory continues through ordinary actions such as lighting incense, cleaning courtyards, arranging flowers, and maintaining shared spaces.
+As a general for Han Wu Di in the Han dynasty, Huo Qubing's tomb is one of the best preserved and honored general tombs.
 </p>
 
 
 <p>
-Although these practices may appear simple, they allow historical memory to remain connected with local communities and everyday life.
+Near the Maoling Mausoleum, buried closely to Han Wu Di, the stone sculpture <i>Horse Treading on a Xiongnu Soldier</i> dominates the site.
+</p>
+
+
+<p>
+The arrangement clearly encourages admiration and creates a connection between the historical figure and collective memory.
 </p>
 
 
@@ -154,70 +160,24 @@ Although these practices may appear simple, they allow historical memory to rema
 
 
 
-<br>
-<br>
-
-<a id="patterns"></a>
-
-
-# Patterns I Discovered
-
-
-Through repeated observation across different heritage sites, I gradually noticed several connections between physical spaces, historical narratives, and the ways people experience the past.
-
-
-These patterns were not planned as a fixed research framework at the beginning. Instead, they emerged naturally through continuous visits and reflections.
-
-
-
-<br>
-
-
-
 <div style="
-padding:25px 0;
-border-top:1px solid #999;
-">
-
-
-<h3>
-01 — Space and Memory
-</h3>
-
-
-<p>
-Different landscapes and architectural arrangements create different emotional experiences.
-</p>
-
-
-<p>
-Large imperial sites often create feelings of distance, respect, and historical scale, while smaller memorial spaces may encourage more personal reflection and emotional connection.
-</p>
-
-
-</div>
-
-
-
-
-<div style="
-padding:25px 0;
+padding:30px 0;
 border-top:1px solid #ddd;
 ">
 
 
 <h3>
-02 — Stories and Interpretation
+Tomb of Bai Qi
 </h3>
 
 
 <p>
-Historical understanding is shaped not only by what happened in the past, but also by how stories are presented and interpreted.
+Bai Qi's tomb is simpler and locally maintained. Without ceremonial staging, the encounter felt more direct.
 </p>
 
 
 <p>
-Museums, exhibitions, memorial spaces, and local narratives all influence how visitors understand historical figures and events.
+With fewer preserved artifacts and simpler arrangements, the site shows a close relationship between local Bai Family communities and their admiration for their ancestor.
 </p>
 
 
@@ -225,51 +185,29 @@ Museums, exhibitions, memorial spaces, and local narratives all influence how vi
 
 
 
-
 <div style="
-padding:25px 0;
+padding:30px 0;
 border-top:1px solid #ddd;
 ">
 
 
 <h3>
-03 — Objects and Connection
+Tomb of Li Si
 </h3>
 
 
 <p>
-Artifacts, replicas, sculptures, and personal objects provide different ways for people to approach history.
+More remote and more unadorned, Li Si's tomb shows a different relationship between historical memory and local preservation.
 </p>
 
 
 <p>
-Physical objects create a connection between abstract historical knowledge and personal experience.
-</p>
-
-
-</div>
-
-
-
-
-<div style="
-padding:25px 0;
-border-top:1px solid #ddd;
-">
-
-
-<h3>
-04 — Participation and Continuity
-</h3>
-
-
-<p>
-History continues when people participate in remembering it.
+Located in an open wheat field, Li Si's modest mound offers little architectural instruction. The openness leaves space for contemplation of his political legacy and tragic end.
 </p>
 
 
 <p>
-Communities and younger generations are not only visitors of heritage sites, but also participants who give historical memory new meanings.
+With the least amount of formal offerings, Li Si's tomb shows how history can live quietly within local culture and everyday life.
 </p>
 
 
@@ -284,27 +222,207 @@ Communities and younger generations are not only visitors of heritage sites, but
 ---
 
 
+<a id="engagement"></a>
+
+
+# Engagement Beyond Monuments
+
+
+Historical memory is not only preserved through large monuments and famous historical sites.
+
+
+During my visits, I found that smaller communities, exhibitions, and creative interactions also allow people to build connections with the past.
+
+
+
+<br>
+
+
+<div style="
+padding:30px 0;
+border-top:1px solid #999;
+">
+
+
+<h3>
+Feng Menglong Village (Suzhou)
+</h3>
+
+
+<p>
+This site integrates memorial architecture with storytelling programs and cultural workshops.
+</p>
+
+
+<p>
+It is built like a tourism scenic spot, yet based on Feng Menglong's life story and his contributions to literature, including writing and novels.
+</p>
+
+
+<p>
+Emotional connection develops through participation rather than only through ceremonial memorial spaces preserved with reverence.
+</p>
+
+
+</div>
+
+
+
+
+<div style="
+padding:30px 0;
+border-top:1px solid #ddd;
+">
+
+
+<h3>
+Wang Yangming Memorial Hall (Shaoxing)
+</h3>
+
+
+<p>
+Here, engagement arises through ideas rather than scale.
+</p>
+
+
+<p>
+Moving through curated exhibitions on Yangming philosophy, the site focuses not only on the physical importance of the heritage space, but also on Wang Yangming's contributions to Chinese philosophy and culture.
+</p>
+
+
+</div>
+
+
+
+<br>
+<br>
+
+
+
+---
+
+
+
+<a id="contemporary-memory"></a>
+
+
+# Connection with Current Society
+
+
+Historical memory continues to change as new generations create different ways of interacting with the past.
+
+
+During my fieldwork, I observed that history is not only respected through traditional rituals, but also reinterpreted through contemporary imagination and personal expression.
+
+
+
+<br>
+
+
+
+<div style="
+padding:30px 0;
+border-top:1px solid #999;
+">
+
+
+<h3>
+Digital Reinterpretation
+</h3>
+
+
+<p>
+At the Wuhou Shrine in Chengdu, a photograph of a modern aircraft carrier was placed as an offering for Zhuge Liang, because Zhuge Liang had once borrowed the "east wind" to win a battle in historical stories, and the aircraft carrier shared the same name.
+</p>
+
+
+<p>
+At Cao Cao's mausoleum, social media jokes about "ibuprofen" reference his chronic headaches, therefore offerings include different kinds of painkillers.
+</p>
+
+
+<p>
+At Li Si's tomb, a small yellow dog toy referenced his final wish before execution. At Bai Juyi's tomb, handwritten copies of his poems were left as offerings. Writing became a form of returning words to the poet.
+</p>
+
+
+<p>
+Offerings now include a wide range of items, from flowers, gifts, cards, and food to letters and toys, often based on the tomb owner's life and personality.
+</p>
+
+
+<p>
+These interactions reduce temporal distance and humanize historical figures, making history closer and no longer limited to ceremonial spaces.
+</p>
+
+
+</div>
+
+
+
+
+<div style="
+padding:30px 0;
+border-top:1px solid #ddd;
+">
+
+
+<h3>
+Community Ritual
+</h3>
+
+
+<p>
+Although new generations and new methods of admiring the past have emerged, traditional rituals and ceremonial practices continue.
+</p>
+
+
+<p>
+In small Guan Yu temples and Zhuge Liang shrines, participation often takes quieter forms: lighting incense, sweeping courtyards, and arranging flowers.
+</p>
+
+
+<p>
+Although these actions may seem small, they help many forgotten, local, or less well-preserved heritage sites find communities that continue to care for them.
+</p>
+
+
+</div>
+
+
+
+
+<br>
+<br>
+
+
+
+---
+
+
+
 <a id="reflection"></a>
 
 
 # Final Reflection
 
 
-Before conducting this fieldwork, I often viewed historical sites mainly as places that preserved information about the past.
+History thrives not only in words, but also through physical sites.
 
 
-Through repeated visits, I gradually realized that heritage spaces are not only about protecting historical remains. They are also places where people encounter memories, emotions, and stories.
+No matter whether they are tombs, memorials, museums, or cultural landscapes, each place carries a period of the past that once existed.
 
 
-A tomb, a museum, a temple, or a village landscape can all become spaces where the past continues to interact with the present.
+They are not only physical evidence of history, but also spaces where culture and memory continue to settle, develop, and flourish.
 
 
-The meaning of history is not fixed only in books or monuments. It also exists in the ways people visit, remember, interpret, and connect with these places.
+Through this fieldwork, I learned that heritage is not only something we preserve. It is something people continue to experience, interpret, and connect with.
 
 
 
 <br>
 <br>
+
 
 
 <a href="/research-reflection/">
@@ -332,6 +450,3 @@ Field Research Portfolio
 Heritage · Memory · Public History
 
 </div>
-
----
-
