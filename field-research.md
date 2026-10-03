@@ -96,12 +96,10 @@ The identity of historical figures influences how their memory is presented thro
 <br>
 
 
-
 <div style="
 padding:30px 0;
 border-top:1px solid #999;
 ">
-
 
 
 <h3>
@@ -148,7 +146,6 @@ The long approach toward the burial mound is lined with pine and cypress trees. 
 </div>
 
 
-
 <div style="
 padding:30px 0;
 border-top:1px solid #ddd;
@@ -158,6 +155,24 @@ border-top:1px solid #ddd;
 <h3>
 Tomb of Huo Qubing
 </h3>
+
+
+<div style="
+display:flex;
+gap:24px;
+margin:30px 0;
+">
+
+
+<img src="/assets/images/Huo%20Qubing.jpg"
+style="
+width:48%;
+aspect-ratio:4/3;
+object-fit:cover;
+">
+
+
+</div>
 
 
 <p>
@@ -190,6 +205,32 @@ Tomb of Bai Qi
 </h3>
 
 
+<div style="
+display:flex;
+gap:24px;
+margin:30px 0;
+">
+
+
+<img src="/assets/images/Bai%20Qi-1.jpg"
+style="
+width:48%;
+aspect-ratio:4/3;
+object-fit:cover;
+">
+
+
+<img src="/assets/images/Bai%20Qi-2.jpg"
+style="
+width:48%;
+aspect-ratio:4/3;
+object-fit:cover;
+">
+
+
+</div>
+
+
 <p>
 Bai Qi's tomb is simpler and locally maintained. Without ceremonial staging, the encounter felt more direct.
 </p>
@@ -213,6 +254,32 @@ border-top:1px solid #ddd;
 <h3>
 Tomb of Li Si
 </h3>
+
+
+<div style="
+display:flex;
+gap:24px;
+margin:30px 0;
+">
+
+
+<img src="/assets/images/Li%20Si-1.jpg"
+style="
+width:48%;
+aspect-ratio:4/3;
+object-fit:cover;
+">
+
+
+<img src="/assets/images/Li%20Si-2.jpg"
+style="
+width:48%;
+aspect-ratio:4/3;
+object-fit:cover;
+">
+
+
+</div>
 
 
 <p>
@@ -239,7 +306,8 @@ With the least amount of formal offerings, Li Si's tomb shows how history quietl
 
 <a id="engagement"></a>
 
-## Engagement within Memorials
+
+# Engagement within Memorials
 
 
 Historical memory is not only preserved through monuments themselves.
@@ -251,7 +319,6 @@ During my field visits, I found that some heritage spaces create connections wit
 <br>
 
 
-
 <div style="
 padding:30px 0;
 border-top:1px solid #999;
@@ -261,6 +328,32 @@ border-top:1px solid #999;
 <h3>
 Feng Menglong Village (Suzhou)
 </h3>
+
+
+<div style="
+display:flex;
+gap:24px;
+margin:30px 0;
+">
+
+
+<img src="/assets/images/Feng%20Menglong-1.jpg"
+style="
+width:48%;
+aspect-ratio:4/3;
+object-fit:cover;
+">
+
+
+<img src="/assets/images/Feng%20Menglong-2.jpg"
+style="
+width:48%;
+aspect-ratio:4/3;
+object-fit:cover;
+">
+
+
+</div>
 
 
 <p>
@@ -279,7 +372,6 @@ Emotional connection develops through participation rather than only through cer
 
 
 </div>
-
 
 
 <div style="
@@ -306,12 +398,8 @@ Moving through curated exhibitions on Yangming philosophy, it focuses not only o
 </div>
 
 
-
 <br>
 <br>
-
-
----
 
 
 <a id="contemporary-memory"></a>
@@ -326,9 +414,7 @@ Historical memory continues to change as new generations create different ways o
 During my fieldwork, I observed that history is not only respected through traditional rituals, but also reinterpreted through contemporary imagination and personal expression.
 
 
-
 <br>
-
 
 
 <div style="
@@ -375,7 +461,6 @@ These humorous interactions reduce temporal distance and humanize historical fig
 </div>
 
 
-
 <div style="
 padding:30px 0;
 border-top:1px solid #ddd;
@@ -405,13 +490,8 @@ Although these actions may seem small, they help many forgotten, local, or less 
 </div>
 
 
-
 <br>
 <br>
-
-
-
----
 
 
 <a id="reflection"></a>
@@ -429,10 +509,8 @@ A tomb, a museum, or a memorial space can become a place where people continue t
 These observations led me to look beyond monuments themselves and pay attention to the relationships between places, people, and the ways history continues to be remembered.
 
 
-
 <br>
 <br>
-
 
 
 <a href="/research-reflection/">
@@ -440,10 +518,8 @@ Read Full Reflection →
 </a>
 
 
-
 <br>
 <br>
-
 
 
 <div style="
