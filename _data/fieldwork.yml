@@ -43,7 +43,7 @@ sites:
     visited: true
     visits: null
     years: []
-  field_photo: "/assets/images/qin-mausoleum-1.jpg"  
+  field_photo: "/assets/images/qin-mausoleum-2.jpg"  
   case_studies: []
   notes: ''
 - id: qin-shi-huang-emperor-mausoleum-museum
@@ -150,6 +150,7 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Huo Qubing.jpg"
   case_studies: []
   notes: ''
 - id: tomb-of-bai-qi
@@ -172,6 +173,7 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Bai Qi-1.jpg"
   case_studies: []
   notes: ''
 - id: han-tang-village-han-fei-tomb
@@ -236,6 +238,7 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Li Si-1.jpg"
   case_studies: []
   notes: ''
 - id: zhaoling-mausoleum
@@ -512,6 +515,7 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Feng Menglong-1.jpg"
   case_studies: []
   notes: ''
 - id: tomb-of-king-fuchai-fuchai-pavilion
