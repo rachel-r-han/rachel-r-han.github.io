@@ -716,7 +716,7 @@ sites:
   case_studies: []
   notes: ''
 - id: orchid-pavilion
-  name_en: National Museum of China
+  name_en: Orchid Pavilion
   name_zh: 兰亭
   location:
     city: Shaoxing
@@ -742,7 +742,7 @@ sites:
   case_studies: []
   notes: ''
 - id: shanghai-museum
-  name_en: Hebei Museum
+  name_en: Shanghai Museum
   name_zh: 上海博物馆
   location:
     city: Shanghai
@@ -1093,7 +1093,7 @@ sites:
   case_studies: []
   notes: ''
 - id: lingyin-temple
-  name_en: Su Causeway / Bai Causeway
+  name_en: Lingyin Temple
   name_zh: 灵隐寺
   location:
     city: Hangzhou
@@ -1196,7 +1196,7 @@ sites:
   case_studies: []
   notes: ''
 - id: tomb-of-l-buwei
-  name_en: Great Wall — Badaling / Juyongguan
+  name_en: Tomb of Lü Buwei
   name_zh: 吕不韦墓
   location:
     city: Luoyang (偃师)
@@ -1345,7 +1345,7 @@ sites:
   case_studies: []
   notes: ''
 - id: chengdu-museum
-  name_en: Anhui Museum
+  name_en: Chengdu Museum
   name_zh: 成都博物馆
   location:
     city: Chengdu
@@ -1470,7 +1470,7 @@ sites:
   case_studies: []
   notes: ''
 - id: qilian-mountains
-  name_en: Xi'an Museum
+  name_en: Qilian Mountains
   name_zh: 祁连山
   location:
     city: Qilian Mountains
@@ -1645,7 +1645,7 @@ sites:
   case_studies: []
   notes: ''
 - id: tomb-of-guo-jia
-  name_en: Daming Palace Ruins Park and Museum
+  name_en: Tomb of Guo Jia
   name_zh: 郭嘉墓
   location:
     city: 许昌禹州
@@ -1670,7 +1670,7 @@ sites:
   case_studies: []
   notes: ''
 - id: guo-jia-ancestral-hall
-  name_en: Changling Mausoleum
+  name_en: Guo Jia Ancestral Hall
   name_zh: 郭嘉祠堂
   location:
     city: 许昌禹州
