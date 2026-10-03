@@ -43,6 +43,7 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/qin-mausoleum-1.jpg"  
   case_studies: []
   notes: ''
 - id: qin-shi-huang-emperor-mausoleum-museum
