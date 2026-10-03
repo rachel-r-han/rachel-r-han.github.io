@@ -301,7 +301,76 @@ sidebar:
 .site-card .site-photo-slot {
   border: 1px solid #deded9;
 }
+/* -------------------------------------------------------
+   Database summary cards
+   Refined archival overview
+   ------------------------------------------------------- */
 
+.database-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px;
+  margin: 2.5rem 0 3.2rem;
+}
+
+.database-stat-card {
+  position: relative;
+  min-height: 220px;
+  padding: 1.75rem 1.8rem 1.9rem;
+  background: #fafaf8;
+  border: 1px solid #e2e2de;
+  border-top: 2px solid #8f9394;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.database-stat-label {
+  margin-bottom: 1.4rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #777b7d;
+}
+
+.database-stat-number {
+  margin-bottom: 0.7rem;
+  font-size: 3.9rem;
+  line-height: 0.95;
+  font-weight: 600;
+  color: #34383b;
+}
+
+.database-stat-title {
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  line-height: 1.4;
+  color: #565b5d;
+}
+
+.database-stat-note {
+  margin-top: auto;
+  max-width: 92%;
+  font-size: 0.86rem;
+  line-height: 1.55;
+  color: #85898a;
+}
+
+@media (max-width: 800px) {
+  .database-stats-grid {
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+
+  .database-stat-card {
+    min-height: auto;
+  }
+
+  .database-stat-note {
+    margin-top: 0.6rem;
+  }
+}
 </style>
 
 <div class="archive-intro">
@@ -310,22 +379,35 @@ This database documents historical and heritage sites visited across China throu
 
 </div>
 
-<div class="archive-stats">
 
-<div class="archive-stat">
-<span class="archive-stat-number">75</span>
-<span class="archive-stat-label">Documented Sites</span>
-</div>
+<div class="database-stats-grid">
 
-<div class="archive-stat">
-<span class="archive-stat-number">4</span>
-<span class="archive-stat-label">Site Categories</span>
-</div>
+  <div class="database-stat-card">
+    <div class="database-stat-label">Archive Scale</div>
+    <div class="database-stat-number">75</div>
+    <div class="database-stat-title">documented sites</div>
+    <div class="database-stat-note">
+      Field visits across multiple regions in China.
+    </div>
+  </div>
 
-<div class="archive-stat">
-<span class="archive-stat-number">8</span>
-<span class="archive-stat-label">Research Lenses</span>
-</div>
+  <div class="database-stat-card">
+    <div class="database-stat-label">Site Range</div>
+    <div class="database-stat-number">4</div>
+    <div class="database-stat-title">site categories</div>
+    <div class="database-stat-note">
+      Tombs, museums, landscapes, and memorial spaces.
+    </div>
+  </div>
+
+  <div class="database-stat-card">
+    <div class="database-stat-label">Research Frame</div>
+    <div class="database-stat-number">8</div>
+    <div class="database-stat-title">research lenses</div>
+    <div class="database-stat-note">
+      Ways of observing space, memory, and heritage.
+    </div>
+  </div>
 
 </div>
 
