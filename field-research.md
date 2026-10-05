@@ -267,7 +267,8 @@ margin:30px 0;
 style="
 width:48%;
 aspect-ratio:4/3;
-object-fit:cover;
+object-fit:contain;
+background:#f7f7f4;
 ">
 
 
