@@ -66,6 +66,7 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/QinMuseum-1.JPG"
   case_studies: []
   notes: ''
 - id: shaanxi-history-museum-qin-han-hall
@@ -618,6 +619,7 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Wuhou-1.JPG"
   case_studies: []
   notes: ''
 - id: wuhou-shrine-temple-of-marquis-wu
