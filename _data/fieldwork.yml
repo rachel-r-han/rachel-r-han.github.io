@@ -619,7 +619,6 @@ sites:
     visited: true
     visits: null
     years: []
-  field_photo: "/assets/images/Wuhou-1.JPG"
   case_studies: []
   notes: ''
 - id: wuhou-shrine-temple-of-marquis-wu
@@ -646,6 +645,8 @@ sites:
     visited: true
     visits: null
     years: []
+  visit_date: "2 visits (2023–2025)"
+  field_photo: "/assets/images/Wuhou-1.JPG"
   case_studies: []
   notes: ''
 - id: tomb-of-han-xin
