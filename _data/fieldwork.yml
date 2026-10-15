@@ -569,6 +569,7 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Hubei.jpg"
   case_studies: []
   notes: ''
 - id: red-cliff-site
@@ -595,6 +596,7 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Red Cliff.jpg"
   case_studies: []
   notes: ''
 - id: tomb-of-zhang-qian
@@ -620,6 +622,7 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Zhang Qian.jpg"
   case_studies: []
   notes: ''
 - id: wuhou-shrine-temple-of-marquis-wu
@@ -1051,6 +1054,7 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Yan Zi.jpg"  
   case_studies: []
   notes: ''
 - id: shenyuan-garden
@@ -1306,6 +1310,7 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Great Wall.jpg"
   case_studies: []
   notes: ''
 - id: luoyang-museum
