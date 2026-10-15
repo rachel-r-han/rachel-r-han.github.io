@@ -749,6 +749,7 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Orchid Pavilion.jpg"
   case_studies: []
   notes: ''
 - id: shanghai-museum
@@ -1024,6 +1025,7 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Zhong Yong.jpg"
   case_studies: []
   notes: ''
 - id: tomb-of-yan-zi
