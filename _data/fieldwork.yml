@@ -66,6 +66,7 @@ sites:
     visited: true
     visits: null
     years: []
+  visit_date: "7 visits (2023–2025)"
   field_photo: "/assets/images/QinMuseum-1.JPG"
   case_studies: []
   notes: ''
@@ -88,6 +89,7 @@ sites:
     visited: true
     visits: null
     years: []
+  visit_date: "2 visits (2023–2025)"  
   case_studies: []
   notes: ''
 - id: maoling-mausoleum
@@ -110,6 +112,7 @@ sites:
     visited: true
     visits: null
     years: []
+  visit_date: "Sept 2023"  
   case_studies: []
   notes: ''
 - id: maoling-museum
