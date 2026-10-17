@@ -184,6 +184,7 @@ sites:
     visits: null
     years: []
   field_photo: "/assets/images/Bai Qi-1.jpg"
+  visit_date: "Sept 2023"    
   case_studies: []
   notes: ''
 - id: han-tang-village-han-fei-tomb
@@ -253,6 +254,7 @@ sites:
     visits: null
     years: []
   field_photo: "/assets/images/Li Si-2.jpg"
+  visit_date: "2 visits (2023–2025)"
   case_studies: []
   notes: ''
 - id: zhaoling-mausoleum
