@@ -230,8 +230,8 @@ sites:
     visited: true
     visits: null
     years: []
-  field_photo: "/assets/images/Xianyang Palace Ruins Park and Museum.jpg"
-  visit_date: "May 2026"  
+  field_photo: "/assets/images/Xianyang Museum.jpg"
+  visit_date: "May 2023"  
   case_studies: []
   notes: ''
 - id: tomb-of-li-si
@@ -1849,6 +1849,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Xianyang Palace Ruins Park and Museum.jpg"
+  visit_date: "May 2026" 
   case_studies: []
   notes: ''
 - id: daming-palace-ruins-park-and-museum
