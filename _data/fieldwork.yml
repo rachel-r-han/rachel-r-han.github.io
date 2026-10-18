@@ -277,6 +277,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Zhaoling Mausoleum.jpg"
+  visit_date: "Jul 2024"
   case_studies: []
   notes: ''
 - id: baijuyi-tomb
@@ -301,6 +303,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Bai Juyi.jpg"
+  visit_date: "Jul 2024"
   case_studies: []
   notes: ''
 - id: tomb-of-cao-pi
@@ -327,6 +331,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Cao Pi.jpg"
+  visit_date: "Jul 2024"
   case_studies: []
   notes: ''
 - id: tomb-of-su-shi
@@ -353,6 +359,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Su Shi.jpg"
+  visit_date: "Jul 2024"
   case_studies: []
   notes: ''
 - id: tomb-of-liu-xiu
@@ -379,6 +387,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Liu Xiu.jpg"
+  visit_date: "Jul 2024"
   case_studies: []
   notes: ''
 - id: tomb-of-zhou-yu
@@ -405,6 +415,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Zhou Yu.jpg"
+  visit_date: "4 visits (2023–2026)"
   case_studies: []
   notes: ''
 - id: tomb-of-zhang-liao
@@ -430,6 +442,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Zhang Liao.jpg"
+  visit_date: "2 visits (2023–2025)"
   case_studies: []
   notes: ''
 - id: tomb-of-cao-cao
@@ -455,6 +469,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Cao Cao.jpg"
+  visit_date: "Jun 2025"
   case_studies: []
   notes: ''
 - id: tomb-of-wang-yangming
@@ -481,6 +497,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Wang Yangming.jpg"
+  visit_date: "Mar 2025"
   case_studies: []
   notes: ''
 - id: former-residence-of-wang-yangming
@@ -506,6 +524,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Former Residence of Wang Yangming.jpg"
+  visit_date: "Mar 2025"
   case_studies: []
   notes: ''
 - id: former-residence-of-feng-menglong
@@ -532,6 +552,7 @@ sites:
     visits: null
     years: []
   field_photo: "/assets/images/Feng Menglong-1.jpg"
+  visit_date: "Mar 2025"
   case_studies: []
   notes: ''
 - id: tomb-of-king-fuchai-fuchai-pavilion
@@ -559,6 +580,7 @@ sites:
     visits: null
     years: []
   field_photo: "/assets/images/Fuchai.jpg"
+  visit_date: "Mar 2025"
   case_studies: []
   notes: ''
 - id: hubei-provincial-museum
@@ -584,6 +606,7 @@ sites:
     visits: null
     years: []
   field_photo: "/assets/images/Hubei.jpg"
+  visit_date: "Dec 2025"
   case_studies: []
   notes: ''
 - id: red-cliff-site
@@ -611,6 +634,7 @@ sites:
     visits: null
     years: []
   field_photo: "/assets/images/Red Cliff.jpg"
+  visit_date: "Dec 2025"
   case_studies: []
   notes: ''
 - id: tomb-of-zhang-qian
@@ -637,6 +661,7 @@ sites:
     visits: null
     years: []
   field_photo: "/assets/images/Zhang Qian.jpg"
+  visit_date: "Sept 2025"
   case_studies: []
   notes: ''
 - id: wuhou-shrine-temple-of-marquis-wu
