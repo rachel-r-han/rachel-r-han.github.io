@@ -715,6 +715,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Han Xin.jpg"
+  visit_date: "Sept 2025"  
   case_studies: []
   notes: ''
 - id: forest-of-steles
@@ -767,6 +769,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Quest for Immortality.jpg"
+  visit_date: "Apr 2024" 
   case_studies: []
   notes: ''
 - id: orchid-pavilion
@@ -794,6 +798,7 @@ sites:
     visits: null
     years: []
   field_photo: "/assets/images/Orchid Pavilion.jpg"
+  visit_date: "Apr 2025" 
   case_studies: []
   notes: ''
 - id: shanghai-museum
@@ -819,6 +824,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Shanghai Museum.jpg"
+  visit_date: "Apr 2025" 
   case_studies: []
   notes: ''
 - id: national-museum-of-china
@@ -844,6 +851,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/National Museum of China.jpg"
+  visit_date: "May 2024" 
   case_studies: []
   notes: ''
 - id: hebei-museum
@@ -869,6 +878,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Hebei Museum.jpg"
+  visit_date: "Jun 2025" 
   case_studies: []
   notes: ''
 - id: birthplace-of-qin-shi-huang
@@ -890,6 +901,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Birthplace.jpg"
+  visit_date: "Apr 2024" 
   case_studies: []
   notes: ''
 - id: handan-municipal-museum
@@ -915,6 +928,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Handan Municipal Museum.jpg"
+  visit_date: "Apr 2024" 
   case_studies: []
   notes: ''
 - id: yinxu-museum
@@ -941,6 +956,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Yinxu Museum.jpg"
+  visit_date: "Apr 2024" 
   case_studies: []
   notes: ''
 - id: mogao-caves
@@ -966,6 +983,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Mogao.jpg"
+  visit_date: "Apr 2024" 
   case_studies: []
   notes: ''
 - id: jiayuguan-pass
@@ -991,6 +1010,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Jiayuguan.jpg"
+  visit_date: "Apr 2024" 
   case_studies: []
   notes: ''
 - id: yangguan-pass
@@ -1017,6 +1038,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Yangguan.jpg"
+  visit_date: "Apr 2024" 
   case_studies: []
   notes: ''
 - id: yingtianmen-gate
@@ -1043,6 +1066,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Yingtianmen.jpg"
+  visit_date: "Apr 2024" 
   case_studies: []
   notes: ''
 - id: tomb-of-zhong-yong
@@ -1070,6 +1095,7 @@ sites:
     visits: null
     years: []
   field_photo: "/assets/images/Zhong Yong.jpg"
+  visit_date: "Apr 2025" 
   case_studies: []
   notes: ''
 - id: tomb-of-yan-zi
@@ -1096,6 +1122,7 @@ sites:
     visits: null
     years: []
   field_photo: "/assets/images/Yan Zi.jpg"  
+  visit_date: "Apr 2025" 
   case_studies: []
   notes: ''
 - id: shenyuan-garden
