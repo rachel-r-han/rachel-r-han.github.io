@@ -1799,6 +1799,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Tomb of Guo Jia.jpg"  
+  visit_date: "Jun 2026"
   case_studies: []
   notes: ''
 - id: guo-jia-ancestral-hall
@@ -1824,6 +1826,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Guo Jia Ancestral Hall.jpg"  
+  visit_date: "Jun 2026"
   case_studies: []
   notes: ''
 - id: xianyang-palace-ruins-park-and-museum
@@ -1876,6 +1880,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Daming Palace.jpg"  
+  visit_date: "Jun 2026"
   case_studies: []
   notes: ''
 - id: changling-mausoleum
@@ -1928,6 +1934,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Daxingshan.jpg"  
+  visit_date: "2 visits (2025–2026)"
   case_studies: []
   notes: ''
 - id: xi-an-city-wall
@@ -1953,6 +1961,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/an City Wall.jpg"  
+  visit_date: "4 visits (2023–2025)"
   case_studies: []
   notes: ''
 - id: huiling-mausoleum
@@ -1978,6 +1988,8 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Huiling.jpg"  
+  visit_date: "2 visits (2023–2025)"   
   case_studies: []
   notes: ''
 - id: tomb-of-empress-l
@@ -2003,5 +2015,7 @@ sites:
     visited: true
     visits: null
     years: []
+  field_photo: "/assets/images/Tomb of Empress Lü.jpg"  
+  visit_date: "Jun 2026"   
   case_studies: []
   notes: ''
