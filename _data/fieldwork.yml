@@ -1,7 +1,7 @@
 title: Fieldwork Archive
 description: A longitudinal fieldwork archive documenting historical and heritage
   sites visited across China.
-total_sites: 75
+total_sites: 86
 categories:
 - Tombs & Mausoleums
 - Museums & Collections
@@ -2019,3 +2019,30 @@ sites:
   visit_date: "Jun 2026"   
   case_studies: []
   notes: ''
+- id: yonghe-temple
+   name_en: Yonghe Temple
+   name_zh: 雍和宫
+   location:
+     city: Beijing
+     province: Beijing
+     country: China
+     latitude: 39.9475
+     longitude: 116.4172
+   category:
+     primary: Religious Sites
+     secondary: []
+   period:
+     - Qing Dynasty
+   research_lens:
+     - Spatial Scale
+     - Material Proximity
+     - Historical Memory
+     - Heritage & Conservation
+   field_research:
+     visited: true
+     visits: null
+     years: []
+   field_photo: ""
+   visit_date: ""
+   case_studies: []
+   notes: ""
