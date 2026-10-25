@@ -2020,29 +2020,29 @@ sites:
   case_studies: []
   notes: ''
 - id: yonghe-temple
-   name_en: Yonghe Temple
-   name_zh: 雍和宫
-   location:
-     city: Beijing
-     province: Beijing
-     country: China
-     latitude: 39.9475
-     longitude: 116.4172
-   category:
-     primary: Religious Sites
-     secondary: []
-   period:
-     - Qing Dynasty
-   research_lens:
-     - Spatial Scale
-     - Material Proximity
-     - Historical Memory
-     - Heritage & Conservation
-   field_research:
-     visited: true
-     visits: null
-     years: []
-   field_photo: ""
-   visit_date: ""
-   case_studies: []
-   notes: ""
+  name_en: Yonghe Temple
+  name_zh: 雍和宫
+  location:
+    city: Beijing
+    province: Beijing
+    country: China
+    latitude: 39.9475
+    longitude: 116.4172
+  category:
+    primary: Temples & Religious Sites
+    secondary: []
+  period:
+    - Qing
+  research_lens:
+    - Spatial Scale
+    - Material Proximity
+    - Historical Memory
+    - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  field_photo: ""
+  visit_date: ""
+  case_studies: []
+  notes: ""
