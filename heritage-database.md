@@ -378,7 +378,7 @@ This database documents historical and heritage sites visited across China throu
 
   <div class="database-stat-card">
     <div class="database-stat-label">Archive Scale</div>
-    <div class="database-stat-number">75</div>
+    <div class="database-stat-number">86</div>
     <div class="database-stat-title">documented sites</div>
   </div>
 
@@ -413,7 +413,7 @@ Explore the geographical distribution of my fieldwork sites across China.
 <div id="heritage-map"></div>
 
 <p class="map-note">
-Map visualization based on 75 documented heritage sites in the fieldwork archive.
+Map visualization based on 86 documented heritage sites in the fieldwork archive.
 </p>
 
 ---
