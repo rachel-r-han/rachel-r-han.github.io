@@ -43,7 +43,7 @@ Rather than seeing heritage only as preserved history, I gradually realized that
 # Heritage Database
 
 
-## 75 Heritage Sites Across China
+## 86 Heritage Sites Across China
 
 
 A personal fieldwork archive documenting historical sites, museums, memorial spaces, religious sites, architectural heritage, and cultural landscapes across China.
@@ -68,12 +68,12 @@ Explore Heritage Database
 
 
 <p>
-Browse 75 documented heritage sites across China.
+Browse 86 documented heritage sites across China.
 </p>
 
 
 <a href="/heritage-database/">
-View 75 Sites →
+View 86 Sites →
 </a>
 
 
