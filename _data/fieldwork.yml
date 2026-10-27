@@ -2077,3 +2077,36 @@ sites:
   visit_date: "Oct 2024"
   case_studies: []
   notes: ""
+
+- id: ordos-museum
+  name_en: Ordos Museum
+  name_zh: 鄂尔多斯博物馆
+  location:
+    city: Ordos
+    province: Inner Mongolia
+    country: China
+    latitude: 39.6087
+    longitude: 109.7813
+  category:
+    primary: Museums & Collections
+    secondary:
+      - Natural & Cultural Landscapes
+  period:
+    - Prehistoric
+    - Ancient
+    - Medieval
+    - Modern
+  research_lens:
+    - Narrative Structure
+    - Material Proximity
+    - Historical Memory
+    - Public History
+    - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  field_photo: "/assets/images/Ordos Museum.jpg"
+  visit_date: "July 2023"
+  case_studies: []
+  notes: ""
