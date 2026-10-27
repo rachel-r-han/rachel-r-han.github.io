@@ -2042,7 +2042,38 @@ sites:
     visited: true
     visits: null
     years: []
-  field_photo: ""
-  visit_date: ""
+  field_photo: "/assets/images/Yonghe Temple.jpg"
+  visit_date: "Oct 2025"
+  case_studies: []
+  notes: ""
+
+- id: guangji-temple
+  name_en: Guangji Temple
+  name_zh: 广济寺
+  location:
+    city: Beijing
+    province: Beijing
+    country: China
+    latitude: 39.9236
+    longitude: 116.3661
+  category:
+    primary: Temples & Religious Sites
+    secondary: []
+  period:
+    - Jin
+    - Yuan
+    - Ming
+    - Qing
+  research_lens:
+    - Spatial Scale
+    - Material Proximity
+    - Historical Memory
+    - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  field_photo: "/assets/images/Guangji Temple.jpg"
+  visit_date: "Oct 2024"
   case_studies: []
   notes: ""
