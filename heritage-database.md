@@ -389,7 +389,7 @@ This database documents historical and heritage sites visited across China throu
   </div>
 
   <div class="database-stat-card">
-    <div class="database-stat-label">Research Frame</div>
+    <div class="database-stat-label">Research Focus</div>
     <div class="database-stat-number">8</div>
     <div class="database-stat-title">research lenses</div>
   </div>
