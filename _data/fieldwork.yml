@@ -2134,3 +2134,101 @@ sites:
   visit_date: "July 2023"
   case_studies: []
   notes: ""
+
+
+- id: wang-family-compound
+  name_en: Wang Family Compound
+  name_zh: 王家大院
+  location:
+    city: Jinzhong
+    province: Shanxi
+    country: China
+    latitude: 36.8958
+    longitude: 111.8742
+  category:
+    primary: Palaces, Gates & Urban Heritage
+    secondary:
+      - Natural & Cultural Landscapes
+  period:
+    - Ming
+    - Qing
+  research_lens:
+    - Spatial Scale
+    - Narrative Structure
+    - Material Proximity
+    - Historical Memory
+    - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  field_photo: "/assets/images/Wang Family Compound.jpg"
+  visit_date: "July 2023"
+  case_studies: []
+  notes: ""
+
+- id: yungang-grottoes
+  name_en: Yungang Grottoes
+  name_zh: 云冈石窟
+  location:
+    city: Datong
+    province: Shanxi
+    country: China
+    latitude: 40.1097
+    longitude: 113.1222
+  category:
+    primary: Monuments & Memorial Landscapes
+    secondary:
+      - Temples & Religious Sites
+      - Natural & Cultural Landscapes
+  period:
+    - Northern Wei
+    - Liao
+    - Qing
+  research_lens:
+    - Spatial Scale
+    - Material Proximity
+    - Historical Memory
+    - Memorialization
+    - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  field_photo: "/assets/images/Yungang Grottoes.jpg"
+  visit_date: "July 2023"
+  case_studies: []
+  notes: ""
+
+- id: inner-mongolia-museum
+  name_en: Inner Mongolia Museum
+  name_zh: 内蒙古博物馆
+  location:
+    city: Hohhot
+    province: Inner Mongolia
+    country: China
+    latitude: 40.8401
+    longitude: 111.7581
+  category:
+    primary: Museums & Collections
+    secondary:
+      - Natural & Cultural Landscapes
+  period:
+    - Prehistoric
+    - Ancient
+    - Medieval
+    - Modern
+  research_lens:
+    - Narrative Structure
+    - Material Proximity
+    - Historical Memory
+    - Public History
+    - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  field_photo: "/assets/images/Inner Mongolia Museum.jpg"
+  visit_date: "July 2023"
+  case_studies: []
+  notes: ""
