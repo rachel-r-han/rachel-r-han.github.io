@@ -2213,11 +2213,7 @@ sites:
     primary: Museums & Collections
     secondary:
       - Natural & Cultural Landscapes
-  period:
-    - Prehistoric
-    - Ancient
-    - Medieval
-    - Modern
+  period: *id001
   research_lens:
     - Narrative Structure
     - Material Proximity
@@ -2230,5 +2226,96 @@ sites:
     years: []
   field_photo: "/assets/images/Inner Mongolia Museum.jpg"
   visit_date: "July 2023"
+  case_studies: []
+  notes: ""
+
+- id: guishan-park-prayer-wheel
+  name_en: Guishan Park Giant Prayer Wheel
+  name_zh: 龟山公园转经筒
+  location:
+    city: Shangri-La
+    province: Yunnan
+    country: China
+    latitude: 27.8111
+    longitude: 99.7064
+  category:
+    primary: Temples & Religious Sites
+    secondary:
+      - Monuments & Memorial Landscapes
+      - Natural & Cultural Landscapes
+  period:
+    - Modern
+  research_lens:
+    - Spatial Scale
+    - Emotional Distance
+    - Material Proximity
+    - Historical Memory
+    - Memorialization
+    - Public History
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  field_photo: "/assets/images/Guishan Park Prayer Wheel.jpg"
+  visit_date: "July 2024"
+  case_studies: []
+  notes: ""
+
+- id: national-museum-of-classic-books
+  name_en: National Museum of Classic Books
+  name_zh: 国家典籍博物馆
+  location:
+    city: Beijing
+    province: Beijing
+    country: China
+    latitude: 39.9431
+    longitude: 116.3239
+  category:
+    primary: Museums & Collections
+    secondary: []
+  period: *id001
+  research_lens:
+    - Material Proximity
+    - Narrative Structure
+    - Historical Memory
+    - Public History
+    - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  field_photo: "/assets/images/National Museum of Classic Books.jpg"
+  visit_date: "Nov 2024"
+  case_studies: []
+  notes: ""
+
+
+- id: qin-er-shi-mausoleum
+  name_en: Qin Er Shi Mausoleum Site Museum
+  name_zh: 秦二世陵遗址博物馆
+  location:
+    city: Xi'an
+    province: Shaanxi
+    country: China
+    latitude: 34.1924
+    longitude: 108.9840
+  category:
+    primary: Monuments & Memorial Landscapes
+    secondary:
+      - Museums & Collections
+  period: *id001
+  research_lens:
+    - Spatial Scale
+    - Narrative Structure
+    - Historical Memory
+    - Memorialization
+    - Public History
+    - Heritage & Conservation
+  field_research:
+    visited: true
+    visits: null
+    years: []
+  field_photo: "/assets/images/Qin Er Shi Mausoleum.jpg"
+  visit_date: "May 2024"
   case_studies: []
   notes: ""
